@@ -1,5 +1,11 @@
-## First page
+---
+layout: default
+---
 
-_test_
 
-[back](./)
+## News
+
+_Jurassic Jaws Jones_ is forthcoming from Nature Futures.
+
+
+<!--[back](./)-->
