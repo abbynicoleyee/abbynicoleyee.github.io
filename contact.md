@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Contact
+weight: 5
 ---
 
 Contact

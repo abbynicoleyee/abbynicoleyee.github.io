@@ -2,10 +2,6 @@
 layout: default
 ---
 
-
-## News
-
-_Jurassic Jaws Jones_ is forthcoming from Nature Futures.
-
+This page left mostly blank on purpose.
 
 <!--[back](./)-->

@@ -447,4 +447,61 @@ footer {
     font-size: 12pt;
     color: #444; } }
 h1, h2 {
-  font-family: 'Lora', serif; }
+  font-family: 'Crimson Text', serif; }
+
+h1 a {
+  color: #393939; }
+
+a {
+  color: #393939; }
+
+p {
+  margin: 10px 0; }
+
+.theorem {
+  display: block;
+  margin: 12px 0;
+  padding: 8px 15px;
+  background: #f8f8f8;
+  border-radius: 5px;
+  border: 1px solid #e5e5e5;
+  overflow-x: auto; }
+
+.theorem:before {
+  counter-increment: thm;
+  content: "Theorem " counter(thm) ". ";
+  font-weight: bold;
+  font-style: normal; }
+
+.lemma {
+  display: block;
+  margin: 12px 0;
+  font-style: italic; }
+
+.lemma:before {
+  content: "Lemma.";
+  font-weight: bold;
+  font-style: normal; }
+
+.proof {
+  display: block;
+  margin: 12px 0;
+  font-style: normal; }
+
+.proof:before {
+  content: "Proof.";
+  font-style: italic; }
+
+.proof:after {
+  content: "\25FC";
+  float: right; }
+
+.definition {
+  display: block;
+  margin: 12px 0;
+  font-style: normal; }
+
+.definition:before {
+  content: "Definition.";
+  font-weight: bold;
+  font-style: normal; }
