@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ site.title | default: site.github.repository_name }}</title>
     <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
@@ -20,10 +21,13 @@
       <header>
         <h1><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
+<br>
 {% assign pages = site.pages | sort:"weight"  %}
 	{% for p in pages %}
-	<p><a href="{{ p.url }}">{{ p.title }}</a>
+	<p>{% if page.url != p.url %}
+    <a href="{{ p.url }}">{% endif %} <div class="menuitem">
+      {{ p.title }}</div>
+      {% if page.url != p.url %}</a>{% endif %}
 	</p>
 	{% endfor %}
 	<!--<p><a href="thoughts">Thoughts</a></p>-->

@@ -446,14 +446,28 @@ footer {
     padding: 0.4in;
     font-size: 12pt;
     color: #444; } }
-h1, h2 {
-  font-family: 'Crimson Text', serif; }
+body {
+  background-color: #fff;
+  padding: 50px;
+  /*font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font: 16px/1.5 "Crimson Text";
+  color: #595959;
+  font-weight: 400; }
+
+.menuitem {
+  font-family: "Noto Sans", "Helvetica Neue", Helvetica, sans-serif; }
+
+h1 {
+  font-family: "Crimson Text"; }
+
+h2 {
+  font-family: 'Noto Sans', "Helvetica Neue", Helvetica, sans-serif; }
 
 h1 a {
-  color: #393939; }
+  color: #222; }
 
 a {
-  color: #393939; }
+  color: #222; }
 
 p {
   margin: 10px 0; }
