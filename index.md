@@ -2,6 +2,6 @@
 layout: default
 ---
 
-This page left mostly blank on purpose.
+This page left mostly blank intentionally until I decide what to do with it.
 
 <!--[back](./)-->
