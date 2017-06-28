@@ -1,4 +1,5 @@
 ---
+exclude: true
 ---
 
 @import "{{ site.theme }}";
@@ -11,17 +12,49 @@ body {
   color: #595959;
   font-weight: 400; }
 
+@media print, screen and (max-width: 960px) {
+    .menuitem{
+        /*float: left;*/
+    }
+    #divider{
+        clear: both;
+        padding: 20px;
+    }
+    #logo{
+        text-align: center;
+    }
+#menu {
+    width: 100%;
+    text-align: justify;
+}
+.menuitem {
+    /*width: 10px;*/
+    display: inline-block;
+    vertical-align: top;
+
+}
+#menu:after {
+    content: "";
+    width: 100%;
+    display: inline-block;
+}
+
+}
+
 .menuitem{
-  font-family: "Noto Sans", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: 'Dosis', "Helvetica Neue", Helvetica, sans-serif;
+  font-weight:400;
 }
 
 h1{
-    font-family: "Crimson Text";
+    font-family: "Dosis";
 }
 
 h2 {
-font-family: 'Noto Sans', "Helvetica Neue", Helvetica, sans-serif;
+font-family: 'Dosis', "Helvetica Neue", Helvetica, sans-serif;
+font-weight: 500;
 }
+
 
 h1 a{
 	color: #222;
