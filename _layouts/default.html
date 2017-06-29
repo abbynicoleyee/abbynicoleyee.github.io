@@ -19,7 +19,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1 id="logo"><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 id="logo"><a href="/" style="text-decoration: none;">{{ site.title | default: site.github.repository_name }}</a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 <div id="menu">
 {% assign pages = site.pages | sort:"weight"  %}
