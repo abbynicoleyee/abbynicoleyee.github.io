@@ -7,6 +7,8 @@ weight: 1
 Stories
 -------
 
+Cast Off Tight, forthcoming in Fireside<br>
+
 <a href="https://seat14c.com/future_ideas/15F" target="_blank">The Noctilucent Paradox in E Minor</a>, Seat 14c (2017)<br>
 *Are there robot cellists now?*
 
