@@ -79,10 +79,7 @@
     if (hrefLead != '.' && hrefLead != '#' && hrefLead != '/') {
       /* strip the protocol, because it's wasted space */
       var hrefNoProtocol = href.replace(/http[s]?:\/\//, '');
-      ga('send', 'pageview', {
-        /* register the outgoing link as '/out/[outgoing link]' */
-        'page': 'out/'+hrefNoProtocol
-      });
+      ga('send', 'event', 'outbound', 'click',hrefNoProtocol);
     }
   });
 });
