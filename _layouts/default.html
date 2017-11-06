@@ -66,23 +66,34 @@
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
         })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-	var a = document.getElementsByTagName('a');
-	for(i = 0; i < a.length; i++){
-	if (a[i].href.indexOf(location.host) == -1 && a[i].href.match(/^http:///i)){
-	  a[i].onclick = function(){
-	    var url=this.href;
-	    ga('send', 'event', 'outbound', 'click', url, {
-              'transport': 'beacon',
-              'hitCallback': function(){document.location = url;}
-            });
-	  }
- 
-	    
-	    
-	}
-	}
+/* Catch any outbound links, register them with Google Analytics. 
+   Outbound links will be displayed in your analytics account as 'out/[outbound url]'.
+   Copyright (c) 2013, Leigh McCulloch
+   All Rights Reserved
+   License: BSD-2-Clause (http://opensource.org/licenses/BSD-2-Clause) */
+$(function(){
+  $('a:not([href*="' + document.domain + '"])').click(function(event){
+    /* get all the info from the link */
+    var anchor = $(this);
+    var href = anchor.attr('href');
+    /* check that the link isn't a relative link */
+    var hrefLead = href.charAt(0);
+    if (hrefLead != '.' && hrefLead != '#' && hrefLead != '/') {
+      /* stop the browser redirecting away, we'll do it manually after the hit is registered with Google */
+      event.preventDefault();
+      /* strip the protocol, because it's wasted space */
+      var hrefNoProtocol = href.replace(/http[s]?:\/\//, '');
+      ga('send', 'pageview', {
+        /* register the outgoing link as '/out/[outgoing link]' */
+        'page': 'out/'+hrefNoProtocol,
+        /* only when we've finished registering the link click, send the user to the link they clicked on */
+        'hitCallback': function() {
+          document.location = href;
+        }
+      });
+    }
+  });
+});
     </script>
   {% endif %}
   </body>
