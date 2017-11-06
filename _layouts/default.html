@@ -68,7 +68,24 @@
 
         ga('create', '{{ site.google_analytics }}', 'auto');
         ga('send', 'pageview');	    
-	    
+
+	$(function(){
+  $('a:not([href*="' + document.domain + '"])').click(function(event){
+    /* get all the info from the link */
+    var anchor = $(this);
+    var href = anchor.attr('href');
+    /* check that the link isn't a relative link */
+    var hrefLead = href.charAt(0);
+    if (hrefLead != '.' && hrefLead != '#' && hrefLead != '/') {
+      /* strip the protocol, because it's wasted space */
+      var hrefNoProtocol = href.replace(/http[s]?:\/\//, '');
+      ga('send', 'pageview', {
+        /* register the outgoing link as '/out/[outgoing link]' */
+        'page': 'out/'+hrefNoProtocol
+      });
+    }
+  });
+});
     </script>
   {% endif %}
   </body>
