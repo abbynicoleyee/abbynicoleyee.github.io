@@ -10,6 +10,7 @@ Stories
 
 ### Shorter
 
+Swallow, forthcoming in Uncanny<br>
 
 <a href="https://storyseedvault.com/2017/08/16/46/" target="_blank">Tattooed Helix</a>, Story Seed Vault (2017)<br>
 
