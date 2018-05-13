@@ -10,6 +10,8 @@ Stories
 
 ### Shorter
 
+cardioid, forthcoming in Uncanny<br>
+
 <a href="https://uncannymagazine.com/article/swallow/" target="_blank">Swallow</a>, Uncanny (2018)<br>
 
 <a href="https://storyseedvault.com/2017/08/16/46/" target="_blank">Tattooed Helix</a>, Story Seed Vault (2017)<br>
@@ -21,6 +23,7 @@ Stories
 
 ### Longer
 
+But for Grace, forthcoming in If This Goes On<br>
 
 Cast Off Tight, forthcoming in Fireside<br>
 
