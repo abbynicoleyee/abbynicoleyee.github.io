@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>Hal Y. Zhang</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Dosis:300,400,500" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
@@ -38,6 +39,10 @@
         <p></p>
 <div id="menu">
 
+	
+  
+	
+  
 	
   
 	
@@ -101,7 +106,22 @@
         })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
         ga('create', 'UA-101186181-1', 'auto');
-        ga('send', 'pageview');
+        ga('send', 'pageview');	    
+
+	$(function(){
+  $('a:not([href*="' + document.domain + '"])').click(function(event){
+    /* get all the info from the link */
+    var anchor = $(this);
+    var href = anchor.attr('href');
+    /* check that the link isn't a relative link */
+    var hrefLead = href.charAt(0);
+    if (hrefLead != '.' && hrefLead != '#' && hrefLead != '/') {
+      /* strip the protocol, because it's wasted space */
+      var hrefNoProtocol = href.replace(/http[s]?:\/\//, '');
+      ga('send', 'event', 'outbound', 'click',hrefNoProtocol);
+    }
+  });
+});
     </script>
   
   </body>
