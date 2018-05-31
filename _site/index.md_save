@@ -63,8 +63,9 @@
   
 	 <div class="menuitem">
     
+    <a href="/sketches.html">
       Sketches
-      
+      </a>
     </div>
       
 	
@@ -86,11 +87,9 @@
       <div id="divider"></div>
       <section>
 
-      <h2 id="sketches">Sketches</h2>
+      This page left mostly blank intentionally until I decide what to do with it.
 
-<p><img src="assets/cuddlefish.png" alt="cuddlefish" /></p>
-
-<p>The cuddlefish, unlike their homophonic nautical cousins, only exist in a state of entanglement.</p>
+<!--[back](./)-->
 
 
       </section>

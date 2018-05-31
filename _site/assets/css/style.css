@@ -567,13 +567,16 @@ p {
 .title {
   font-size: 1.1em; }
 
-.date {
+.date, .wc {
   margin-top: -10px;
   top: 50%;
   left: -158px;
   font-size: 0.95em;
   line-height: 20px;
   position: absolute; }
+
+.wc {
+  visibility: hidden; }
 
 .circle {
   margin-top: -10px;
