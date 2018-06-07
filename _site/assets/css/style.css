@@ -454,6 +454,9 @@ body {
   color: #595959;
   font-weight: 400; }
 
+a:hover {
+  font-weight: 400; }
+
 @media print, screen and (max-width: 960px) {
   .menuitem {
     /*float: left;*/ }

@@ -98,11 +98,13 @@ short story
 </ul>
 
 
-### Coming next...
+### What's next?
+
+Seraphima, forthcoming in Liminality<br>
 
 cardioid, forthcoming in Uncanny<br>
 
-But for Grace, forthcoming in If This Goes On<br>
+But for Grace, forthcoming in [If This Goes On](https://www.kickstarter.com/projects/1022337672/if-this-goes-on-political-sf-anthology){:target="_blank"}
 
-Cast Off Tight, forthcoming in Fireside<br>
+Cast Off Tight, forthcoming in Fireside
 

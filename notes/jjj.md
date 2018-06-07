@@ -20,4 +20,4 @@ About the ordering of fields in the story: I think it’s much harder for a neur
 
 The only hard part of writing <em>JJJ</em> was coming up with a title. Then I thought of Spielberg movies: I would totally watch Indiana Jones shoot Jaws while punching a T-Rex in the face. Get on it, computer scientists.
 
-[Back to Stories](/stories.html)
+[Back to Stories](/)
