@@ -449,13 +449,15 @@ footer {
 body {
   background-color: #fff;
   padding: 50px;
-  /*font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
   font: 16px/1.5 "Crimson Text";
   color: #595959;
   font-weight: 400; }
 
 a:hover {
   font-weight: 400; }
+
+pre {
+  font: 16px/1.5 "Crimson Text"; }
 
 @media print, screen and (max-width: 960px) {
   .menuitem {
@@ -489,13 +491,27 @@ a:hover {
   text-decoration: none; }
 
 h1 {
-  font-family: "Dosis"; }
+  font-family: 'Dosis', "Helvetica Neue", Helvetica, sans-serif; }
+
+h2 {
+  font-family: 'Dosis', "Helvetica Neue", Helvetica, sans-serif; }
+
+h3 {
+  font-family: 'Dosis', "Helvetica Neue", Helvetica, sans-serif; }
+
+h4 {
+  font-family: 'Dosis', "Helvetica Neue", Helvetica, sans-serif; }
+
+h5 {
+  font-family: 'Dosis', "Helvetica Neue", Helvetica, sans-serif; }
+
+h6 {
+  font-family: 'Dosis', "Helvetica Neue", Helvetica, sans-serif; }
 
 #logo {
   text-decoration: none; }
 
 h2 {
-  font-family: 'Dosis', "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 500; }
 
 h1 a {
@@ -504,9 +520,6 @@ h1 a {
 a {
   color: #222;
   text-decoration: underline; }
-
-p {
-  margin: 10px 0; }
 
 .theorem {
   display: block;
@@ -563,22 +576,24 @@ p {
   border-left: 8px solid #eee9dc; }
 
 #timeline li {
-  min-height: 80px;
+  /*min-height:80px;*/
   margin: 0;
   position: relative; }
 
 .title {
   font-size: 1.1em; }
 
-.date, .wc {
+.date, .wc, .color {
   margin-top: -10px;
   top: 50%;
   left: -158px;
+  width: 100px;
+  text-align: right;
   font-size: 0.95em;
   line-height: 20px;
   position: absolute; }
 
-.wc {
+.wc, .color {
   visibility: hidden; }
 
 .circle {
@@ -597,6 +612,7 @@ p {
   top: 5px;
   /*padding: 20px 10px 20px 0;*/
   padding-left: 6px;
+  padding-right: 6px;
   left: -5px;
   border-width: 2px;
   border-style: solid;
@@ -638,11 +654,18 @@ p {
   text-decoration: none; }
 
 label {
-  font-size: 1.1em;
+  padding: 0 5px;
+  /*font-size: 1.1em;
   position: absolute;
   z-index: 100;
-  margin: 30px 10px 0 0;
-  /*transition: transform 0.2s linear;*/ }
+  margin: 30px 10px 0 0;*/
+  /*transition: transform 0.2s linear;*/
+  cursor: pointer;
+  border-radius: 5px; }
+
+input[type="radio"]:checked + label {
+  background-color: #000;
+  color: #fff; }
 
 .radio {
   display: none; }
@@ -671,15 +694,6 @@ label {
 
   #timeline li {
     margin: 5px 0; }
-
-  label {
-    width: 85%;
-    font-size: 1.1em;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    display: block;
-    /*transform: translateX(18px);*/ }
 
   .content {
     padding-top: 0px;

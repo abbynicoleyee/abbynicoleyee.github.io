@@ -1,65 +1,101 @@
 ---
 layout: default
-title: Stories
+title: Words
 weight: 1
 ---
 
-Stories
+Words
 -------
 
+Sort by <input type="radio" name="sort" class="radio" id="recency" checked><label for='recency' onclick='sortdate();'>recency</label>
+<input type="radio" name="sort" id='verbosity' class="radio"><label for='verbosity' onclick='sortwc();'>verbosity</label>
+<input type="radio" name="sort" id='wavelength' class="radio"><label for='wavelength' onclick='sortcolor();'>color</label>
 
-Sort by <button onclick='sortdate();'>Time</button> <button onclick='sortwc();'>Words</button>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
 <script>
 
-function sortUsingNestedText(parent, childSelector, keySelector,isint) {
+function sortUsingNestedText(parent, childSelector, keySelector,isdate) {
     var items = parent.children(childSelector).sort(function(a, b) {
-    	if(isint){
-    		var vA = parseInt($(keySelector, a).text());
-        	var vB = parseInt($(keySelector, b).text());
+    	if(isdate){
+    		var vA = $(keySelector, a).attr('id');
+        var vB = $(keySelector, b).attr('id');
+        console.log(vA);
     	} else {
-        var vA = $(keySelector, a).text();
-        var vB = $(keySelector, b).text();
+        var vA = parseInt($(keySelector, a).text());
+        var vB = parseInt($(keySelector, b).text());
     }
         return (vA > vB) ? -1 : (vA < vB) ? 1 : 0;
+      
     });
     parent.append(items);
 }
 
 
-
 function sortwc(){
-sortUsingNestedText($('#timeline'),"li","span.wc",true);
+sortUsingNestedText($('#timeline'),"li","span.wc",false);
   $('.date').css("visibility", "hidden");
   $('.wc').css("visibility", "visible");
+  $('.color').css("visibility", "hidden");
+  $('.content').removeAttr('style');
+  $("a").removeAttr('style');
 }
 function sortdate(){
-sortUsingNestedText($('#timeline'),"li","span.date",false);
+sortUsingNestedText($('#timeline'),"li","span.date",true);
   $('.wc').css("visibility", "hidden");
   $('.date').css("visibility", "visible");
+  $('.color').css("visibility", "hidden");
+  $('.content').removeAttr('style');
+  $("a").removeAttr('style');
+}
+
+function sortcolor(){
+sortUsingNestedText($('#timeline'),"li","span.color",true);
+  $('.date').css("visibility", "hidden");
+  $('.wc').css("visibility", "hidden");
+  $('.date').css("visibility", "hidden");
+  $('.color').css("visibility", "visible");
+  $('.color').each(function() {
+    var bgcolor=this.id.split("color")[1];
+    $(this).css("color", "#" + bgcolor);
+    $(this).siblings("div").css("background-color", "#" + bgcolor);
+    $(this).siblings("div").css("color", "#fff");
+    $(this).siblings("div").find("a").css("color", "#fff");
+});
+  
+  $('.wc').css("visibility", "hidden");
 }
 </script>
 
-
-
 <ul id='timeline'>
+
+<li class='work'>
+<span class='date' id='2018-06'>June 2018</span><span class='wc'>3200</span><span class='color' id="405color6e1c71">frayed purple</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+short story
+</p>
+<span class='title'><a href="https://firesidefiction.com/cast-off-tight" target="_blank">Cast Off Tight</a>, Fireside</span>
+<p><em><a href="notes/castofftight">It is all an accident.</a></em></p>
+</div>
+</li>
 
 
 <li class='work'>
-<span class='date'>2018/3</span><span class='wc'>100</span>
+<span class='date' id='2018-03'>March 2018</span><span class='wc'>100</span><span class='color' id="590colorF5A07B">keen peach</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
 poem
 </p>
 <span class='title'><a href="https://uncannymagazine.com/article/swallow/" target="_blank">Swallow</a>, Uncanny</span>
-<p><em><a href="notes/swallow.html">At night we dream of falling.</a></em></p>
+<p><em><a href="notes/swallow">At night we dream of falling.</a></em></p>
 </div>
 </li>
 
 <li class='work'>
-<span class='date'>2017/9</span><span class='wc'>4000</span>
+<span class='date' id='2017-09'>September 2017</span><span class='wc'>4000</span><span class='color' id="422color00BFFF">clear sky blue</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -72,7 +108,7 @@ short story
 
 
 <li class='work'>
-<span class='date'>2017/8</span><span class='wc'>24</span>
+<span class='date' id='2017-08'>August 2017</span><span class='wc'>24</span><span class='color' id="532color008000">gene green</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -84,7 +120,7 @@ microfiction
 </li>
 
 <li class='work'>
-<span class='date'>2017/6</span><span class='wc'>1000</span>
+<span class='date' id='2017-06'>June 2017</span><span class='wc'>1000</span><span class='color' id="600colorFF9900">fused orange</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -98,13 +134,9 @@ short story
 </ul>
 
 
-### What's next?
+### Forthcoming
 
-Seraphima, forthcoming in Liminality<br>
-
-cardioid, forthcoming in Uncanny<br>
-
-But for Grace, forthcoming in [If This Goes On](https://www.kickstarter.com/projects/1022337672/if-this-goes-on-political-sf-anthology){:target="_blank"}
-
-Cast Off Tight, forthcoming in Fireside
-
+* But for Grace, to appear in [If This Goes On](https://www.kickstarter.com/projects/1022337672/if-this-goes-on-political-sf-anthology){:target="_blank"}
+* Seraphima, to appear in Liminality<br>
+* cardioid, to appear in Uncanny<br>
+* Peripheral #13, to appear in Martian<br>

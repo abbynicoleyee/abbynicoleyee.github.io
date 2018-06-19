@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Sketches
+title: Wires
 weight: 2
 ---
 
-Sketches
+Wires
 -------
 
 ![cuddlefish](assets/cuddlefish.png)
