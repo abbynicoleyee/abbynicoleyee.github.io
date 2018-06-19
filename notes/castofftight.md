@@ -7,7 +7,7 @@ exclude: true
 Author's Notes: Cast Off Tight
 -------
 
-<a href="" target="_blank">Read the story first!</a>
+<a href="https://firesidefiction.com/cast-off-tight" target="_blank">Read the story first!</a>
 
 July 12-31, 2017 
 
