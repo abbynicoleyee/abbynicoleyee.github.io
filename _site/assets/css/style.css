@@ -586,8 +586,8 @@ a {
 .date, .wc, .color {
   margin-top: -10px;
   top: 50%;
-  left: -158px;
-  width: 100px;
+  left: -175px;
+  width: 120px;
   text-align: right;
   font-size: 0.95em;
   line-height: 20px;
@@ -609,7 +609,7 @@ a {
   position: absolute; }
 
 .content {
-  top: 5px;
+  /*top: 5px;*/
   /*padding: 20px 10px 20px 0;*/
   padding-left: 6px;
   padding-right: 6px;
@@ -704,5 +704,5 @@ input[type="radio"]:checked + label {
     height: 0;
     border: none; }
 
-  .circle, .date {
+  .circle, .date, .color, .wc {
     display: none; } }

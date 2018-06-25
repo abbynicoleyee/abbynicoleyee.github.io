@@ -112,7 +112,6 @@ function sortUsingNestedText(parent, childSelector, keySelector,isdate) {
     	if(isdate){
     		var vA = $(keySelector, a).attr('id');
         var vB = $(keySelector, b).attr('id');
-        console.log(vA);
     	} else {
         var vA = parseInt($(keySelector, a).text());
         var vB = parseInt($(keySelector, b).text());
@@ -149,10 +148,18 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
   $('.color').css("visibility", "visible");
   $('.color').each(function() {
     var bgcolor=this.id.split("color")[1];
-    $(this).css("color", "#" + bgcolor);
+    $(this).css("text-decoration", "underline #" + bgcolor);
     $(this).siblings("div").css("background-color", "#" + bgcolor);
-    $(this).siblings("div").css("color", "#fff");
-    $(this).siblings("div").find("a").css("color", "#fff");
+    //$(this).css("background-color","#" + bgcolor);
+    if($(this).hasClass("colordark")){
+      console.log("colordark");
+      $(this).siblings("div").css("color", "#000");
+      $(this).siblings("div").find("a").css("color", "#000");
+    } else{
+      $(this).siblings("div").css("color", "#fff");
+      $(this).siblings("div").find("a").css("color", "#fff");
+    }
+    
 });
   
   $('.wc').css("visibility", "hidden");
@@ -160,9 +167,21 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 </script>
 
 <ul id="timeline">
+<li class="work">
+<span class="date" id="2018-06-29">June 2018</span><span class="wc">190</span><span class="color colordark" id="550colorFFE600">blinding sunbeam</span>
+<span class="circle"></span>
+<div class="content">
+<p style="visibility: visible;">
+poem
+</p>
+<span class="title"><a href="http://www.liminalitypoetry.com/issue-16-summer-2018/seraphima/" target="_blank">Seraphima</a>, Liminality</span>
+<p><em><a href="notes/seraphima">I did not know it would hurt this much to turn into an angel.</a></em></p>
+</div>
+</li>
+
 
 <li class="work">
-<span class="date" id="2018-06">June 2018</span><span class="wc">3200</span><span class="color" id="405color6e1c71">frayed purple</span>
+<span class="date" id="2018-06-19">June 2018</span><span class="wc">3200</span><span class="color colordark" id="405color8484ff">frayed periwinkle</span>
 <span class="circle"></span>
 <div class="content">
 <p style="visibility: visible;">
@@ -175,7 +194,7 @@ short story
 
 
 <li class="work">
-<span class="date" id="2018-03">March 2018</span><span class="wc">100</span><span class="color" id="590colorF5A07B">keen peach</span>
+<span class="date" id="2018-03">March 2018</span><span class="wc">100</span><span class="color colordark" id="540colorFECC99">keen peach</span>
 <span class="circle"></span>
 <div class="content">
 <p style="visibility: visible;">
@@ -187,7 +206,7 @@ poem
 </li>
 
 <li class="work">
-<span class="date" id="2017-09">September 2017</span><span class="wc">4000</span><span class="color" id="422color00BFFF">clear sky blue</span>
+<span class="date" id="2017-09">September 2017</span><span class="wc">4000</span><span class="color colordark" id="422color32cbff">clear sky blue</span>
 <span class="circle"></span>
 <div class="content">
 <p style="visibility: visible;">
@@ -200,7 +219,7 @@ short story
 
 
 <li class="work">
-<span class="date" id="2017-08">August 2017</span><span class="wc">24</span><span class="color" id="532color008000">gene green</span>
+<span class="date" id="2017-08">August 2017</span><span class="wc">24</span><span class="color colordark" id="532color66b266">gene green</span>
 <span class="circle"></span>
 <div class="content">
 <p style="visibility: visible;">
@@ -212,7 +231,7 @@ microfiction
 </li>
 
 <li class="work">
-<span class="date" id="2017-06">June 2017</span><span class="wc">1000</span><span class="color" id="600colorFF9900">fused orange</span>
+<span class="date" id="2017-06">June 2017</span><span class="wc">1000</span><span class="color colordark" id="600colorFF9900">fused orange</span>
 <span class="circle"></span>
 <div class="content">
 <p style="visibility: visible;">
@@ -228,10 +247,10 @@ short story
 <h3 id="forthcoming">Forthcoming</h3>
 
 <ul>
-  <li>But for Grace, to appear in <a href="https://www.kickstarter.com/projects/1022337672/if-this-goes-on-political-sf-anthology" target="_blank">If This Goes On</a></li>
-  <li>Seraphima, to appear in Liminality<br /></li>
-  <li>cardioid, to appear in Uncanny<br /></li>
-  <li>Peripheral #13, to appear in Martian<br /></li>
+  <li>But for Grace to appear in <a href="https://www.kickstarter.com/projects/1022337672/if-this-goes-on-political-sf-anthology" target="_blank">If This Goes On</a></li>
+  <li>cardioid to appear in Uncanny<br /></li>
+  <li>Peripheral #13 to appear in Martian<br /></li>
+  <li>The Quantum Robin to appear in Story Seed Vault<br /></li>
 </ul>
 
 
