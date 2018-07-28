@@ -113,7 +113,6 @@ function sortUsingNestedText(parent, childSelector, keySelector,isdate) {
     	if(isdate){
     		var vA = $(keySelector, a).attr('id');
         var vB = $(keySelector, b).attr('id');
-        console.log(vA);
     	} else {
         var vA = parseInt($(keySelector, a).text());
         var vB = parseInt($(keySelector, b).text());
@@ -150,10 +149,18 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
   $('.color').css("visibility", "visible");
   $('.color').each(function() {
     var bgcolor=this.id.split("color")[1];
-    $(this).css("color", "#" + bgcolor);
+    $(this).css("text-decoration", "underline #" + bgcolor);
     $(this).siblings("div").css("background-color", "#" + bgcolor);
-    $(this).siblings("div").css("color", "#fff");
-    $(this).siblings("div").find("a").css("color", "#fff");
+    //$(this).css("background-color","#" + bgcolor);
+    if($(this).hasClass("colordark")){
+      console.log("colordark");
+      $(this).siblings("div").css("color", "#000");
+      $(this).siblings("div").find("a").css("color", "#000");
+    } else{
+      $(this).siblings("div").css("color", "#fff");
+      $(this).siblings("div").find("a").css("color", "#fff");
+    }
+    
 });
   
   $('.wc').css("visibility", "hidden");
@@ -161,65 +168,77 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 </script>
 
 <ul id="timeline">
+<li class="work">
+<span class="date" id="2018-06-29">June 2018</span><span class="wc">190</span><span class="color colordark" id="550colorFFE600">blinding sunbeam</span>
+<span class="circle"></span>
+<div class="content">
+<p style="visibility: visible;">
+poem
+</p>
+<span class="title"><a href="http://www.liminalitypoetry.com/issue-16-summer-2018/seraphima/">Seraphima</a>, Liminality</span>
+<p><em><a href="notes/seraphima">I did not know it would hurt this much to turn into an angel.</a></em></p>
+</div>
+</li>
+
 
 <li class="work">
-<span class="date" id="2018-06">June 2018</span><span class="wc">3200</span><span class="color" id="405color6600ff">frayed violet</span>
+<span class="date" id="2018-06-19">June 2018</span><span class="wc">3200</span><span class="color colordark" id="405color8484ff">frayed periwinkle</span>
 <span class="circle"></span>
 <div class="content">
 <p style="visibility: visible;">
 short story
 </p>
-<span class="title"><a href="https://firesidefiction.com/cast-off-tight" target="_blank">Cast Off Tight</a>, Fireside</span>
+<span class="title"><a href="https://firesidefiction.com/cast-off-tight">Cast Off Tight</a>, Fireside</span>
 <p><em><a href="notes/castofftight">It is all an accident.</a></em></p>
 </div>
 </li>
 
 
 <li class="work">
-<span class="date" id="2018-03">March 2018</span><span class="wc">100</span><span class="color" id="590colorF5A07B">keen peach</span>
+<span class="date" id="2018-03">March 2018</span><span class="wc">100</span><span class="color colordark" id="540colorFECC99">keen peach</span>
 <span class="circle"></span>
 <div class="content">
 <p style="visibility: visible;">
 poem
 </p>
-<span class="title"><a href="https://uncannymagazine.com/article/swallow/" target="_blank">Swallow</a>, Uncanny</span>
+<span class="title"><a href="https://uncannymagazine.com/article/swallow/">Swallow</a>, Uncanny</span>
 <p><em><a href="notes/swallow">At night we dream of falling.</a></em></p>
 </div>
 </li>
 
 <li class="work">
-<span class="date" id="2017-09">September 2017</span><span class="wc">4000</span><span class="color" id="422color00BFFF">clear sky blue</span>
+<span class="date" id="2017-09">September 2017</span><span class="wc">4000</span><span class="color colordark" id="422color32cbff">clear sky blue</span>
 <span class="circle"></span>
 <div class="content">
 <p style="visibility: visible;">
 short story
 </p>
-<span class="title"><a href="https://seat14c.com/future_ideas/15F" target="_blank">The Noctilucent Paradox in E Minor</a>, Seat 14c</span>
+<span class="title"><a href="https://seat14c.com/future_ideas/15F">The Noctilucent Paradox in E Minor</a>, Seat 14c</span>
 <p><em>The cello is her voice box and she lets it out.</em></p>
 </div>
 </li>
 
 
 <li class="work">
-<span class="date" id="2017-08">August 2017</span><span class="wc">24</span><span class="color" id="532color008000">gene green</span>
+<span class="date" id="2017-08">August 2017</span><span class="wc">24</span><span class="color colordark" id="532color66b266">gene green</span>
 <span class="circle"></span>
 <div class="content">
 <p style="visibility: visible;">
 microfiction
 </p>
-<span class="title"><a href="https://storyseedvault.com/2017/08/16/46/" target="_blank">Tattooed Helix</a>, Story Seed Vault</span>
+<span class="title"><a href="https://storyseedvault.com/2017/08/16/46/">Tattooed Helix</a>, Story Seed Vault</span>
 <p><em>When her allergies flare...</em></p>
 </div>
 </li>
 
 <li class="work">
-<span class="date" id="2017-06">June 2017</span><span class="wc">1000</span><span class="color" id="600colorFF9900">fused orange</span>
+<span class="date" id="2017-06">June 2017</span><span class="wc">1000</span><span class="color colordark" id="600colorFF9900">fused orange</span>
 <span class="circle"></span>
 <div class="content">
 <p style="visibility: visible;">
 short story
 </p>
-<span class="title"><a href="https://www.nature.com/nature/journal/v546/n7660/full/546696a.html" target="_blank">Jurassic Jaws Jones</a>, Nature</span>
+<span class="title"><a href="https://www.nature.com/nature/journal/v546/n7660/full/546696a.html">Jurassic Jaws Jones</a>, Nature</span>
 <p><em>So you want to be an actor, huh?</em></p>
 </div>
 </li>
@@ -229,10 +248,11 @@ short story
 <h3 id="forthcoming">Forthcoming</h3>
 
 <ul>
-  <li>But for Grace, to appear in <a href="https://www.kickstarter.com/projects/1022337672/if-this-goes-on-political-sf-anthology" target="_blank">If This Goes On</a></li>
-  <li>Seraphima, to appear in Liminality<br /></li>
-  <li>cardioid, to appear in Uncanny<br /></li>
-  <li>Peripheral #13, to appear in Martian<br /></li>
+  <li>But for Grace to appear in <a href="https://www.kickstarter.com/projects/1022337672/if-this-goes-on-political-sf-anthology" target="_blank">If This Goes On</a></li>
+  <li>Dark the Sky, Rust the Earth to appear in <a href="https://pantheonmag.com/">Pantheon’s Gorgon: Stories of Emergence</a><br /></li>
+  <li>cardioid to appear in <a href="https://uncannymagazine.com/">Uncanny</a><br /></li>
+  <li>Peripheral #13 to appear in <a href="https://themartianmagazine.wordpress.com/">Martian</a><br /></li>
+  <li>The Quantum Robin to appear in <a href="https://storyseedvault.com/">Story Seed Vault</a><br /></li>
 </ul>
 
 

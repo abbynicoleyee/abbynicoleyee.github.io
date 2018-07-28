@@ -82,7 +82,7 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="http://www.liminalitypoetry.com/issue-16-summer-2018/seraphima/" target="_blank">Seraphima</a>, Liminality</span>
+<span class='title'><a href="http://www.liminalitypoetry.com/issue-16-summer-2018/seraphima/">Seraphima</a>, Liminality</span>
 <p><em><a href="notes/seraphima">I did not know it would hurt this much to turn into an angel.</a></em></p>
 </div>
 </li>
@@ -95,7 +95,7 @@ poem
 <p style="visibility: visible;">
 short story
 </p>
-<span class='title'><a href="https://firesidefiction.com/cast-off-tight" target="_blank">Cast Off Tight</a>, Fireside</span>
+<span class='title'><a href="https://firesidefiction.com/cast-off-tight">Cast Off Tight</a>, Fireside</span>
 <p><em><a href="notes/castofftight">It is all an accident.</a></em></p>
 </div>
 </li>
@@ -108,7 +108,7 @@ short story
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="https://uncannymagazine.com/article/swallow/" target="_blank">Swallow</a>, Uncanny</span>
+<span class='title'><a href="https://uncannymagazine.com/article/swallow/">Swallow</a>, Uncanny</span>
 <p><em><a href="notes/swallow">At night we dream of falling.</a></em></p>
 </div>
 </li>
@@ -120,7 +120,7 @@ poem
 <p style="visibility: visible;">
 short story
 </p>
-<span class='title'><a href="https://seat14c.com/future_ideas/15F" target="_blank">The Noctilucent Paradox in E Minor</a>, Seat 14c</span>
+<span class='title'><a href="https://seat14c.com/future_ideas/15F">The Noctilucent Paradox in E Minor</a>, Seat 14c</span>
 <p><em>The cello is her voice box and she lets it out.</em></p>
 </div>
 </li>
@@ -133,7 +133,7 @@ short story
 <p style="visibility: visible;">
 microfiction
 </p>
-<span class='title'><a href="https://storyseedvault.com/2017/08/16/46/" target="_blank">Tattooed Helix</a>, Story Seed Vault</span>
+<span class='title'><a href="https://storyseedvault.com/2017/08/16/46/">Tattooed Helix</a>, Story Seed Vault</span>
 <p><em>When her allergies flare...</em></p>
 </div>
 </li>
@@ -145,7 +145,7 @@ microfiction
 <p style="visibility: visible;">
 short story
 </p>
-<span class='title'><a href="https://www.nature.com/nature/journal/v546/n7660/full/546696a.html" target="_blank">Jurassic Jaws Jones</a>, Nature</span>
+<span class='title'><a href="https://www.nature.com/nature/journal/v546/n7660/full/546696a.html">Jurassic Jaws Jones</a>, Nature</span>
 <p><em>So you want to be an actor, huh?</em></p>
 </div>
 </li>
@@ -156,6 +156,7 @@ short story
 ### Forthcoming
 
 * But for Grace to appear in [If This Goes On](https://www.kickstarter.com/projects/1022337672/if-this-goes-on-political-sf-anthology){:target="_blank"}
-* cardioid to appear in Uncanny<br>
-* Peripheral #13 to appear in Martian<br>
-* The Quantum Robin to appear in Story Seed Vault<br>
+* Dark the Sky, Rust the Earth to appear in [Pantheon's Gorgon: Stories of Emergence](https://pantheonmag.com/)<br>
+* cardioid to appear in [Uncanny](https://uncannymagazine.com/)<br>
+* Peripheral #13 to appear in [Martian](https://themartianmagazine.wordpress.com/)<br>
+* The Quantum Robin to appear in [Story Seed Vault](https://storyseedvault.com/)<br>
