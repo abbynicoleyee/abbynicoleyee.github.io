@@ -158,7 +158,7 @@ short story
 
 * But for Grace to appear in [If This Goes On](https://www.kickstarter.com/projects/1022337672/if-this-goes-on-political-sf-anthology)
 * Peripheral #13 to appear in [Martian](https://themartianmagazine.wordpress.com/)
-* sky king toast, to appear in [Truancy](http://www.truancymag.dreamhosters.com/)
+* sky king toast to appear in [Truancy](http://www.truancymag.dreamhosters.com/)
 * cardioid to appear in [Uncanny](https://uncannymagazine.com/)<br>
 * Dark the Sky, Rust the Earth to appear in [Pantheon](https://pantheonmag.com/)
 * The Quantum Robin to appear in [Story Seed Vault](https://storyseedvault.com/)
