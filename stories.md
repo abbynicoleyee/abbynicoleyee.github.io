@@ -84,7 +84,7 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 poem
 </p>
 <span class='title'><a href="http://www.liminalitypoetry.com/issue-16-summer-2018/seraphima/">Seraphima</a>, Liminality</span>
-<p><em><a href="notes/seraphima">I did not know it would hurt this much to turn into an angel.</a></em></p>
+<p><em><a href="notes/seraphima">I did not know it would hurt/this much to turn into an angel.</a></em></p>
 </div>
 </li>
 
@@ -156,8 +156,9 @@ short story
 
 ### Forthcoming
 
-* But for Grace to appear in [If This Goes On](https://www.kickstarter.com/projects/1022337672/if-this-goes-on-political-sf-anthology){:target="_blank"}
-* Dark the Sky, Rust the Earth to appear in [Pantheon's Gorgon: Stories of Emergence](https://pantheonmag.com/)<br>
+* But for Grace to appear in [If This Goes On](https://www.kickstarter.com/projects/1022337672/if-this-goes-on-political-sf-anthology)
+* Peripheral #13 to appear in [Martian](https://themartianmagazine.wordpress.com/)
+* sky king toast, to appear in [Truancy](http://www.truancymag.dreamhosters.com/)
 * cardioid to appear in [Uncanny](https://uncannymagazine.com/)<br>
-* Peripheral #13 to appear in [Martian](https://themartianmagazine.wordpress.com/)<br>
-* The Quantum Robin to appear in [Story Seed Vault](https://storyseedvault.com/)<br>
+* Dark the Sky, Rust the Earth to appear in [Pantheon](https://pantheonmag.com/)
+* The Quantum Robin to appear in [Story Seed Vault](https://storyseedvault.com/)
