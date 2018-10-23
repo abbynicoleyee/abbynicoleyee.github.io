@@ -60,7 +60,6 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
     $(this).siblings("div").css("background-color", "#" + bgcolor);
     //$(this).css("background-color","#" + bgcolor);
     if($(this).hasClass("colordark")){
-      console.log("colordark");
       $(this).siblings("div").css("color", "#000");
       $(this).siblings("div").find("a").css("color", "#000");
     } else{
@@ -75,6 +74,19 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 </script>
 
 <ul id='timeline'>
+<li class='work'>
+<span class='date' id='2018-10-23'>October 2018</span><span class='wc'>110</span><span class='color colordark' id="1000colorDDDDDD">strained silver</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://isacoustic.com/2018/10/23/person-hal-y-zhang-one-poem/">Sievelike</a>, Isacoustic</span>
+<p><em>The lump on the back of my skull is not/draining</em></p>
+</div>
+</li>
+
+
 <li class='work'>
 <span class='date' id='2018-06-29'>June 2018</span><span class='wc'>190</span><span class='color colordark' id="550colorFFE600">blinding sunbeam</span>
 <span class='circle'></span>
