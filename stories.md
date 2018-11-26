@@ -18,10 +18,10 @@ Sort by <input type="radio" name="sort" class="radio" id="recency" checked><labe
 
 function sortUsingNestedText(parent, childSelector, keySelector,isdate) {
     var items = parent.children(childSelector).sort(function(a, b) {
-    	if(isdate){
-    		var vA = $(keySelector, a).attr('id');
+      if(isdate){
+        var vA = $(keySelector, a).attr('id');
         var vB = $(keySelector, b).attr('id');
-    	} else {
+      } else {
         var vA = parseInt($(keySelector, a).text());
         var vB = parseInt($(keySelector, b).text());
     }
@@ -77,6 +77,19 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 <ul id='timeline'>
 
 <li class='work'>
+<span class='date' id='2018-11-26'>November 2018</span><span class='wc'>100</span><span class='color colordark' id="300colorC2BEC7">remote dust</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+microfiction
+</p>
+<span class='title'><a href="https://themartianmagazine.wordpress.com/2018/11/26/peripheral-13-by-hal-y-zhang/">Peripheral #13</a>, Martian</span>
+<p><em>Are you oriented?</em></p>
+</div>
+</li>
+
+
+<li class='work'>
 <span class='date' id='2018-11-06'>November 2018</span><span class='wc'>61</span><span class='color colordark' id="670colorDE0404">oxygenated crimson</span>
 <span class='circle'></span>
 <div class='content'>
@@ -89,7 +102,7 @@ poem
 </li>
 
 <li class='work'>
-<span class='date' id='2018-10-23'>October 2018</span><span class='wc'>110</span><span class='color colordark' id="1000colorDDDDDD">strained silver</span>
+<span class='date' id='2018-10-23'>October 2018</span><span class='wc'>110</span><span class='color colordark' id="100colorDDDDDD">strained silver</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -182,7 +195,6 @@ short story
 ### Forthcoming
 
 * But for Grace to appear in [If This Goes On](https://www.kickstarter.com/projects/1022337672/if-this-goes-on-political-sf-anthology)
-* Peripheral #13 to appear in [Martian](https://themartianmagazine.wordpress.com/)
 * sky king toast to appear in [Truancy](http://www.truancymag.dreamhosters.com/)
 * Dark the Sky, Rust the Earth to appear in [Pantheon](https://pantheonmag.com/)
 * The Quantum Robin to appear in [Story Seed Vault](https://storyseedvault.com/)
