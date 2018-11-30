@@ -196,6 +196,9 @@ short story
 
 * But for Grace to appear in [If This Goes On](https://www.kickstarter.com/projects/1022337672/if-this-goes-on-political-sf-anthology)
 * sky king toast to appear in [Truancy](http://www.truancymag.dreamhosters.com/)
+* Majorana, Back Again to appear in [Strange Horizons](http://strangehorizons.com/)
+* Steeped in Stars to appear in [Uncanny](https://uncannymagazine.com/)
 * Dark the Sky, Rust the Earth to appear in [Pantheon](https://pantheonmag.com/)
 * The Quantum Robin to appear in [Story Seed Vault](https://storyseedvault.com/)
-* Steeped in Stars to appear in [Uncanny](https://uncannymagazine.com/)
+* The Handover of the Scepter of Greatest Regret to appear in [Cirsova](https://cirsova.wordpress.com/cirsova-magazine/)
+
