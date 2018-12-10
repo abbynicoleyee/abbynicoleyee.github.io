@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wires
-weight: 2
+weight: 3
 ---
 
 Wires

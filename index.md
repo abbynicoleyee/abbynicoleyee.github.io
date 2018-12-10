@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Words
-weight: 1
-exclude: false
+weight: 2
 ---
 
 Words
@@ -194,11 +193,13 @@ short story
 
 ### Forthcoming
 
-* But for Grace to appear in [If This Goes On](https://www.kickstarter.com/projects/1022337672/if-this-goes-on-political-sf-anthology)
-* sky king toast to appear in [Truancy](http://www.truancymag.dreamhosters.com/)
-* Majorana, Back Again to appear in [Strange Horizons](http://strangehorizons.com/)
-* Steeped in Stars to appear in [Uncanny](https://uncannymagazine.com/)
-* Dark the Sky, Rust the Earth to appear in [Pantheon](https://pantheonmag.com/)
-* The Quantum Robin to appear in [Story Seed Vault](https://storyseedvault.com/)
-* The Handover of the Scepter of Greatest Regret to appear in [Cirsova](https://cirsova.wordpress.com/cirsova-magazine/)
+* __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/call-for-submissions-futures/)
+* __But for Grace__ to appear in [If This Goes On](https://parvuspress.com/itgo/)
+* __sky king toast__ to appear in [Truancy](http://www.truancymag.dreamhosters.com/)
+* __Pearling__ to appear in [Liminality](http://www.liminalitypoetry.com)
+* __Majorana, Back Again__ to appear in [Strange Horizons](http://strangehorizons.com/)
+* __Steeped in Stars__ to appear in [Uncanny](https://uncannymagazine.com/)
+* __Dark the Sky, Rust the Earth__ to appear in [Pantheon](https://pantheonmag.com/)
+* __The Quantum Robin__ to appear in [Story Seed Vault](https://storyseedvault.com/)
+* __The Handover of the Scepter of Greatest Regret__ to appear in [Cirsova](https://cirsova.wordpress.com/cirsova-magazine/)
 

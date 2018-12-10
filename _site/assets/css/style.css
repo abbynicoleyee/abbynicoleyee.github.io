@@ -453,11 +453,20 @@ body {
   color: #595959;
   font-weight: 400; }
 
+section {
+  width: 600px; }
+
 a:hover {
   font-weight: 400; }
 
 pre {
   font: 16px/1.5 "Crimson Text"; }
+
+.portfolio {
+  width: 20vw; }
+
+.portfolio:hover {
+  transform: scale(1.5); }
 
 @media print, screen and (max-width: 960px) {
   .menuitem {

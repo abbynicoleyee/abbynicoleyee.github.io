@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Words
-weight: 1
+weight: 2
 exclude: true
 ---
 
@@ -194,8 +194,10 @@ short story
 
 ### Forthcoming
 
+* Hard Mother, Spider Mother, Soft Mother to be published by [Radix Media](https://radixmedia.org/call-for-submissions-futures/)
 * But for Grace to appear in [If This Goes On](https://www.kickstarter.com/projects/1022337672/if-this-goes-on-political-sf-anthology)
 * sky king toast to appear in [Truancy](http://www.truancymag.dreamhosters.com/)
+* Pearling to appear in [Liminality](http://www.liminalitypoetry.com)
 * Majorana, Back Again to appear in [Strange Horizons](http://strangehorizons.com/)
 * Steeped in Stars to appear in [Uncanny](https://uncannymagazine.com/)
 * Dark the Sky, Rust the Earth to appear in [Pantheon](https://pantheonmag.com/)
