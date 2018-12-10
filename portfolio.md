@@ -9,20 +9,21 @@ Fractals
 -------
 
 
-<img src="assets/art/Softly.jpg" class="portfolio">
-<img src="assets/art/Eye.jpg" class="portfolio">
-<img src="assets/art/Meteor.png" class="portfolio">
-<img src="assets/art/Gogh.png" class="portfolio">
-<img src="assets/art/Light.png" class="portfolio">
-<img src="assets/art/Tableau.png" class="portfolio">
-<img src="assets/art/Takeflight.jpg" class="portfolio">
-<img src="assets/art/Rose.jpg" class="portfolio">
-<img src="assets/art/Propulsion.jpg" class="portfolio">
-<img src="assets/art/Synchronicity.png" class="portfolio">
-<img src="assets/art/Leaf.png" class="portfolio">
-<img src="assets/art/Fireball.jpg" class="portfolio">
-<img src="assets/art/Dreamscape.jpg" class="portfolio">
-<img src="assets/art/Grow.png" class="portfolio">
-<img src="assets/art/Mushroom.png" class="portfolio">
-<img src="assets/art/Bloom.jpg" class="portfolio">
-
+<img src="assets/fractals/Softly.jpg" class="portfolio">
+<img src="assets/fractals/Eye.jpg" class="portfolio">
+<img src="assets/fractals/Meteor.jpg" class="portfolio">
+<img src="assets/fractals/Gogh.jpg" class="portfolio">
+<img src="assets/fractals/Light.jpg" class="portfolio">
+<img src="assets/fractals/Tableau.jpg" class="portfolio">
+<img src="assets/fractals/Takeflight.jpg" class="portfolio">
+<img src="assets/fractals/Rose.jpg" class="portfolio">
+<img src="assets/fractals/Propulsion.jpg" class="portfolio">
+<img src="assets/fractals/Synchronicity.jpg" class="portfolio">
+<img src="assets/fractals/Leaf.jpg" class="portfolio">
+<img src="assets/fractals/Fireball.jpg" class="portfolio">
+<img src="assets/fractals/Dreamscape.jpg" class="portfolio">
+<img src="assets/fractals/Bloom.jpg" class="portfolio">
+<img src="assets/fractals/Mushroom.jpg" class="portfolio">
+<img src="assets/fractals/Beach.jpg" class="portfolio">
+<img src="assets/fractals/Grow.jpg" class="portfolio">
+<img src="assets/fractals/Undulate.jpg" class="portfolio">
