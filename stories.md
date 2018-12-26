@@ -75,6 +75,18 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 </script>
 
 <ul id='timeline'>
+<li class='work'>
+<span class='date' id='2018-12-26'>December 2018</span><span class='wc'>110</span><span class='color colordark' id="580colorF6BB16">primordial yolk</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="http://www.truancymag.dreamhosters.com/2018/12/26/sky-king-toast-by-hal-y-zhang/">sky king toast</a>, Truancy</span>
+<p><em>my egg opens over the breakfast/pan</em></p>
+</div>
+</li>
+
 
 <li class='work'>
 <span class='date' id='2018-11-26'>November 2018</span><span class='wc'>100</span><span class='color colordark' id="300colorC2BEC7">remote dust</span>
@@ -96,7 +108,7 @@ microfiction
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="https://uncannymagazine.com/article/cardioid/">cardioid</a>, Uncanny</span>
+<span class='title'><a href="https://uncannymagazine.com/article/cardioid/">cardioid</a>, Uncanny (<a href="https://uncannymagazine.com/article/uncanny-magazine-podcast-25a/">podcast</a>)</span>
 <p><em>slip between the grating of my/ribs</em></p>
 </div>
 </li>
@@ -194,13 +206,13 @@ short story
 
 ### Forthcoming
 
-* Hard Mother, Spider Mother, Soft Mother to be published by [Radix Media](https://radixmedia.org/call-for-submissions-futures/)
-* But for Grace to appear in [If This Goes On](https://www.kickstarter.com/projects/1022337672/if-this-goes-on-political-sf-anthology)
-* sky king toast to appear in [Truancy](http://www.truancymag.dreamhosters.com/)
-* Pearling to appear in [Liminality](http://www.liminalitypoetry.com)
-* Majorana, Back Again to appear in [Strange Horizons](http://strangehorizons.com/)
-* Steeped in Stars to appear in [Uncanny](https://uncannymagazine.com/)
-* Dark the Sky, Rust the Earth to appear in [Pantheon](https://pantheonmag.com/)
-* The Quantum Robin to appear in [Story Seed Vault](https://storyseedvault.com/)
-* The Handover of the Scepter of Greatest Regret to appear in [Cirsova](https://cirsova.wordpress.com/cirsova-magazine/)
+* __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/call-for-submissions-futures/)
+* __But for Grace__ to appear in [If This Goes On](https://parvuspress.com/itgo/)
+* __Steeped in Stars__ to appear in [Uncanny](https://uncannymagazine.com/)
+* __Shelly Scully__, __litotes__, and __five forms of tigers__ to appear in [Argot](https://argotmagazine.com)
+* __Pearling__ to appear in [Liminality](http://www.liminalitypoetry.com)
+* __Majorana, Back Again__ to appear in [Strange Horizons](http://strangehorizons.com/)
+* __Dark the Sky, Rust the Earth__ to appear in [Pantheon](https://pantheonmag.com/)
+* __The Quantum Robin__ to appear in [Story Seed Vault](https://storyseedvault.com/)
+* __The Handover of the Scepter of Greatest Regret__ to appear in [Cirsova](https://cirsova.wordpress.com/cirsova-magazine/)
 
