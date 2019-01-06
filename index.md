@@ -75,6 +75,32 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 
 <ul id='timeline'>
 <li class='work'>
+<span class='date' id='2019-01-04'>January 2019</span><span class='wc'>150</span><span class='color' id="001color0C0F04">black oil</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://califragile.org/2019/01/04/gas-light-by-hal-y-zhang/">Gas, Light</a>, Califragile</span>
+<p><em>You whisper sweet crude nothings.</em></p>
+</div>
+</li>
+
+<li class='work'>
+<span class='date' id='2019-01-01'>January 2019</span><span class='wc'>110</span><span class='color colordark' id="535colorDCE199">perfumed tea</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://uncannymagazine.com/issues/uncanny-magazine-issue-twenty-six/">Steeped in Stars</a>, Uncanny</span>
+<p><em>roots, not wings.</em></p>
+</div>
+</li>
+
+
+
+<li class='work'>
 <span class='date' id='2018-12-26'>December 2018</span><span class='wc'>110</span><span class='color colordark' id="580colorF6BB16">primordial yolk</span>
 <span class='circle'></span>
 <div class='content'>
@@ -88,7 +114,7 @@ poem
 
 
 <li class='work'>
-<span class='date' id='2018-11-26'>November 2018</span><span class='wc'>100</span><span class='color colordark' id="300colorC2BEC7">remote dust</span>
+<span class='date' id='2018-11-26'>November 2018</span><span class='wc'>100</span><span class='color colordark' id="100colorC2BEC7">remote dust</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -101,19 +127,19 @@ microfiction
 
 
 <li class='work'>
-<span class='date' id='2018-11-06'>November 2018</span><span class='wc'>61</span><span class='color colordark' id="670colorDE0404">oxygenated crimson</span>
+<span class='date' id='2018-11-06'>November 2018</span><span class='wc'>61</span><span class='color' id="670colorDE0404">oxygenated crimson</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="https://uncannymagazine.com/article/cardioid/">cardioid</a>, Uncanny (<a href="https://uncannymagazine.com/article/uncanny-magazine-podcast-25a/">podcast</a>)</span>
+<span class='title'><a href="https://uncannymagazine.com/article/cardioid/">cardioid</a>, Uncanny (<a href="https://uncannymagazine.com/article/uncanny-magazine-podcast-25a/">audio</a>)</span>
 <p><em>slip between the grating of my/ribs</em></p>
 </div>
 </li>
 
 <li class='work'>
-<span class='date' id='2018-10-23'>October 2018</span><span class='wc'>110</span><span class='color colordark' id="100colorDDDDDD">strained silver</span>
+<span class='date' id='2018-10-23'>October 2018</span><span class='wc'>110</span><span class='color colordark' id="300colorDDDDDD">strained silver</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -152,7 +178,7 @@ short story
 
 
 <li class='work'>
-<span class='date' id='2018-03'>March 2018</span><span class='wc'>100</span><span class='color colordark' id="540colorFECC99">keen peach</span>
+<span class='date' id='2018-03'>March 2018</span><span class='wc'>100</span><span class='color colordark' id="570colorFECC99">keen peach</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -207,7 +233,7 @@ short story
 
 * __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/call-for-submissions-futures/)
 * __But for Grace__ to appear in [If This Goes On](https://parvuspress.com/itgo/)
-* __Steeped in Stars__ to appear in [Uncanny](https://uncannymagazine.com/)
+* __f/loss__, __specific heat__, __knight to mate in one__, and __beldam? bedlam?__ to appear in [Lockjaw](http://lockjawmagazine.com)
 * __Shelly Scully__, __litotes__, and __five forms of tigers__ to appear in [Argot](https://argotmagazine.com)
 * __Pearling__ to appear in [Liminality](http://www.liminalitypoetry.com)
 * __Majorana, Back Again__ to appear in [Strange Horizons](http://strangehorizons.com/)
