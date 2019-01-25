@@ -74,6 +74,21 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 </script>
 
 <ul id='timeline'>
+
+<li class='work'>
+<span class='date' id='2019-01-04'>January 2019</span><span class='wc'>150</span><span class='color' id="400color790F5B">violent mauve</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poems, three
+</p>
+<span class='title'><a href="https://www.argotmagazine.com/poetry-and-fiction/hal-zhang-three-poems">Shelly Scully | litotes | five forms of tigers</a>, Argot Magazine</span>
+<p><em>I am thinking of a sharp thing.</em></p>
+</div>
+</li>
+
+
+
 <li class='work'>
 <span class='date' id='2019-01-04'>January 2019</span><span class='wc'>150</span><span class='color' id="001color0C0F04">black oil</span>
 <span class='circle'></span>
@@ -93,7 +108,7 @@ poem
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="https://uncannymagazine.com/issues/uncanny-magazine-issue-twenty-six/">Steeped in Stars</a>, Uncanny</span>
+<span class='title'><a href="https://uncannymagazine.com/issues/uncanny-magazine-issue-twenty-six/">Steeped in Stars</a>, Uncanny Magazine</span>
 <p><em>roots, not wings.</em></p>
 </div>
 </li>
@@ -107,7 +122,7 @@ poem
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="http://www.truancymag.dreamhosters.com/2018/12/26/sky-king-toast-by-hal-y-zhang/">sky king toast</a>, Truancy</span>
+<span class='title'><a href="http://www.truancymag.dreamhosters.com/2018/12/26/sky-king-toast-by-hal-y-zhang/">sky king toast</a>, Truancy Magazine</span>
 <p><em>my egg opens over the breakfast/pan</em></p>
 </div>
 </li>
@@ -120,7 +135,7 @@ poem
 <p style="visibility: visible;">
 microfiction
 </p>
-<span class='title'><a href="https://themartianmagazine.wordpress.com/2018/11/26/peripheral-13-by-hal-y-zhang/">Peripheral #13</a>, Martian</span>
+<span class='title'><a href="https://themartianmagazine.wordpress.com/2018/11/26/peripheral-13-by-hal-y-zhang/">Peripheral #13</a>, Martian Magazine</span>
 <p><em>Are you oriented?</em></p>
 </div>
 </li>
@@ -133,7 +148,7 @@ microfiction
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="https://uncannymagazine.com/article/cardioid/">cardioid</a>, Uncanny (<a href="https://uncannymagazine.com/article/uncanny-magazine-podcast-25a/">audio</a>)</span>
+<span class='title'><a href="https://uncannymagazine.com/article/cardioid/">cardioid</a>, Uncanny Magazine (<a href="https://uncannymagazine.com/article/uncanny-magazine-podcast-25a/">audio</a>)</span>
 <p><em>slip between the grating of my/ribs</em></p>
 </div>
 </li>
@@ -171,7 +186,7 @@ poem
 <p style="visibility: visible;">
 short story
 </p>
-<span class='title'><a href="https://firesidefiction.com/cast-off-tight">Cast Off Tight</a>, Fireside</span>
+<span class='title'><a href="https://firesidefiction.com/cast-off-tight">Cast Off Tight</a>, Fireside Magazine</span>
 <p><em><a href="notes/castofftight">It is all an accident.</a></em></p>
 </div>
 </li>
@@ -184,7 +199,7 @@ short story
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="https://uncannymagazine.com/article/swallow/">Swallow</a>, Uncanny</span>
+<span class='title'><a href="https://uncannymagazine.com/article/swallow/">Swallow</a>, Uncanny Magazine</span>
 <p><em><a href="notes/swallow">At night we dream of falling.</a></em></p>
 </div>
 </li>
@@ -221,7 +236,7 @@ microfiction
 <p style="visibility: visible;">
 short story
 </p>
-<span class='title'><a href="https://www.nature.com/nature/journal/v546/n7660/full/546696a.html">Jurassic Jaws Jones</a>, Nature</span>
+<span class='title'><a href="https://www.nature.com/nature/journal/v546/n7660/full/546696a.html">Jurassic Jaws Jones</a>, Nature Futures</span>
 <p><em>So you want to be an actor, huh?</em></p>
 </div>
 </li>
@@ -231,13 +246,15 @@ short story
 
 ### Forthcoming
 
+
 * __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/call-for-submissions-futures/)
 * __But for Grace__ to appear in [If This Goes On](https://parvuspress.com/itgo/)
-* __f/loss__, __specific heat__, __knight to mate in one__, and __beldam? bedlam?__ to appear in [Lockjaw](http://lockjawmagazine.com)
-* __Shelly Scully__, __litotes__, and __five forms of tigers__ to appear in [Argot](https://argotmagazine.com)
+* __f/loss__, __specific heat__, __knight to mate in one__, and __beldam? bedlam?__ to appear in [Lockjaw Magazine](http://lockjawmagazine.com)
+* __something resembling good news__ to appear in [The Knicknackery](http://theknicknackery.com/)
 * __Pearling__ to appear in [Liminality](http://www.liminalitypoetry.com)
 * __Majorana, Back Again__ to appear in [Strange Horizons](http://strangehorizons.com/)
-* __Dark the Sky, Rust the Earth__ to appear in [Pantheon](https://pantheonmag.com/)
+* __The Specular Boy__ to appear in [DreamForge Magazine](https://dreamforgemagazine.com/)
+* __Dark the Sky, Rust the Earth__ to appear in [Gorgon: Stories of Emergence](https://pantheonmag.com/)
 * __The Quantum Robin__ to appear in [Story Seed Vault](https://storyseedvault.com/)
-* __The Handover of the Scepter of Greatest Regret__ to appear in [Cirsova](https://cirsova.wordpress.com/cirsova-magazine/)
+* __The Handover of the Scepter of Greatest Regret__ to appear in [Cirsova Magazine](https://cirsova.wordpress.com/cirsova-magazine/)
 
