@@ -76,7 +76,20 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 <ul id='timeline'>
 
 <li class='work'>
-<span class='date' id='2019-01-04'>January 2019</span><span class='wc'>150</span><span class='color' id="400color790F5B">violent mauve</span>
+<span class='date' id='2019-01-04'>February 2019</span><span class='wc'>400</span><span class='color' id="500color3D5759">unsettled</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poems, four
+</p>
+<span class='title'><a href="http://lockjawmagazine.com/vol6/zhang">f/loss | specific heat | knight to mate in one | beldam? bedlam?</a>, Lockjaw Magazine</span>
+<p><em>I need.</em></p>
+</div>
+</li>
+
+
+<li class='work'>
+<span class='date' id='2019-01-04'>January 2019</span><span class='wc'>300</span><span class='color' id="400color790F5B">violent mauve</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -249,7 +262,6 @@ short story
 
 * __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/call-for-submissions-futures/)
 * __But for Grace__ to appear in [If This Goes On](https://parvuspress.com/itgo/)
-* __f/loss__, __specific heat__, __knight to mate in one__, and __beldam? bedlam?__ to appear in [Lockjaw Magazine](http://lockjawmagazine.com)
 * __something resembling good news__ to appear in [The Knicknackery](http://theknicknackery.com/)
 * __Pearling__ to appear in [Liminality](http://www.liminalitypoetry.com)
 * __Majorana, Back Again__ to appear in [Strange Horizons](http://strangehorizons.com/)
