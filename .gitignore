@@ -1,5 +1,4 @@
-.sass-cache
-.sass-cache/*
 _site
 *_save
-.jekyll-metadata
+.*
+!/.gitignore
