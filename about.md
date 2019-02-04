@@ -13,4 +13,6 @@ I enjoy thinking about my next meal, the crystalline state of quiet contentment,
 * Bacon number: unbounded
 * Phone number: [redacted]
 
-You can drop me a line at [homophone of male, meaning message]@halyzhang.com.
+You can contact me directly at [homophone of male, meaning message]@halyzhang.com, or use the form below:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdsc5p2xnvLyWoqQTtgQyYTZ1hGleaKpSmllBNpQaOLfdA5Gw/viewform?embedded=true" width="640" height="902" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
