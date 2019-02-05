@@ -76,7 +76,33 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 <ul id='timeline'>
 
 <li class='work'>
-<span class='date' id='2019-01-04'>February 2019</span><span class='wc'>400</span><span class='color' id="500color3D5759">unsettled</span>
+<span class='date' id='2019-01-04'>February 2019</span><span class='wc'>200</span><span class='color colordark' id="499color95CFDB">looped light</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="http://strangehorizons.com/poetry/majorana-back-again/">Majorana, Back Again</a>, Strange Horizons</span>
+<p><em>“What do you mean, backwards?”</em></p>
+</div>
+</li>
+
+
+<li class='work'>
+<span class='date' id='2019-01-04'>February 2019</span><span class='wc'>180</span><span class='color' id="578colorD69754">burial clay</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="http://theknicknackery.com/issue-six-winter-2018/">something resembling good news</a>, The Knicknackery</span>
+<p><em>why we only love people after they die/I don't understand.</em></p>
+</div>
+</li>
+
+
+<li class='work'>
+<span class='date' id='2019-01-04'>February 2019</span><span class='wc'>400</span><span class='color' id="399color3D5759">unsettled</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -103,7 +129,7 @@ poems, three
 
 
 <li class='work'>
-<span class='date' id='2019-01-04'>January 2019</span><span class='wc'>150</span><span class='color' id="001color0C0F04">black oil</span>
+<span class='date' id='2019-01-04'>January 2019</span><span class='wc'>150</span><span class='color' id="003color0C0F04">black oil</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -142,7 +168,7 @@ poem
 
 
 <li class='work'>
-<span class='date' id='2018-11-26'>November 2018</span><span class='wc'>100</span><span class='color colordark' id="100colorC2BEC7">remote dust</span>
+<span class='date' id='2018-11-26'>November 2018</span><span class='wc'>100</span><span class='color colordark' id="002colorC2BEC7">remote dust</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -167,7 +193,7 @@ poem
 </li>
 
 <li class='work'>
-<span class='date' id='2018-10-23'>October 2018</span><span class='wc'>110</span><span class='color colordark' id="300colorDDDDDD">strained silver</span>
+<span class='date' id='2018-10-23'>October 2018</span><span class='wc'>110</span><span class='color colordark' id="001colorDDDDDD">strained silver</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -261,12 +287,11 @@ short story
 
 
 * __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/call-for-submissions-futures/)
-* __But for Grace__ to appear in [If This Goes On](https://parvuspress.com/itgo/)
-* __something resembling good news__ to appear in [The Knicknackery](http://theknicknackery.com/)
-* __Pearling__ to appear in [Liminality](http://www.liminalitypoetry.com)
-* __Majorana, Back Again__ to appear in [Strange Horizons](http://strangehorizons.com/)
-* __The Specular Boy__ to appear in [DreamForge Magazine](https://dreamforgemagazine.com/)
 * __Dark the Sky, Rust the Earth__ to appear in [Gorgon: Stories of Emergence](https://pantheonmag.com/)
+* __But for Grace__ to appear in [If This Goes On](https://parvuspress.com/itgo/)
+* __Do you love me more than the stars?__ to appear in [Helios Quarterly Magazine](http://heliosquarterly.com)
+* __Pearling__ to appear in [Liminality](http://www.liminalitypoetry.com)
+* __The Specular Boy__ to appear in [DreamForge Magazine](https://dreamforgemagazine.com/)
 * __The Quantum Robin__ to appear in [Story Seed Vault](https://storyseedvault.com/)
 * __The Handover of the Scepter of Greatest Regret__ to appear in [Cirsova Magazine](https://cirsova.wordpress.com/cirsova-magazine/)
 
