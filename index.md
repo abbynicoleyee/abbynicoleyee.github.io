@@ -141,13 +141,13 @@ poem
 </li>
 
 <li class='work'>
-<span class='date' id='2019-01-01'>January 2019</span><span class='wc'>110</span><span class='color colordark' id="535colorDCE199">perfumed tea</span>
+<span class='date' id='2019-01-01'>January 2019</span><span class='wc'>300</span><span class='color colordark' id="535colorDCE199">perfumed tea</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="https://uncannymagazine.com/issues/uncanny-magazine-issue-twenty-six/">Steeped in Stars</a>, Uncanny Magazine</span>
+<span class='title'><a href="https://uncannymagazine.com/article/steeped-in-stars/">Steeped in Stars</a>, Uncanny Magazine</span>
 <p><em>roots, not wings.</em></p>
 </div>
 </li>
@@ -286,8 +286,8 @@ short story
 ### Forthcoming
 
 
-* __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/call-for-submissions-futures/)
-* __Dark the Sky, Rust the Earth__ to appear in [Gorgon: Stories of Emergence](https://pantheonmag.com/)
+* __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/futures/)
+* __Dark the Sky, Rust the Earth__ to appear in [Gorgon: Stories of Emergence](https://www.amazon.com/dp/B07N7PB75R/)
 * __But for Grace__ to appear in [If This Goes On](https://parvuspress.com/itgo/)
 * __Do you love me more than the stars?__ to appear in [Helios Quarterly Magazine](http://heliosquarterly.com)
 * __Pearling__ to appear in [Liminality](http://www.liminalitypoetry.com)
