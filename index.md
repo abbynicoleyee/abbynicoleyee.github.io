@@ -76,7 +76,32 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 <ul id='timeline'>
 
 <li class='work'>
-<span class='date' id='2019-01-04'>February 2019</span><span class='wc'>200</span><span class='color colordark' id="499color95CFDB">looped light</span>
+<span class='date' id='2019-03-05'>March 2019</span><span class='wc'>5000</span><span class='color colordark' id="499color69AEEB">baby blue</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+short story
+</p>
+<span class='title'><a href="https://parvuspress.com/itgo/">But for Grace</a>, If This Goes On</span>
+<p><em>Vivian clutched the bag in her lap and thought of winged things.</em></p>
+</div>
+</li>
+
+<li class='work'>
+<span class='date' id='2019-02-15'>February 2019</span><span class='wc'>900</span><span class='color' id="660colorFF2D47">floral offering</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+short story
+</p>
+<span class='title'><a href="https://www.amazon.com/dp/B07N7PB75R/">Dark the Sky, Rust the Earth</a>, Gorgon: Stories of Emergence</span>
+<p><em>There is something...a beat beneath his feet, a quickening in his pulse.</em></p>
+</div>
+</li>
+
+
+<li class='work'>
+<span class='date' id='2019-02-05'>February 2019</span><span class='wc'>200</span><span class='color colordark' id="499color95CFDB">looped light</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -89,7 +114,7 @@ poem
 
 
 <li class='work'>
-<span class='date' id='2019-01-04'>February 2019</span><span class='wc'>180</span><span class='color' id="578colorD69754">burial clay</span>
+<span class='date' id='2019-02-04'>February 2019</span><span class='wc'>180</span><span class='color' id="578colorD69754">burial clay</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -102,7 +127,7 @@ poem
 
 
 <li class='work'>
-<span class='date' id='2019-01-04'>February 2019</span><span class='wc'>400</span><span class='color' id="399color3D5759">unsettled</span>
+<span class='date' id='2019-02-01'>February 2019</span><span class='wc'>400</span><span class='color' id="399color3D5759">unsettled</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -287,8 +312,7 @@ short story
 
 
 * __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/futures/)
-* __Dark the Sky, Rust the Earth__ to appear in [Gorgon: Stories of Emergence](https://www.amazon.com/dp/B07N7PB75R/)
-* __But for Grace__ to appear in [If This Goes On](https://parvuspress.com/itgo/)
+* __Ruby, Ruby, Black Sand__ to appear in [The Bare Life Review](https://www.barelifereview.org/)
 * __Do you love me more than the stars?__ to appear in [Helios Quarterly Magazine](http://heliosquarterly.com)
 * __Pearling__ to appear in [Liminality](http://www.liminalitypoetry.com)
 * __The Specular Boy__ to appear in [DreamForge Magazine](https://dreamforgemagazine.com/)
