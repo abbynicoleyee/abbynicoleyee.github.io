@@ -76,6 +76,19 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 
 <ul id='timeline'>
 
+
+<li class='work'>
+<span class='date' id='2019-03-12'>March 2019</span><span class='wc'>3200</span><span class='color' id="900color480202">red, not red</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+short story
+</p>
+<span class='title'><a href="https://www.barelifereview.org/in-print">Ruby, Ruby, Black Sand</a>, The Bare Life Review</span>
+<p><em>The neighbor&rsquo;s girl coughs rubies and sapphires.</em></p>
+</div>
+</li>
+
 <li class='work'>
 <span class='date' id='2019-03-05'>March 2019</span><span class='wc'>5000</span><span class='color colordark' id="499color69AEEB">baby blue</span>
 <span class='circle'></span>
@@ -313,7 +326,6 @@ short story
 
 
 * __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/futures/)
-* __Ruby, Ruby, Black Sand__ to appear in [The Bare Life Review](https://www.barelifereview.org/)
 * __Do you love me more than the stars?__ to appear in [Helios Quarterly Magazine](http://heliosquarterly.com)
 * __Pearling__ to appear in [Liminality](http://www.liminalitypoetry.com)
 * __The Specular Boy__ to appear in [DreamForge Magazine](https://dreamforgemagazine.com/)
