@@ -98,10 +98,11 @@ poem
 compound eye
 </span>
 <span class='circle'></span>
-<div class='content' style='background:
-radial-gradient(circle at 0% 50%, rgba(96, 16, 48, 0) 9px, #fff 10px, rgba(96, 16, 48, 0) 11px) 0px 10px,
-radial-gradient(at 100% 100%,      rgba(96, 16, 48, 0) 9px, #fff 10px, rgba(96, 16, 48, 0) 11px);
-background-size: 20px 20px;'>
+<div class='content' style=' background-image: linear-gradient(45deg, rgba(255,255,255,0.001) 20%, #fff 25%, rgba(255,255,255,0.001) 25%), 
+                    linear-gradient(-45deg, rgba(255,255,255,0.001) 20%, #fff 25%, rgba(255,255,255,0.001) 25%), 
+                    linear-gradient(-45deg, rgba(255,255,255,0.001) 75%, #fff 80%, rgba(255,255,255,0.001) 0),
+                    radial-gradient(#fff 2px, rgba(255,255,255,0.001) 0);
+  background-size: 30px 30px, 30px 30px;'>
 <p style="visibility: visible;">
 prose/poem
 </p>
