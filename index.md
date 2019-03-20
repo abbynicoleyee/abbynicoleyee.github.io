@@ -36,7 +36,9 @@ sortUsingNestedText($('#timeline'),"li","span.wc",false);
   $('.date').css("visibility", "hidden");
   $('.wc').css("visibility", "visible");
   $('.color').css("visibility", "hidden");
-  $('.content').removeAttr('style');
+  //$('.content').removeAttr('style');
+  $('.content').css("background-color", "#fff");
+  $('.content').css("color", "#000");
   $("a").removeAttr('style');
 }
 function sortdate(){
@@ -44,7 +46,9 @@ sortUsingNestedText($('#timeline'),"li","span.date",true);
   $('.wc').css("visibility", "hidden");
   $('.date').css("visibility", "visible");
   $('.color').css("visibility", "hidden");
-  $('.content').removeAttr('style');
+  //$('.content').removeAttr('style');
+  $('.content').css("background-color", "#fff");
+  $('.content').css("color", "#000");
   $("a").removeAttr('style');
 }
 
@@ -77,9 +81,44 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 
 
 <li class='work'>
-<span class='date' id='2019-03-12'>March 2019</span><span class='wc'>3200</span><span class='color' id="900color480202">red, not red</span>
+<span class='date' id='2019-03-20'>March 2019</span><span class='wc'>63</span><span class='color colordark' id="599colorEDAF00">anamorphic honey</span>
 <span class='circle'></span>
 <div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://softsurface.org/current">man drawn</a>, soft surface</span>
+<p><em>she goes between/the flat and real with//a thought.</em></p>
+</div>
+</li>
+
+<li class='work'>
+<span class='date' id='2019-03-20'>March 2019</span><span class='wc'>400</span><span class='color colordark' id="001colorFFE0E0">
+compound eye
+</span>
+<span class='circle'></span>
+<div class='content' style='background:
+radial-gradient(circle at 0% 50%, rgba(96, 16, 48, 0) 9px, #fff 10px, rgba(96, 16, 48, 0) 11px) 0px 10px,
+radial-gradient(at 100% 100%,      rgba(96, 16, 48, 0) 9px, #fff 10px, rgba(96, 16, 48, 0) 11px);
+background-size: 20px 20px;'>
+<p style="visibility: visible;">
+prose/poem
+</p>
+<span class='title'><a href="https://syntaxandsalt.com/2019/03/20/outfield-by-hal-y-zhang/">Outfield</a>, Syntax & Salt</span>
+<p><em>On the tarpaulin I lay your body, cold and rigid as the geometry you love.</em></p>
+</div>
+</li>
+
+
+<li class='work'>
+<span class='date' id='2019-03-12'>March 2019</span><span class='wc'>3200</span><span class='color' id="900color480202">red, not red</span>
+<span class='circle'></span>
+<div class='content' style='
+  background-image:
+  repeating-linear-gradient(45deg, rgba(255,255,255,0.1) 0, rgba(255,255,255,0.1) 20px, transparent 20px, transparent 32px, rgba(255,255,255,0.1) 32px, rgba(255,255,255,0.1) 44px, transparent 44px, transparent 44px, rgba(255,255,255,0.1) 44px, rgba(255,255,255,0.1) 68px, transparent 68px, transparent 80px, rgba(255,255,255,0.1) 0),
+  repeating-linear-gradient(-45deg, rgba(255,255,255,0.1) 0, rgba(255,255,255,0.1) 20px, transparent 20px, transparent 32px, rgba(255,255,255,0.1) 32px, rgba(255,255,255,0.1) 44px, transparent 44px, transparent 44px, rgba(255,255,255,0.1) 44px, rgba(255,255,255,0.1) 68px, transparent 68px, transparent 80px, rgba(255,255,255,0.1) 0);'
+
+>
 <p style="visibility: visible;">
 short story
 </p>
@@ -89,7 +128,7 @@ short story
 </li>
 
 <li class='work'>
-<span class='date' id='2019-03-05'>March 2019</span><span class='wc'>5000</span><span class='color colordark' id="499color69AEEB">baby blue</span>
+<span class='date' id='2019-03-05'>March 2019</span><span class='wc'>5000</span><span class='color colordark' id="421color69AEEB">baby blue</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -217,6 +256,18 @@ microfiction
 </div>
 </li>
 
+<li class='work'>
+<span class='date' id='2018-11-15'>November 2018</span><span class='wc'>1400</span><span class='color' id="403color0D539A">blue giant</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+short story
+</p>
+<span class='title'><a href="https://heliosquarterly.com/do-you-love-me-more-than-the-stars-by-hal-y-zhang/">Do you love me more than the stars?</a>, Helios Quarterly Magazine</span>
+<p><em>I laughed at your question in the glittery grass, our only cover the mantle of twilight. </em></p>
+</div>
+</li>
+
 
 <li class='work'>
 <span class='date' id='2018-11-06'>November 2018</span><span class='wc'>61</span><span class='color' id="670colorDE0404">oxygenated crimson</span>
@@ -231,7 +282,7 @@ poem
 </li>
 
 <li class='work'>
-<span class='date' id='2018-10-23'>October 2018</span><span class='wc'>110</span><span class='color colordark' id="001colorDDDDDD">strained silver</span>
+<span class='date' id='2018-10-23'>October 2018</span><span class='wc'>110</span><span class='color colordark' id="002colordddddd">strained silver</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -282,7 +333,7 @@ poem
 </li>
 
 <li class='work'>
-<span class='date' id='2017-09'>September 2017</span><span class='wc'>4000</span><span class='color colordark' id="422color32cbff">clear sky blue</span>
+<span class='date' id='2017-09'>September 2017</span><span class='wc'>4000</span><span class='color colordark' id="422color32cbff">clear sky</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -325,7 +376,7 @@ short story
 
 
 * __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/futures/)
-* __Do you love me more than the stars?__ to appear in [Helios Quarterly Magazine](http://heliosquarterly.com)
+* __Sunday Cleansing__ to appear in [ellipsis...](https://westminstercollege.edu/campus-life/publications/ellipsis)
 * __Pearling__ to appear in [Liminality](http://www.liminalitypoetry.com)
 * __The Specular Boy__ to appear in [DreamForge Magazine](https://dreamforgemagazine.com/)
 * __The Quantum Robin__ to appear in [Story Seed Vault](https://storyseedvault.com/)
