@@ -82,6 +82,19 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 
 
 <li class='work'>
+<span class='date' id='2019-04-08'>April 2019</span><span class='wc'>190</span><span class='color colordark' id="532color00FF41">code green</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+three poems
+</p>
+<span class='title'><a href="https://fillingstation.myshopify.com/products/filling-station-issue-71-science-tech">metaflor 01 | metaflor 10 | Things I&rsquo;m Not</a>, filling Station</span>
+<p><em>myself a vessel for/the eternal things.</em></p>
+</div>
+</li>
+
+
+<li class='work'>
 <span class='date' id='2019-03-20'>March 2019</span><span class='wc'>63</span><span class='color colordark' id="599colorEDAF00">anamorphic honey</span>
 <span class='circle'></span>
 <div class='content'>
@@ -161,7 +174,7 @@ short story
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="http://strangehorizons.com/poetry/majorana-back-again/">Majorana, Back Again</a>, Strange Horizons</span>
+<span class='title'><a href="http://strangehorizons.com/poetry/majorana-back-again/">Majorana, Back Again</a>, Strange Horizons (<a href="http://strangehorizons.com/podcasts/podcast-majorana-back-again/">audio</a>)</span>
 <p><em>“What do you mean, backwards?”</em></p>
 </div>
 </li>
@@ -226,7 +239,7 @@ poem
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="https://uncannymagazine.com/article/steeped-in-stars/">Steeped in Stars</a>, Uncanny Magazine</span>
+<span class='title'><a href="https://uncannymagazine.com/article/steeped-in-stars/">Steeped in Stars</a>, Uncanny Magazine (<a href="https://uncannymagazine.com/article/uncanny-magazine-podcast-26b/">audio</a>)</span>
 <p><em>roots, not wings.</em></p>
 </div>
 </li>
@@ -348,7 +361,7 @@ short story
 
 
 <li class='work'>
-<span class='date' id='2017-08'>August 2017</span><span class='wc'>24</span><span class='color colordark' id="532color66b266">gene green</span>
+<span class='date' id='2017-08'>August 2017</span><span class='wc'>24</span><span class='color colordark' id="531color66b266">gene green</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -376,9 +389,12 @@ short story
 
 ### Forthcoming
 
-
-* __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/futures/)
 * __Sunday Cleansing__ to appear in [ellipsis...](https://westminstercollege.edu/campus-life/publications/ellipsis)
+* __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/futures/)
+* ______sheet__ to appear in [Prolit](https://www.prolitmag.com/)
+* __seven heads__ to appear in [RECLAIM: An Anthology of Women's Poetry](https://reclaimresist.weebly.com/)
+* __Firelight, Firebright__ and __runes, ruins__ to appear in [Astral Waters Review](https://www.astralwatersreview.com/)
+* __sundown__ to appear in [Through the Gate](https://throughthegate.net/)
 * __Pearling__ to appear in [Liminality](http://www.liminalitypoetry.com)
 * __The Specular Boy__ to appear in [DreamForge Magazine](https://dreamforgemagazine.com/)
 * __The Quantum Robin__ to appear in [Story Seed Vault](https://storyseedvault.com/)
