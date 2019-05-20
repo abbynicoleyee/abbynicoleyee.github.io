@@ -79,13 +79,75 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 
 <ul id='timeline'>
 
+<li class='work'>
+<span class='date' id='2019-05-18'>May 2019</span><span class='wc'>360</span><span class='color' id="004color213435">charcoal ruins</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://reclaimresist.weebly.com/">seven heads</a>, RECLAIM: An Anthology of Women's Poetry</span>
+<p><em>why did she take residence in you, how did she grow?</em></p>
+</div>
+</li>
+
+<li class='work'>
+<span class='date' id='2019-05-15'>May 2019</span><span class='wc'>220</span><span class='color' id="671colorBB5C5A">bitter dusk</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://throughthegate.net/31/">sundown</a>, Through the Gate</span>
+<p><em>the clock chimes six and/you transform into a different person.</em></p>
+</div>
+</li>
+
+
+<li class='work'>
+<span class='date' id='2019-05-01'>May 2019</span><span class='wc'>230</span><span class='color' id="682color730000">bleeding jewel</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poems, two
+</p>
+<span class='title'><a href="https://www.astralwatersreview.com/current-issue">Firelight, Firebright | runes, ruins</a>, Astral Waters Review</span>
+<p><em>I have seen the light,/and you will be struck blind.</em></p>
+</div>
+</li>
+
+<li class='work'>
+<span class='date' id='2019-05-01'>May 2019</span><span class='wc'>80</span><span class='color colordark' id="549colorDBCD89">new coin</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://www.prolitmag.com/issue-one/zhang">____sheet</a>, Prolit</span>
+<p><em>once you get through/the nerves there is no pain.</em></p>
+</div>
+</li>
+
+<li class='work'>
+<span class='date' id='2019-04-30'>April 2019</span><span class='wc'>230</span><span class='color colordark' id="498color00FCF4">crystalline elements</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poems, two
+</p>
+<span class='title'><a href="https://thehellebore.com/sun-caves-sea-child-sea-mother/">sun caves | sea-child, sea-mother</a>, The Hellebore</span>
+<p><em>without/light there are no things, there/is no shadow.</em></p>
+</div>
+</li>
+
+
 
 <li class='work'>
 <span class='date' id='2019-04-08'>April 2019</span><span class='wc'>190</span><span class='color colordark' id="532color00FF41">code green</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
-three poems
+poems, three
 </p>
 <span class='title'><a href="https://fillingstation.myshopify.com/products/filling-station-issue-71-science-tech">metaflor 01 | metaflor 10 | Things I&rsquo;m Not</a>, filling Station</span>
 <p><em>myself a vessel for/the eternal things.</em></p>
@@ -388,12 +450,9 @@ short story
 
 ### Forthcoming
 
-* __Sunday Cleansing__ to appear in [ellipsis...](https://westminstercollege.edu/campus-life/publications/ellipsis)
 * __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/futures/)
-* ______sheet__ to appear in [Prolit](https://www.prolitmag.com/)
-* __seven heads__ to appear in [RECLAIM: An Anthology of Women's Poetry](https://reclaimresist.weebly.com/)
-* __Firelight, Firebright__ and __runes, ruins__ to appear in [Astral Waters Review](https://www.astralwatersreview.com/)
-* __sundown__ to appear in [Through the Gate](https://throughthegate.net/)
+* __lapis__ to appear in [Spillway](http://www.spillway.org/)
+* __Sunday Cleansing__ to appear in [ellipsis...](https://westminstercollege.edu/campus-life/publications/ellipsis)
 * __Pearling__ to appear in [Liminality](http://www.liminalitypoetry.com)
 * __The Specular Boy__ to appear in [DreamForge Magazine](https://dreamforgemagazine.com/)
 * __The Quantum Robin__ to appear in [Story Seed Vault](https://storyseedvault.com/)
