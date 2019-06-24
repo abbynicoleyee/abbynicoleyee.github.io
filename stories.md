@@ -81,6 +81,18 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 <ul id='timeline'>
 
 <li class='work'>
+<span class='date' id='2019-05-27'>May 2019</span><span class='wc'>180</span><span class='color colordark' id="531colorC6F312">isotopic fantasy</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poems, two
+</p>
+<span class='title'><a href="https://www.bookxi.org/science-fiction">new mass | Only Found in Dreams</a>, Book XI: A Journal of Literary Philosophy</span>
+<p><em>the body is light and fruit./the mind is color and water.</em></p>
+</div>
+</li>
+
+<li class='work'>
 <span class='date' id='2019-05-18'>May 2019</span><span class='wc'>360</span><span class='color' id="004color213435">charcoal ruins</span>
 <span class='circle'></span>
 <div class='content'>
@@ -138,6 +150,18 @@ poems, two
 </p>
 <span class='title'><a href="https://thehellebore.com/sun-caves-sea-child-sea-mother/">sun caves | sea-child, sea-mother</a>, The Hellebore</span>
 <p><em>without/light there are no things, there/is no shadow.</em></p>
+</div>
+</li>
+
+<li class='work'>
+<span class='date' id='2019-04-26'>April 2019</span><span class='wc'>120</span><span class='color' id="679colorBC2711">candle red</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://www.westminstercollege.edu/campus-life/publications/ellipsis">Sunday Cleansing</a>, ellipsis...Literature & Art</span>
+<p><em>I can tell you're/thinking of your heart things again.</em></p>
 </div>
 </li>
 
@@ -391,7 +415,7 @@ poem
 <p style="visibility: visible;">
 short story
 </p>
-<span class='title'><a href="https://firesidefiction.com/cast-off-tight">Cast Off Tight</a>, Fireside Magazine</span>
+<span class='title'><a href="https://firesidefiction.com/cast-off-tight">Cast Off Tight</a>, Fireside</span>
 <p><em><a href="notes/castofftight">It is all an accident.</a></em></p>
 </div>
 </li>
@@ -423,7 +447,7 @@ short story
 
 
 <li class='work'>
-<span class='date' id='2017-08'>August 2017</span><span class='wc'>24</span><span class='color colordark' id="531color66b266">gene green</span>
+<span class='date' id='2017-08'>August 2017</span><span class='wc'>24</span><span class='color colordark' id="530color66b266">gene green</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -453,8 +477,10 @@ short story
 
 * __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/futures/)
 * __lapis__ to appear in [Spillway](http://www.spillway.org/)
-* __Sunday Cleansing__ to appear in [ellipsis...](https://westminstercollege.edu/campus-life/publications/ellipsis)
 * __Pearling__ to appear in [Liminality](http://www.liminalitypoetry.com)
+* __fear cat__ to appear in [Uncanny](https://uncannymagazine.com/)
+* __oubliette__ to appear in [NewMyths.com](http://NewMyths.com)
+* __How to leave the planet__ to appear in [Fireside](https://firesidefiction.com/)
 * __The Specular Boy__ to appear in [DreamForge Magazine](https://dreamforgemagazine.com/)
 * __The Quantum Robin__ to appear in [Story Seed Vault](https://storyseedvault.com/)
 * __The Handover of the Scepter of Greatest Regret__ to appear in [Cirsova Magazine](https://cirsova.wordpress.com/cirsova-magazine/)
