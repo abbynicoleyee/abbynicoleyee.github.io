@@ -81,6 +81,18 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 <ul id='timeline'>
 
 <li class='work'>
+<span class='date' id='2019-06-24'>June 2019</span><span class='wc'>90</span><span class='color colordark' id="005colorA7BDDA">lacquered jewel</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="http://www.liminalitypoetry.com/issue-20-summer-2019/pearling/">Pearling</a>, Liminality</span>
+<p><em>I've gone and cast your words into the sea.</em></p>
+</div>
+</li>
+
+<li class='work'>
 <span class='date' id='2019-05-27'>May 2019</span><span class='wc'>180</span><span class='color colordark' id="531colorC6F312">isotopic fantasy</span>
 <span class='circle'></span>
 <div class='content'>
@@ -93,7 +105,7 @@ poems, two
 </li>
 
 <li class='work'>
-<span class='date' id='2019-05-18'>May 2019</span><span class='wc'>360</span><span class='color' id="004color213435">charcoal ruins</span>
+<span class='date' id='2019-05-18'>May 2019</span><span class='wc'>360</span><span class='color' id="100color213435">charcoal ruins</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -307,7 +319,7 @@ poems, three
 
 
 <li class='work'>
-<span class='date' id='2019-01-04'>January 2019</span><span class='wc'>150</span><span class='color' id="003color0C0F04">black oil</span>
+<span class='date' id='2019-01-04'>January 2019</span><span class='wc'>150</span><span class='color' id="050color0C0F04">black oil</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -383,7 +395,7 @@ poem
 </li>
 
 <li class='work'>
-<span class='date' id='2018-10-23'>October 2018</span><span class='wc'>110</span><span class='color colordark' id="002colordddddd">strained silver</span>
+<span class='date' id='2018-10-23'>October 2018</span><span class='wc'>110</span><span class='color colordark' id="010colordddddd">strained silver</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -477,7 +489,6 @@ short story
 
 * __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/futures/)
 * __lapis__ to appear in [Spillway](http://www.spillway.org/)
-* __Pearling__ to appear in [Liminality](http://www.liminalitypoetry.com)
 * __fear cat__ to appear in [Uncanny](https://uncannymagazine.com/)
 * __oubliette__ to appear in [NewMyths.com](http://NewMyths.com)
 * __How to leave the planet__ to appear in [Fireside](https://firesidefiction.com/)
