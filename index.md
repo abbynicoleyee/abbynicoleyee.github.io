@@ -77,6 +77,12 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 }
 </script>
 
+
+<div style="float:left;"><img src="assets/book.png" style="width:120px; height:149px;"></div><div>
+<br><br><p>Chapbook <a href="https://radixmedia.org/futures/"><em>Hard Mother, Spider Mother, Soft Mother</em></a> will be published by Radix Media in July 2019!</p></div>
+
+
+<div style="clear:both;"></div>
 <ul id='timeline'>
 
 <li class='work'>
@@ -486,7 +492,6 @@ short story
 
 ### Forthcoming
 
-* __Hard Mother, Spider Mother, Soft Mother__ to be published by [Radix Media](https://radixmedia.org/futures/)
 * __lapis__ to appear in [Spillway](http://www.spillway.org/)
 * __fear cat__ to appear in [Uncanny](https://uncannymagazine.com/)
 * __oubliette__ to appear in [NewMyths.com](http://NewMyths.com)
