@@ -80,7 +80,7 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 
 
 <div style="float:left;"><img src="assets/book.png" style="width:120px; height:149px;"></div><div>
-<br><br><p>Chapbook <a href="https://radixmedia.org/futures/"><em>Hard Mother, Spider Mother, Soft Mother</em></a> will be published by Radix Media in July 2019!</p></div>
+<br><br><p>Chapbook <a href="https://radixmedia.org/product/hard-mother-by-hal-y-zhang/"><em>Hard Mother, Spider Mother, Soft Mother</em></a> is published by Radix Media!</p></div>
 
 
 <div style="clear:both;"></div>
@@ -495,6 +495,7 @@ short story
 
 * __lapis__ to appear in [Spillway](http://www.spillway.org/)
 * __fear cat__ to appear in [Uncanny](https://uncannymagazine.com/)
+* __To the Astronomer Aspiring__ to appear in [Rosalind's Siblings](https://galli-books.co.uk/2019/05/28/rosalinds-siblings-table-of-contents/)
 * __oubliette__ to appear in [NewMyths.com](http://NewMyths.com)
 * __How to leave the planet__ to appear in [Fireside](https://firesidefiction.com/)
 * __The Specular Boy__ to appear in [DreamForge Magazine](https://dreamforgemagazine.com/)
