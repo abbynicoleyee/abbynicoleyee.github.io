@@ -86,6 +86,18 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 <ul id='timeline'>
 
 <li class='work'>
+<span class='date' id='2019-07-17'>July 2019</span><span class='wc'>200</span><span class='color colordark' id="552colorFCE47B">secret canary</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://commons.wikimedia.org/wiki/File:The_Wikimedia_Foundation%27s_Heart_of_Knowledge_Contest_Magazine.pdf">Signal to Noise</a>, Wikimedia Heart of Knowledge Contest</span>
+<p><em>They’re singing a chanson outside.</em></p>
+</div>
+</li>
+
+<li class='work'>
 <span class='date' id='2019-06-24'>June 2019</span><span class='wc'>90</span><span class='color colordark' id="005colorA7BDDA">lacquered jewel</span>
 <span class='circle'></span>
 <div class='content'>
@@ -492,9 +504,12 @@ short story
 
 ### Forthcoming
 
+* __what we gain in translation__ to appear in [Kweli Journal](http://kwelijournal.org)
+* __Pomegranate--Persephone__ and __Summer, scalloped dredges of (colorized)__ to appear in [Muse/A Journal](http://www.museajournal.com/)
 * __lapis__ to appear in [Spillway](http://www.spillway.org/)
 * __fear cat__ to appear in [Uncanny](https://uncannymagazine.com/)
 * __To the Astronomer Aspiring__ to appear in [Rosalind's Siblings](https://galli-books.co.uk/2019/05/28/rosalinds-siblings-table-of-contents/)
+* __Saoirse__ to appear in [Banshee](https://bansheelit.tumblr.com/)
 * __oubliette__ to appear in [NewMyths.com](http://NewMyths.com)
 * __How to leave the planet__ to appear in [Fireside](https://firesidefiction.com/)
 * __The Specular Boy__ to appear in [DreamForge Magazine](https://dreamforgemagazine.com/)
