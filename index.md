@@ -79,11 +79,106 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 
 
 <div style="float:left;"><img src="assets/book.png" style="width:120px; height:149px;"></div><div>
-<br><br><p>Chapbook <a href="https://radixmedia.org/product/hard-mother-by-hal-y-zhang/"><em>Hard Mother, Spider Mother, Soft Mother</em></a> is published by Radix Media!</p></div>
+<br><br><p>Chapbook <a href="https://radixmedia.org/product/hard-mother-by-hal-y-zhang/"><em>Hard Mother, Spider Mother, Soft Mother</em></a> available from Radix Media!</p></div>
 
 
 <div style="clear:both;"></div>
 <ul id='timeline'>
+
+
+
+<li class='work'>
+<span class='date' id='2019-09-22'>September 2019</span><span class='wc'>53</span><span class='color' id="402color210188">metamorphic blue</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="http://www.spillway.org/">lapis</a>, Spillway</span>
+<p><em>blue were her hands, / and gaps in her teeth.</em></p>
+</div>
+</li>
+
+<li class='work'>
+<span class='date' id='2019-09-15'>September 2019</span><span class='wc'>180</span><span class='color' id="396color313756">leaden rain</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://sites.google.com/a/newmyths.com/nmwebsite/poems/oubliette">oubliette</a>, Newmyths.com</span>
+<p><em>Breaking: Extraterrestrial Objects Found To Be Marketing Hoax</em></p>
+</div>
+</li>
+
+<li class='work'>
+<span class='date' id='2019-09-06'>September 2019</span><span class='wc'>130</span><span class='color colordark' id="048colorEEEAF2">melted moon</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="http://www.kwelijournal.org/poetry-1/2019/9/6/what-we-gain-in-translation-by-hal-y-zhang">what we gain in translation</a>, Kweli Journal</span>
+<p><em>everything is // different. half of me too.</em></p>
+</div>
+</li>
+
+<li class='work'>
+<span class='date' id='2019-09-03'>September 2019</span><span class='wc'>4500</span><span class='color colordark' id="510color88D3AB">perfect symmetry</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+short story
+</p>
+<span class='title'><a href="https://dreamforge.mywebportal.app/dreamforge/stories/show/table-of-contents-issue-3">The Specular Boy</a>, DreamForge Magazine</span>
+<p><em>It didn't take long for Laura Herrera to notice that something was strange about her twins.</em></p>
+</div>
+</li>
+
+<!--
+<li class='work'>
+<span class='date' id='2019-09-03'>September 2019</span><span class='wc'>3000</span><span class='color colordark' id="552colorFCE47B"></span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+short story
+</p>
+<span class='title'><a href="">The Handover of the Scepter of Greatest Regret</a>, Cirsova Magazine</span>
+<p><em>As a seasoned event planner, I was unruffled by such last minute histrionics.</em></p>
+</div>
+</li>
+-->
+
+<li class='work'>
+<span class='date' id='2019-08-29'>August 2019</span><span class='wc'>280</span><span class='color' id="603colorE6802A">fried fruit</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poems, two
+</p>
+<span class='title'><a href="http://www.museajournal.com/2019/08/h-zhang/">Pomegranate–Persephone | Summer, scalloped edges of (colorized)</a>, Muse/A Journal</span>
+<p><em>Your bird protests, but she does not know winter.</em></p>
+</div>
+</li>
+
+
+<!--
+<li class='work'>
+<span class='date' id='2019-07-31'>July 2019</span><span class='wc'>7900</span><span class='color colordark' id="600colorFE4D46">nonlinear memory</span>
+<span class='circle'></span>
+<div class='content' style='background:
+radial-gradient(circle at 0% 50%, rgba(96, 16, 48, 0) 9px, #fff 10px, rgba(96, 16, 48, 0) 11px) 0px 10px,
+radial-gradient(at 100% 100%,      rgba(96, 16, 48, 0) 9px, #fff 10px, rgba(96, 16, 48, 0) 11px),
+#fff;
+background-size: 20px 20px;'>
+<p style="visibility: visible;">
+novelette
+</p>
+<span class='title'><a href="https://radixmedia.org/product/hard-mother-by-hal-y-zhang/">Hard Mother, Spider Mother, Soft Mother</a>, Radix Media</span>
+<p><em>"Did you see the report on the spy from Aberdeen? The game is a-foot."</em></p>
+</div>
+</li>
+-->
 
 <li class='work'>
 <span class='date' id='2019-07-17'>July 2019</span><span class='wc'>200</span><span class='color colordark' id="552colorFCE47B">secret canary</span>
@@ -117,7 +212,7 @@ poem
 poems, two
 </p>
 <span class='title'><a href="https://www.bookxi.org/science-fiction">new mass | Only Found in Dreams</a>, Book XI: A Journal of Literary Philosophy</span>
-<p><em>the body is light and fruit./the mind is color and water.</em></p>
+<p><em>the body is light and fruit. / the mind is color and water.</em></p>
 </div>
 </li>
 
@@ -141,7 +236,7 @@ poem
 poem
 </p>
 <span class='title'><a href="https://throughthegate.net/31/">sundown</a>, Through the Gate</span>
-<p><em>the clock chimes six and/you transform into a different person.</em></p>
+<p><em>the clock chimes six and / you transform into a different person.</em></p>
 </div>
 </li>
 
@@ -154,7 +249,7 @@ poem
 poems, two
 </p>
 <span class='title'><a href="https://www.astralwatersreview.com/current-issue">Firelight, Firebright | runes, ruins</a>, Astral Waters Review</span>
-<p><em>I have seen the light,/and you will be struck blind.</em></p>
+<p><em>I have seen the light, / and you will be struck blind.</em></p>
 </div>
 </li>
 
@@ -166,7 +261,7 @@ poems, two
 poem
 </p>
 <span class='title'><a href="https://www.prolitmag.com/issue-one/zhang">____sheet</a>, Prolit</span>
-<p><em>once you get through/the nerves there is no pain.</em></p>
+<p><em>once you get through / the nerves there is no pain.</em></p>
 </div>
 </li>
 
@@ -178,7 +273,7 @@ poem
 poems, two
 </p>
 <span class='title'><a href="https://thehellebore.com/sun-caves-sea-child-sea-mother/">sun caves | sea-child, sea-mother</a>, The Hellebore</span>
-<p><em>without/light there are no things, there/is no shadow.</em></p>
+<p><em>without / light there are no things, there / is no shadow.</em></p>
 </div>
 </li>
 
@@ -190,7 +285,7 @@ poems, two
 poem
 </p>
 <span class='title'><a href="https://www.westminstercollege.edu/campus-life/publications/ellipsis">Sunday Cleansing</a>, ellipsis...Literature & Art</span>
-<p><em>I can tell you're/thinking of your heart things again.</em></p>
+<p><em>I can tell you're / thinking of your heart things again.</em></p>
 </div>
 </li>
 
@@ -204,7 +299,7 @@ poem
 poems, three
 </p>
 <span class='title'><a href="https://fillingstation.myshopify.com/products/filling-station-issue-71-science-tech">metaflor 01 | metaflor 10 | Things I&rsquo;m Not</a>, filling Station</span>
-<p><em>myself a vessel for/the eternal things.</em></p>
+<p><em>myself a vessel for / the eternal things.</em></p>
 </div>
 </li>
 
@@ -216,8 +311,8 @@ poems, three
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="https://softsurface.org/current">man drawn</a>, soft surface</span>
-<p><em>she goes between/the flat and real with//a thought.</em></p>
+<span class='title'><a href="https://softsurface.org/archive">man drawn</a>, soft surface</span>
+<p><em>she goes between / the flat and real with // a thought.</em></p>
 </div>
 </li>
 
@@ -309,7 +404,7 @@ poem
 
 
 <li class='work'>
-<span class='date' id='2019-02-01'>February 2019</span><span class='wc'>400</span><span class='color' id="399color3D5759">unsettled</span>
+<span class='date' id='2019-02-01'>February 2019</span><span class='wc'>400</span><span class='color' id="395color3D5759">unsettled</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -504,15 +599,9 @@ short story
 
 ### Forthcoming
 
-* __what we gain in translation__ to appear in [Kweli Journal](http://kwelijournal.org)
-* __Pomegranate--Persephone__ and __Summer, scalloped dredges of (colorized)__ to appear in [Muse/A Journal](http://www.museajournal.com/)
-* __lapis__ to appear in [Spillway](http://www.spillway.org/)
 * __fear cat__ to appear in [Uncanny](https://uncannymagazine.com/)
 * __To the Astronomer Aspiring__ to appear in [Rosalind's Siblings](https://galli-books.co.uk/2019/05/28/rosalinds-siblings-table-of-contents/)
-* __Saoirse__ to appear in [Banshee](https://bansheelit.tumblr.com/)
-* __oubliette__ to appear in [NewMyths.com](http://NewMyths.com)
-* __How to leave the planet__ to appear in [Fireside](https://firesidefiction.com/)
-* __The Specular Boy__ to appear in [DreamForge Magazine](https://dreamforgemagazine.com/)
+* __How to Leave the Planet__ to appear in [Fireside](https://firesidefiction.com/)
 * __The Quantum Robin__ to appear in [Story Seed Vault](https://storyseedvault.com/)
-* __The Handover of the Scepter of Greatest Regret__ to appear in [Cirsova Magazine](https://cirsova.wordpress.com/cirsova-magazine/)
+
 
