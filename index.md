@@ -62,6 +62,7 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
     var bgcolor=this.id.split("color")[1];
     $(this).css("text-decoration", "underline #" + bgcolor);
     $(this).siblings("div").css("background-color", "#" + bgcolor);
+    $(this).siblings("div").addClass();
     //$(this).css("background-color","#" + bgcolor);
     if($(this).hasClass("colordark")){
       $(this).siblings("div").css("color", "#000");
@@ -86,6 +87,17 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 <ul id='timeline'>
 
 
+<li class='work'>
+<span class='date' id='2019-10-17'>October 2019</span><span class='wc'>81</span><span class='color' id="520color008417">emerald freedom</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://bansheelit.tumblr.com/issue9">Saoirse</a>, Banshee</span>
+<p><em>The thing that runs through you.</em></p>
+</div>
+</li>
 
 <li class='work'>
 <span class='date' id='2019-09-22'>September 2019</span><span class='wc'>53</span><span class='color' id="402color210188">metamorphic blue</span>
@@ -108,6 +120,18 @@ poem
 </p>
 <span class='title'><a href="https://sites.google.com/a/newmyths.com/nmwebsite/poems/oubliette">oubliette</a>, Newmyths.com</span>
 <p><em>Breaking: Extraterrestrial Objects Found To Be Marketing Hoax</em></p>
+</div>
+</li>
+
+<li class='work'>
+<span class='date' id='2019-09-12'>September 2019</span><span class='wc'>90</span><span class='color' id="630colorD91006">licorice vine</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://www.poetrything.cool/">rope spawn&nbsp;&nbsp;&nbsp;&nbsp;heal over</a>, Pretty Cool Poetry Thing</span>
+<p><em>the red oaks all strings / not like artificial straw</em></p>
 </div>
 </li>
 
@@ -135,19 +159,9 @@ short story
 </div>
 </li>
 
-<!--
-<li class='work'>
-<span class='date' id='2019-09-03'>September 2019</span><span class='wc'>3000</span><span class='color colordark' id="552colorFCE47B"></span>
-<span class='circle'></span>
-<div class='content'>
-<p style="visibility: visible;">
-short story
-</p>
-<span class='title'><a href="">The Handover of the Scepter of Greatest Regret</a>, Cirsova Magazine</span>
-<p><em>As a seasoned event planner, I was unruffled by such last minute histrionics.</em></p>
-</div>
-</li>
--->
+
+
+
 
 <li class='work'>
 <span class='date' id='2019-08-29'>August 2019</span><span class='wc'>280</span><span class='color' id="603colorE6802A">fried fruit</span>
@@ -162,15 +176,12 @@ poems, two
 </li>
 
 
-<!--
+
 <li class='work'>
-<span class='date' id='2019-07-31'>July 2019</span><span class='wc'>7900</span><span class='color colordark' id="600colorFE4D46">nonlinear memory</span>
+<span class='date' id='2019-07-31'>July 2019</span><span class='wc'>7900</span><span class='color' id="401color8003B0">nonlinear memory</span>
 <span class='circle'></span>
-<div class='content' style='background:
-radial-gradient(circle at 0% 50%, rgba(96, 16, 48, 0) 9px, #fff 10px, rgba(96, 16, 48, 0) 11px) 0px 10px,
-radial-gradient(at 100% 100%,      rgba(96, 16, 48, 0) 9px, #fff 10px, rgba(96, 16, 48, 0) 11px),
-#fff;
-background-size: 20px 20px;'>
+<div class='content' style='
+  background:repeating-radial-gradient(circle at 50%, rgba(255,255,255,0.1) 30%, transparent 40%);'>
 <p style="visibility: visible;">
 novelette
 </p>
@@ -178,7 +189,7 @@ novelette
 <p><em>"Did you see the report on the spy from Aberdeen? The game is a-foot."</em></p>
 </div>
 </li>
--->
+
 
 <li class='work'>
 <span class='date' id='2019-07-17'>July 2019</span><span class='wc'>200</span><span class='color colordark' id="552colorFCE47B">secret canary</span>
@@ -284,7 +295,7 @@ poems, two
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="https://www.westminstercollege.edu/campus-life/publications/ellipsis">Sunday Cleansing</a>, ellipsis...Literature & Art</span>
+<span class='title'><a href="https://www.westminstercollege.edu/campus-life/publications/ellipsis/archives">Sunday Cleansing</a>, ellipsis...Literature & Art</span>
 <p><em>I can tell you're / thinking of your heart things again.</em></p>
 </div>
 </li>
@@ -482,7 +493,7 @@ microfiction
 </li>
 
 <li class='work'>
-<span class='date' id='2018-11-15'>November 2018</span><span class='wc'>1400</span><span class='color' id="403color0D539A">blue giant</span>
+<span class='date' id='2018-11-15'>November 2018</span><span class='wc'>1400</span><span class='color' id="404color0D539A">blue giant</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -495,7 +506,7 @@ short story
 
 
 <li class='work'>
-<span class='date' id='2018-11-06'>November 2018</span><span class='wc'>61</span><span class='color' id="670colorDE0404">oxygenated crimson</span>
+<span class='date' id='2018-11-06'>November 2018</span><span class='wc'>61</span><span class='color' id="677colorB3132B">deoxygenated crimson</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
@@ -595,13 +606,4 @@ short story
 </li>
 
 </ul>
-
-
-### Forthcoming
-
-* __fear cat__ to appear in [Uncanny](https://uncannymagazine.com/)
-* __To the Astronomer Aspiring__ to appear in [Rosalind's Siblings](https://galli-books.co.uk/2019/05/28/rosalinds-siblings-table-of-contents/)
-* __How to Leave the Planet__ to appear in [Fireside](https://firesidefiction.com/)
-* __The Quantum Robin__ to appear in [Story Seed Vault](https://storyseedvault.com/)
-
 
