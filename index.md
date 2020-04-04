@@ -10,8 +10,8 @@ Words
 Sort by <input type="radio" name="sort" class="radio" id="recency" checked><label for='recency' onclick='sortdate();'>recency</label>
 <input type="radio" name="sort" id='verbosity' class="radio"><label for='verbosity' onclick='sortwc();'>verbosity</label>
 <input type="radio" name="sort" id='wavelength' class="radio"><label for='wavelength' onclick='sortcolor();'>color</label>
-
-
+<br>
+<!--or <input type="radio" name="sort" id='dinner' class="radio"><label for='dinner' onclick='sortdinner();'>serve me dinner</label>-->
 
 <script>
 
@@ -79,12 +79,94 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 </script>
 
 
-<div style="float:left;"><img src="assets/book.png" style="width:120px; height:149px;"></div><div>
-<br><br><p>Chapbook <a href="https://radixmedia.org/product/hard-mother-by-hal-y-zhang/"><em>Hard Mother, Spider Mother, Soft Mother</em></a> available from Radix Media!</p></div>
-
-
 <div style="clear:both;"></div>
 <ul id='timeline'>
+
+<li class='work'>
+<span class='date' id='2020-03-18'>March 2020</span><span class='wc'>190</span><span class='color' id="910color460702">concrete dark</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://reckoning.press/victor-st/">Victor St.</a>, Reckoning</span>
+<p><em>I remember my first death / under dim lights.</em></p>
+</div>
+</li>
+
+<li class='work'>
+<span class='date' id='2020-03-18'>March 2020</span><span class='wc'>140</span><span class='color' id="659colorFC0032">acid lung</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://reckoning.press/on-the-nuclear-porch/">on the nuclear porch,</a> Reckoning</span>
+<p><em>sipping what we cannot / swallow.</em></p>
+</div>
+</li>
+
+
+<li class='work'>
+<span class='date' id='2020-02-18'>February 2020</span><span class='wc'>110</span><span class='color colordark' id="512color88C9B3">free fall</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://firesidefiction.com/how-to-leave-the-planet">How to leave the planet</a>, Fireside</span>
+<p><em>others first, then us.</em></p>
+</div>
+</li>
+
+<li class='work'>
+<span class='date' id='2019-12-15'>December 2019</span><span class='wc'>100</span><span class='color colordark' id="548colorFFF75C">golden decay</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://www.alegrarsejournal.com/denaturing.html">denaturing</a>, Alegrarse</span>
+<p><em>the invader, goddess of the electric / hand.</em></p>
+</div>
+</li>
+
+<li class='work'>
+<span class='date' id='2019-11-15'>November 2019</span><span class='wc'>67</span><span class='color colordark' id="498colorBAE4E5">hesitant dismantling</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://www.thesouthamptonreview.com/read">lance to drain</a>, The Southampton Review</span>
+<p><em>what is a man / —but</em></p>
+</div>
+</li>
+
+<li class='work'>
+<span class='date' id='2019-11-14'>November 2019</span><span class='wc'>120</span><span class='color colordark' id="040colorEFEBCB">tattered sail</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://www.poetrything.cool/">findings at sea</a>, Pretty Cool Poetry Thing</span>
+<p><em>once there was meaning / but I swallowed</em></p>
+</div>
+</li>
+
+
+<li class='work'>
+<span class='date' id='2019-11-05'>November 2019</span><span class='wc'>140</span><span class='color' id="052color07080D">midnight fur</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://bansheelit.tumblr.com/issue9">fear cat</a>, Uncanny Magazine</span>
+<p><em>I avert / her diamond gaze.</em></p>
+</div>
+</li>
 
 
 <li class='work'>
@@ -265,7 +347,7 @@ poems, two
 </li>
 
 <li class='work'>
-<span class='date' id='2019-05-01'>May 2019</span><span class='wc'>80</span><span class='color colordark' id="549colorDBCD89">new coin</span>
+<span class='date' id='2019-05-01'>May 2019</span><span class='wc'>80</span><span class='color colordark' id="547colorDBCD89">new coin</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
