@@ -7,13 +7,13 @@ weight: 4
 Books
 -------
 
-<p>Poetry chapbook <a href="https://newfound.org/catalog/"><em>AMNESIA</em></a> coming soon from Newfound!</p>
-<p>Poetry + one short story collection <a href="http://www.aqueductpress.com/forthcoming-pubs.php"><em>Goddess Bandit of the Thousand Arms</em></a> coming soon from Aqueduct Press!</p>
+<p>Poetry chapbook <a href="https://newfound.org/catalog/"><em>AMNESIA</em></a> coming this August from Newfound.</p>
+<p>Poetry + one short story collection <a href="http://www.aqueductpress.com/forthcoming-pubs.php"><em>Goddess Bandit of the Thousand Arms</em></a> coming soon from Aqueduct Press.</p>
 Want to get a sneak peek? [Drop me a line.](about)
 
 
 <div style="float:left;"><img src="assets/book.png" style="width:120px; height:149px;"></div><div>
-<br><br><p>Chapbook <a href="https://radixmedia.org/product/hard-mother-by-hal-y-zhang/"><em>Hard Mother, Spider Mother, Soft Mother</em></a> available from Radix Media!</p></div>
+<br><br><p>Chapbook <a href="https://radixmedia.org/product/hard-mother-by-hal-y-zhang/"><em>Hard Mother, Spider Mother, Soft Mother</em></a> is available from Radix Media.</p></div>
 <br><br>
 <p>
 
