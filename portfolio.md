@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Art
-weight: 2
-exclude: true
+weight: 4
 ---
 
-Portfolio
+Art
 =========
 
 Abstract
@@ -44,5 +43,3 @@ Fractals
 <img src="assets/fractals/Takeflight.jpg" class="portfolio">
 <img src="assets/fractals/Undulate.jpg" class="portfolio">
 <img src="assets/fractals/Synchronicity.jpg" class="portfolio">
-
-
