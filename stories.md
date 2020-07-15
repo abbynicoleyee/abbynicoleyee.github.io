@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Words
+title: Stories
 weight: 2
-exclude: true
 ---
 
-Words
+Stories
 -------
 
 Sort by <input type="radio" name="sort" class="radio" id="recency" checked><label for='recency' onclick='sortdate();'>recency</label>
@@ -26,7 +25,7 @@ function sortUsingNestedText(parent, childSelector, keySelector,isdate) {
         var vB = parseInt($(keySelector, b).text());
     }
         return (vA > vB) ? -1 : (vA < vB) ? 1 : 0;
-      
+
     });
     parent.append(items);
 }
@@ -72,9 +71,9 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
       $(this).siblings("div").css("color", "#fff");
       $(this).siblings("div").find("a").css("color", "#fff");
     }
-    
+
 });
-  
+
   $('.wc').css("visibility", "hidden");
 }
 </script>
@@ -107,6 +106,17 @@ poem
 </div>
 </li>
 
+<li class='work'>
+<span class='date' id='2020-02-27'>February 2020</span><span class='wc'>180</span><span class='color' id="662colorF70586">electric pop</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poems, two
+</p>
+<span class='title'><a href="http://www.pioneertownlit.com/hal-y-zhang">[themalign]ed | energia</a>, pioneertown</span>
+<p><em>that thrumming when you’re near</em></p>
+</div>
+</li>
 
 <li class='work'>
 <span class='date' id='2020-02-18'>February 2020</span><span class='wc'>110</span><span class='color colordark' id="512color88C9B3">free fall</span>
@@ -260,7 +270,7 @@ poems, two
 
 
 
-<li class='work'>
+<!--<li class='work'>
 <span class='date' id='2019-07-31'>July 2019</span><span class='wc'>7900</span><span class='color' id="401color8003B0">nonlinear memory</span>
 <span class='circle'></span>
 <div class='content' style='
@@ -271,7 +281,7 @@ novelette
 <span class='title'><a href="https://radixmedia.org/product/hard-mother-by-hal-y-zhang/">Hard Mother, Spider Mother, Soft Mother</a>, Radix Media</span>
 <p><em>"Did you see the report on the spy from Aberdeen? The game is a-foot."</em></p>
 </div>
-</li>
+</li>-->
 
 
 <li class='work'>
@@ -415,8 +425,8 @@ poem
 compound eye
 </span>
 <span class='circle'></span>
-<div class='content' style=' background-image: linear-gradient(45deg, rgba(255,255,255,0.001) 20%, #fff 25%, rgba(255,255,255,0.001) 25%), 
-                    linear-gradient(-45deg, rgba(255,255,255,0.001) 20%, #fff 25%, rgba(255,255,255,0.001) 25%), 
+<div class='content' style=' background-image: linear-gradient(45deg, rgba(255,255,255,0.001) 20%, #fff 25%, rgba(255,255,255,0.001) 25%),
+                    linear-gradient(-45deg, rgba(255,255,255,0.001) 20%, #fff 25%, rgba(255,255,255,0.001) 25%),
                     linear-gradient(-45deg, rgba(255,255,255,0.001) 75%, #fff 80%, rgba(255,255,255,0.001) 0),
                     radial-gradient(#fff 2px, rgba(255,255,255,0.001) 0);
   background-size: 30px 30px, 30px 30px;'>
@@ -689,4 +699,3 @@ short story
 </li>
 
 </ul>
-
