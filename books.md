@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Books
-weight: 4
+weight: 1
 ---
 
 Books
