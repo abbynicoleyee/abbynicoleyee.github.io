@@ -8,15 +8,14 @@ weight: 4
 -------
 
 
-<div style="float:left; margin-right:20px;"><img src="assets/mother_cover.jpg" style="height:200px;"></div><div style="height:200px; padding-top:75px;">Ellery thought she knew Valerie, until she didn't. A small book about the sharp things between mothers and daughters.</div>
-<div style="clear: both;"></div>
+<div style="float:left; margin-right:20px;"><img src="assets/mother.jpg" style="height:200px;"></div><div style="height:200px; padding-top:75px;">Ellery thought she knew Valerie, until she didn't. A small book about the sharp things between mothers and daughters.</div>
+
 - **[Order from Radix Media](https://radixmedia.org/product/hard-mother-by-hal-y-zhang/)**
 - [Read an excerpt](https://curiousfictions.com/stories/3070-hal-y-zhang-excerpt-from-hard-mother-spider-mother-soft-mother)
 - [Read my interview](https://radixmedia.org/memory-holes-conversation-hal-y-zhang/)
 
-
-
-<p>What people said:</p>
+<br>
+What people said:
 
 "In this unexpected sci-fi tale, set in a not-too-futuristic surveillance state, Hal Y. Zhang renders Chinese mother-daughter relationships with tenderness and empathy." ---Ling Ma, author of _Severance_
 

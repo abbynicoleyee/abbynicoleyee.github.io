@@ -149,7 +149,7 @@ poem
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="https://www.thesouthamptonreview.com/read">lance to drain</a>, The Southampton Review</span>
+<span class='title'><a href="https://www.thesouthamptonreview.com/tsronline/2020/8/5/lance-to-drain">lance to drain</a>, The Southampton Review</span>
 <p><em>what is a man / —but</em></p>
 </div>
 </li>
