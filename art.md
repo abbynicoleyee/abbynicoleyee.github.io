@@ -10,7 +10,7 @@ Art
 Abstract
 --------
 
-<img src="assets/mother.png" class="portfolio">
+<img src="assets/neurons.png" class="portfolio">
 <img src="assets/rosetiles.png" class="portfolio">
 <img src="assets/streams.png" class="portfolio">
 
