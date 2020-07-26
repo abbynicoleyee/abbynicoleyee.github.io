@@ -4,7 +4,7 @@ title: Contact
 weight: 10
 ---
 
-Contact
+About/Contact
 -------------
 
 ![picture of me](assets/me.png "picture of me")
