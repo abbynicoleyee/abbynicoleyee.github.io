@@ -24,7 +24,7 @@
     <div class="wrapper">
       <header>
         <h1 id="logo">{{ site.title | default: site.github.repository_name }}</h1>
-    
+
 <div id="menu">
 {% assign pages = site.pages | sort:"weight"  %}
 	{% for p in pages %}
@@ -35,7 +35,7 @@
       {{ p.title }}
       {% if page.url != p.url %}</a>{% endif %}
     </div>
-      
+
 	{% endunless %}
 	{% endfor %}
 </div>
@@ -55,7 +55,7 @@
 
       </section>
       <footer>
-        <a href="colophon">Colophon</a>
+        <a href="colophon" class="menuitem" style="text-decoration: none;">Colophon</a>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
@@ -72,7 +72,7 @@
         })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
         ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');	    
+        ga('send', 'pageview');
 
 	$(function(){
   $('a:not([href*="' + document.domain + '"])').click(function(event){
