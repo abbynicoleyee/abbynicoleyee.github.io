@@ -1,10 +1,10 @@
 ---
 layout: default
-title: About/Contact
+title: Contact
 weight: 10
 ---
 
-About/Contact
+Contact
 -------------
 
 ![picture of me](assets/me.png "picture of me")

@@ -28,6 +28,10 @@ pre{
 
 
 @media print, screen and (max-width: 960px) {
+  header{
+    padding: 0;
+    width: 90%;
+  }
     .menuitem{
         /*float: left;*/
     }
@@ -40,13 +44,13 @@ pre{
     }
 #menu {
     width: 100%;
-    text-align: justify;
+    text-align: center;
 }
 .menuitem {
     /*width: 10px;*/
     display: inline-block;
     vertical-align: top;
-
+    padding: 0 10px 0 10px;
 }
 #menu:after {
     content: "";
@@ -283,11 +287,28 @@ input[type="radio"]:checked+label {
     padding-left: 0;
     border-left: none;
   }
+  iframe {
+    width: auto;
+    height: 1200;
+    display: block;
+    margin: auto;
+  }
   #timeline li {
     margin: 5px 0;
   }
 
+footer{
+  text-align: center;
+}
 
+body {
+  width:90%;
+}
+
+
+section {
+  width:auto;
+}
   .content {
     padding-top: 0px;
     border-color: #eee9dc;
@@ -346,5 +367,8 @@ input[type="radio"]:checked+label {
     -ms-flex: 100%;
     flex: 100%;
     max-width: 80%;
+  }
+  footer{
+    text-align: center;
   }
 }
