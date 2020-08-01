@@ -17,6 +17,6 @@ weight: 4
 <br>
 What people said:
 
-"In this unexpected sci-fi tale, set in a not-too-futuristic surveillance state, Hal Y. Zhang renders Chinese mother-daughter relationships with tenderness and empathy." ---Ling Ma, author of _Severance_
+In this unexpected sci-fi tale, set in a not-too-futuristic surveillance state, Hal Y. Zhang renders Chinese mother-daughter relationships with tenderness and empathy. ---Ling Ma, author of _Severance_
 
-"An optimistically melancholic look at mental illness, consumerism, and how the two can come between our relationships." ---Joshua Ryan Bligh, <a href="https://independentbookreview.com/2020/03/05/hard-mother-spider-mother-soft-mother/">Independent Book Review</a>
+An optimistically melancholic look at mental illness, consumerism, and how the two can come between our relationships. ---Joshua Ryan Bligh, <a href="https://independentbookreview.com/2020/03/05/hard-mother-spider-mother-soft-mother/">Independent Book Review</a>

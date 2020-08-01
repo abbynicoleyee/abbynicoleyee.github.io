@@ -24,4 +24,6 @@ tongue. you have always had one tongue but the tongue remembers.</em>
 <br>
 What people said:
 
+With thoughtful nods to Chinese poetic history, Zhang’s poems purposefully dis-orient, highlight dis-ease. One must re-orient, like the immigrant, in order to read. For it is an immigrant’s language—more legible and richer the deeper one’s immersion in two places at once. Striking back at the mute pictograph of Pound and Fenollosa, *AMNESIA* is a breaking-through of character, a touching and daring medium between selves. ---Yanyi, author of *The Year of Blue Water*
+
 "this is chinese, pictographic only for the free trial," asserts Hal Y. Zhang's opening poem, setting up an unfolding of "radical loss." Just as a shadow life trails immigrants and their children through their days, the shadow language of Chinese animates many of these incisive English lines. Spare and visual, Zhang's poems capture the longings and misunderstandings that come with migration, as well as "what we gain in translation." *AMNESIA* is a powerful distillation of complex experience into the fewest possible words. ---Adrienne Su, author of *Middle Kingdom* and *Peach State*
