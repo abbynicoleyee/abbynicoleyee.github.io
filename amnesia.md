@@ -19,7 +19,8 @@ tongue. you have always had one tongue but the tongue remembers.</em>
 
 - **[Order from Newfound](https://newfound.org/product-category/print/chapbooks/poetry/hal-y-zhang/)**
 - Read poetry excerpts:
-	- [what we gain in translation](http://www.kwelijournal.org/poetry-1/2019/9/6/what-we-gain-in-translation-by-hal-y-zhang)
+	- [what we gain in translation](http://www.kwelijournal.org/poetry-1/2019/9/6/what-we-gain-in-translation-by-hal-y-zhang), Kweli Journal
+	- [f/loss](https://www.lockjawmagazine.com/vol6/zhang/floss/), Lockjaw Magazine
 
 <br>
 What people said:
