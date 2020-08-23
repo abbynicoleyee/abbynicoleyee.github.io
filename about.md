@@ -11,11 +11,10 @@ About/Contact
 
 
 
-I enjoy thinking about my next meal and half-following the rules. Here are some of my quantities:
+I enjoy thinking about my next meal and half-following the rules. I'm currently Editorial Staff at [Reckoning](https://reckoning.press/) and Reviews Editor at [Middle House Review](https://www.middlehousereview.com/). Some of my quantities:
 
 * Erd&#337;s number: at most 4
 * Bacon number: unbounded
-* Phone number: [redacted]
 
 You can contact me directly at [first name]@halyzhang.com, or use the form below:
 

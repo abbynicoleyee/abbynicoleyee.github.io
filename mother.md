@@ -10,7 +10,7 @@ weight: 4
 
 <div style="float:left; margin-right:20px;"><img src="assets/mother.jpg" style="height:200px;"></div><div style="height:200px; margin-top:75px;">Ellery thought she knew Valerie, until she didn't. A small book about the sharp things between mothers and daughters.</div>
 
-- **[Order from Radix Media](https://radixmedia.org/product/hard-mother-by-hal-y-zhang/)**
+- **[Order from Radix Media](https://radixmedia.org/product/hard-mother-by-hal-y-zhang/)** (or [contact me](about) for a signed, personalized copy)
 - [Read an excerpt](https://curiousfictions.com/stories/3070-hal-y-zhang-excerpt-from-hard-mother-spider-mother-soft-mother)
 - [Read my interview](https://radixmedia.org/memory-holes-conversation-hal-y-zhang/)
 

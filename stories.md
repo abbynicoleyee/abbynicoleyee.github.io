@@ -1,16 +1,19 @@
 ---
 layout: default
-title: Stories
+title: Shorter Works
 weight: 2
+exclude: true
 ---
 
-Stories
+All the Shorter Works
 -------
 
 Sort by <input type="radio" name="sort" class="radio" id="recency" checked><label for='recency' onclick='sortdate();'>recency</label>
 <input type="radio" name="sort" id='verbosity' class="radio"><label for='verbosity' onclick='sortwc();'>verbosity</label>
-<input type="radio" name="sort" id='wavelength' class="radio"><label for='wavelength' onclick='sortcolor();'>color</label>
-<br>
+<!--<input type="radio" name="sort" id='wavelength' class="radio"><label for='wavelength' onclick='sortcolor();'>color</label>-->
+
+or [go to shorter list of selected online works](short)
+
 <!--or <input type="radio" name="sort" id='dinner' class="radio"><label for='dinner' onclick='sortdinner();'>serve me dinner</label>-->
 
 <script>
@@ -27,9 +30,9 @@ function sortUsingNestedText(parent, childSelector, keySelector,isdate) {
         return (vA > vB) ? -1 : (vA < vB) ? 1 : 0;
 
     });
+    console.log("hi" + items);
     parent.append(items);
 }
-
 
 function sortwc(){
 sortUsingNestedText($('#timeline'),"li","span.wc",false);
@@ -58,6 +61,7 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
   $('.wc').css("visibility", "hidden");
   $('.date').css("visibility", "hidden");
   $('.color').css("visibility", "visible");
+  $('.icon').css("visibility", "visible");
   $('.color').each(function() {
     var bgcolor=this.id.split("color")[1];
     $(this).css("text-decoration", "underline #" + bgcolor);
@@ -83,6 +87,59 @@ sortUsingNestedText($('#timeline'),"li","span.color",true);
 <ul id='timeline'>
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/fireside-summer-2020.jpg');"></div>
+<span class='date' id='2020-09-10'>Summer 2020</span><span class='wc'>1200</span><span class='color'></span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+short story
+</p>
+<span class='title'><a href="https://firesidefiction.com/">synthia.py</a>, Fireside</span>
+<p><em>I want to pour my head out from my left ear into your new chalice.</em></p>
+</div>
+</li>
+
+<li class='work'>
+<div class=icon style="background-image:url('assets/pubs/twistedmoon-5.jpg');"></div>
+<span class='date' id='2020-08-06'>August 2020</span><span class='wc'>170</span><span class='color' id="910color460702">concrete dark</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="http://twistedmoonmag.com/5/zhang-1.html">anatomicon</a>, Twisted Moon</span>
+<p><em>this is / the specter of blue, the sky, / all of it.</em></p>
+</div>
+</li>
+
+<li class='work'>
+<div class=icon style="background-image:url('assets/pubs/twistedmoon-5.jpg');"></div>
+<span class='date' id='2020-08-06'>August 2020</span><span class='wc'>190</span><span class='color' id="910color460702">concrete dark</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="http://twistedmoonmag.com/5/zhang-2.html">to my ghost by the sound</a>, Twisted Moon</span>
+<p><em>opaque pang they would call / love, that rarefied thing</em></p>
+</div>
+</li>
+
+<li class='work'>
+<div class=icon style="background-image:url('assets/pubs/prismrev-22.jpg');"></div>
+<span class='date' id='2020-06-10'>June 2020</span><span class='wc'>130</span><span class='color' id="910color460702">concrete dark</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poems, two
+</p>
+<span class='title'><a href="https://artsci.laverne.edu/prism/issues-samples/">hurricane eye, neat | braking before the crash</a>, Prism Review</span>
+<p><em>mix equal parts helpless and culpable. form into original shapes.</em></p>
+</div>
+</li>
+
+<li class='work'>
+<div class=icon style="background-image:url('assets/pubs/reckoning-4.jpg');"></div>
 <span class='date' id='2020-03-18'>March 2020</span><span class='wc'>190</span><span class='color' id="910color460702">concrete dark</span>
 <span class='circle'></span>
 <div class='content'>
@@ -95,6 +152,7 @@ poem
 </li>
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/reckoning-4.jpg');"></div>
 <span class='date' id='2020-03-18'>March 2020</span><span class='wc'>140</span><span class='color' id="659colorFC0032">acid lung</span>
 <span class='circle'></span>
 <div class='content'>
@@ -103,6 +161,19 @@ poem
 </p>
 <span class='title'><a href="https://reckoning.press/on-the-nuclear-porch/">on the nuclear porch,</a> Reckoning</span>
 <p><em>sipping what we cannot / swallow.</em></p>
+</div>
+</li>
+
+<li class='work'>
+<div class=icon style="background-image:url('assets/pubs/wizardsinspace-5.jpg');"></div>
+<span class='date' id='2020-02-29'>February 2020</span><span class='wc'>190</span><span class='color' id="910color460702">concrete dark</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://www.wizardsinspacemag.com/shop/b1uipf0xjyr8a89m7cddw57umsy2lr">Only Treading</a>, Wizards in Space</span>
+<p><em>Here amidst the Pacific / I have forgotten dryness.</em></p>
 </div>
 </li>
 
@@ -119,6 +190,7 @@ poems, two
 </li>
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/fireside-winter-2020.jpg');"></div>
 <span class='date' id='2020-02-18'>February 2020</span><span class='wc'>110</span><span class='color colordark' id="512color88C9B3">free fall</span>
 <span class='circle'></span>
 <div class='content'>
@@ -127,6 +199,19 @@ poem
 </p>
 <span class='title'><a href="https://firesidefiction.com/how-to-leave-the-planet">How to leave the planet</a>, Fireside</span>
 <p><em>others first, then us.</em></p>
+</div>
+</li>
+
+<li class='work'>
+<div class=icon style="background-image:url('assets/pubs/qwerty-40-2020.jpg');"></div>
+<span class='date' id='2020-01-07'>January 2020</span><span class='wc'>130</span><span class='color' id="910color460702">concrete dark</span>
+<span class='circle'></span>
+<div class='content'>
+<p style="visibility: visible;">
+poem
+</p>
+<span class='title'><a href="https://www.qwertyunb.com/product-page/pre-order-qwerty-40">Recollecting soil</a>, Qwerty Magazine</span>
+<p><em>the kind of thing you build / by hand, two of</em></p>
 </div>
 </li>
 
@@ -143,6 +228,7 @@ poem
 </li>
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/tsr-winter-spring-2020.jpg');"></div>
 <span class='date' id='2019-11-15'>November 2019</span><span class='wc'>67</span><span class='color colordark' id="498colorBAE4E5">hesitant dismantling</span>
 <span class='circle'></span>
 <div class='content'>
@@ -161,45 +247,48 @@ poem
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="https://www.poetrything.cool/">findings at sea</a>, Pretty Cool Poetry Thing</span>
+<span class='title'>findings at sea, Pretty Cool Poetry Thing</span>
 <p><em>once there was meaning / but I swallowed</em></p>
 </div>
 </li>
 
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/uncanny-novdec-2019.jpg');"></div>
 <span class='date' id='2019-11-05'>November 2019</span><span class='wc'>140</span><span class='color' id="052color07080D">midnight fur</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="https://bansheelit.tumblr.com/issue9">fear cat</a>, Uncanny Magazine</span>
+<span class='title'><a href="https://uncannymagazine.com/article/fear-cat/">fear cat</a>, Uncanny Magazine</span>
 <p><em>I avert / her diamond gaze.</em></p>
 </div>
 </li>
 
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/banshee-autumn-winter-2019.jpg');"></div>
 <span class='date' id='2019-10-17'>October 2019</span><span class='wc'>81</span><span class='color' id="520color008417">emerald freedom</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="https://bansheelit.tumblr.com/issue9">Saoirse</a>, Banshee</span>
+<span class='title'><a href="https://www.bansheelit.com/read/saoirse-by-hal-y-zhang">Saoirse</a>, Banshee</span>
 <p><em>The thing that runs through you.</em></p>
 </div>
 </li>
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/spillway-27.jpg');"></div>
 <span class='date' id='2019-09-22'>September 2019</span><span class='wc'>53</span><span class='color' id="402color210188">metamorphic blue</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="http://www.spillway.org/">lapis</a>, Spillway</span>
+<span class='title'><a href="http://spillway.org/spillway27.html">lapis</a>, Spillway</span>
 <p><em>blue were her hands, / and gaps in her teeth.</em></p>
 </div>
 </li>
@@ -223,7 +312,7 @@ poem
 <p style="visibility: visible;">
 poem
 </p>
-<span class='title'><a href="https://www.poetrything.cool/">rope spawn&nbsp;&nbsp;&nbsp;&nbsp;heal over</a>, Pretty Cool Poetry Thing</span>
+<span class='title'>rope spawn&nbsp;&nbsp;&nbsp;&nbsp;heal over, Pretty Cool Poetry Thing</span>
 <p><em>the red oaks all strings / not like artificial straw</em></p>
 </div>
 </li>
@@ -241,6 +330,7 @@ poem
 </li>
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/dreamforge-3.jpg');"></div>
 <span class='date' id='2019-09-03'>September 2019</span><span class='wc'>4500</span><span class='color colordark' id="510color88D3AB">perfect symmetry</span>
 <span class='circle'></span>
 <div class='content'>
@@ -269,22 +359,8 @@ poems, two
 </li>
 
 
-
-<!--<li class='work'>
-<span class='date' id='2019-07-31'>July 2019</span><span class='wc'>7900</span><span class='color' id="401color8003B0">nonlinear memory</span>
-<span class='circle'></span>
-<div class='content' style='
-  background:repeating-radial-gradient(circle at 50%, rgba(255,255,255,0.1) 30%, transparent 40%);'>
-<p style="visibility: visible;">
-novelette
-</p>
-<span class='title'><a href="https://radixmedia.org/product/hard-mother-by-hal-y-zhang/">Hard Mother, Spider Mother, Soft Mother</a>, Radix Media</span>
-<p><em>"Did you see the report on the spy from Aberdeen? The game is a-foot."</em></p>
-</div>
-</li>-->
-
-
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/heartofknowledge.jpg');"></div>
 <span class='date' id='2019-07-17'>July 2019</span><span class='wc'>200</span><span class='color colordark' id="552colorFCE47B">secret canary</span>
 <span class='circle'></span>
 <div class='content'>
@@ -297,6 +373,7 @@ poem
 </li>
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/liminality-summer-2019.jpg');"></div>
 <span class='date' id='2019-06-24'>June 2019</span><span class='wc'>90</span><span class='color colordark' id="005colorA7BDDA">lacquered jewel</span>
 <span class='circle'></span>
 <div class='content'>
@@ -315,12 +392,13 @@ poem
 <p style="visibility: visible;">
 poems, two
 </p>
-<span class='title'><a href="https://www.bookxi.org/science-fiction">new mass | Only Found in Dreams</a>, Book XI: A Journal of Literary Philosophy</span>
+<span class='title'><a href="https://www.bookxi.org/issue-1-science-fiction">new mass | Only Found in Dreams</a>, Book XI: A Journal of Literary Philosophy</span>
 <p><em>the body is light and fruit. / the mind is color and water.</em></p>
 </div>
 </li>
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/reclaim-2019.jpg');"></div>
 <span class='date' id='2019-05-18'>May 2019</span><span class='wc'>360</span><span class='color' id="100color213435">charcoal ruins</span>
 <span class='circle'></span>
 <div class='content'>
@@ -352,7 +430,7 @@ poem
 <p style="visibility: visible;">
 poems, two
 </p>
-<span class='title'><a href="https://www.astralwatersreview.com/current-issue">Firelight, Firebright | runes, ruins</a>, Astral Waters Review</span>
+<span class='title'><a href="https://www.astralwatersreview.com/shop">Firelight, Firebright | runes, ruins</a>, Astral Waters Review</span>
 <p><em>I have seen the light, / and you will be struck blind.</em></p>
 </div>
 </li>
@@ -382,6 +460,7 @@ poems, two
 </li>
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/ellipsis-55-2019.jpg');"></div>
 <span class='date' id='2019-04-26'>April 2019</span><span class='wc'>120</span><span class='color' id="679colorBC2711">candle red</span>
 <span class='circle'></span>
 <div class='content'>
@@ -396,6 +475,7 @@ poem
 
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/fillingstation-71-2019.jpg');"></div>
 <span class='date' id='2019-04-08'>April 2019</span><span class='wc'>190</span><span class='color colordark' id="532color00FF41">code green</span>
 <span class='circle'></span>
 <div class='content'>
@@ -440,6 +520,7 @@ prose/poem
 
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/barelife-2.jpg');"></div>
 <span class='date' id='2019-03-12'>March 2019</span><span class='wc'>3200</span><span class='color' id="900color480202">red, not red</span>
 <span class='circle'></span>
 <div class='content' style='
@@ -457,6 +538,7 @@ short story
 </li>
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/ifthisgoeson-2019.jpg');"></div>
 <span class='date' id='2019-03-05'>March 2019</span><span class='wc'>5000</span><span class='color colordark' id="421color69AEEB">baby blue</span>
 <span class='circle'></span>
 <div class='content'>
@@ -469,14 +551,15 @@ short story
 </li>
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/gorgon-2019.jpg');"></div>
 <span class='date' id='2019-02-15'>February 2019</span><span class='wc'>900</span><span class='color' id="660colorFF2D47">floral offering</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
 short story
 </p>
-<span class='title'><a href="https://www.amazon.com/dp/B07N7PB75R/">Dark the Sky, Rust the Earth</a>, Gorgon: Stories of Emergence</span>
-<p><em>There is something...a beat beneath his feet, a quickening in his pulse.</em></p>
+<span class='title'><a href="https://www.goodreads.com/book/show/43809473-gorgon">Dark the Sky, Rust the Earth</a>, Gorgon: Stories of Emergence</span>
+<p><em>...a beat beneath his feet, a quickening in his pulse.</em></p>
 </div>
 </li>
 
@@ -495,6 +578,7 @@ poem
 
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/knicknackery-winter-2018.jpg');"></div>
 <span class='date' id='2019-02-04'>February 2019</span><span class='wc'>180</span><span class='color' id="578colorD69754">burial clay</span>
 <span class='circle'></span>
 <div class='content'>
@@ -508,6 +592,7 @@ poem
 
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/lockjaw-6-2019.jpg');"></div>
 <span class='date' id='2019-02-01'>February 2019</span><span class='wc'>400</span><span class='color' id="395color3D5759">unsettled</span>
 <span class='circle'></span>
 <div class='content'>
@@ -561,6 +646,7 @@ poem
 
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/truancy-5-dec-2018.jpg');"></div>
 <span class='date' id='2018-12-26'>December 2018</span><span class='wc'>110</span><span class='color colordark' id="580colorF6BB16">primordial yolk</span>
 <span class='circle'></span>
 <div class='content'>
@@ -592,13 +678,14 @@ microfiction
 <p style="visibility: visible;">
 short story
 </p>
-<span class='title'><a href="https://heliosquarterly.com/do-you-love-me-more-than-the-stars-by-hal-y-zhang/">Do you love me more than the stars?</a>, Helios Quarterly Magazine</span>
+<span class='title'>Do you love me more than the stars?, Helios Quarterly Magazine</span>
 <p><em>I laughed at your question in the glittery grass, our only cover the mantle of twilight. </em></p>
 </div>
 </li>
 
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/uncanny-novdec-2018.jpg');"></div>
 <span class='date' id='2018-11-06'>November 2018</span><span class='wc'>61</span><span class='color' id="677colorB3132B">deoxygenated crimson</span>
 <span class='circle'></span>
 <div class='content'>
@@ -624,6 +711,7 @@ poem
 
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/liminality-summer-2018.jpg');"></div>
 <span class='date' id='2018-06-29'>June 2018</span><span class='wc'>190</span><span class='color colordark' id="550colorFFE600">blinding sunbeam</span>
 <span class='circle'></span>
 <div class='content'>
@@ -637,6 +725,7 @@ poem
 
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/fireside-june-2018.jpg');"></div>
 <span class='date' id='2018-06-19'>June 2018</span><span class='wc'>3200</span><span class="color colordark" id="405color8484ff">frayed periwinkle</span>
 <span class='circle'></span>
 <div class='content'>
@@ -650,6 +739,7 @@ short story
 
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/uncanny-marapr-2018.jpg');"></div>
 <span class='date' id='2018-03'>March 2018</span><span class='wc'>100</span><span class='color colordark' id="570colorFECC99">keen peach</span>
 <span class='circle'></span>
 <div class='content'>
@@ -662,13 +752,14 @@ poem
 </li>
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/xprize-2017.jpg');"></div>
 <span class='date' id='2017-09'>September 2017</span><span class='wc'>4000</span><span class='color colordark' id="422color32cbff">clear sky</span>
 <span class='circle'></span>
 <div class='content'>
 <p style="visibility: visible;">
 short story
 </p>
-<span class='title'><a href="https://seat14c.com/future_ideas/15F">The Noctilucent Paradox in E Minor</a>, Seat 14c</span>
+<span class='title'><a href="http://seat14c.com/future_ideas/15F">The Noctilucent Paradox in E Minor</a>, XPRIZE</span>
 <p><em>The cello is her voice box and she lets it out.</em></p>
 </div>
 </li>
@@ -687,6 +778,7 @@ microfiction
 </li>
 
 <li class='work'>
+<div class=icon style="background-image:url('assets/pubs/nature-2017.jpg');"></div>
 <span class='date' id='2017-06'>June 2017</span><span class='wc'>1000</span><span class='color colordark' id="600colorFF9900">fused orange</span>
 <span class='circle'></span>
 <div class='content'>
