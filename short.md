@@ -50,5 +50,6 @@ See also: [Full list with bells](stories)
     - Best of the Net nominee
 
 - [Cast Off Tight](https://firesidefiction.com/cast-off-tight), Fireside, June 2018.
+    - Locus Recommended Reading
 
 - [Jurassic Jaws Jones](https://www.nature.com/articles/546696a), Nature Futures, June 2017.
