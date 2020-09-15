@@ -9,11 +9,11 @@ Events
 
 __In the Future__
 
-The future is not yet known.
+September 20, 2020: [Virtual poetry reading](https://www.facebook.com/events/461453208145639/) with Yilin Wang, Natalie Lim, and Stephanie Chang, hosted by Newfound.
 
 __In the Past__
 
-May 31, 2020: Virtual poetry reading with Tracy Fuad and Anna Morrison, hosted by Newfound.
+May 31, 2020: [Virtual poetry reading](https://www.facebook.com/events/552397122134623/) with Tracy Fuad and Anna Morrison, hosted by Newfound.
 
 April 30, 2020: <a href="https://www.eventbrite.com/e/radix-media-virtual-poetry-reading-tickets-103472426814">Virtual poetry reading</a> with George Abraham, germ lynn, Ingrid Jendrzejewski, and María José Giménez, hosted by Radix Media.
 

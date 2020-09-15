@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact
+title: About/Contact
 weight: 10
 ---
 
@@ -11,10 +11,9 @@ About/Contact
 
 
 
-I enjoy thinking about my next meal and half-following the rules. I'm currently Editorial Staff at [Reckoning](https://reckoning.press/) and Reviews Editor at [Middle House Review](https://www.middlehousereview.com/). Some of my quantities:
+I enjoy thinking about my next meal and half-following the rules. My Erd&#337;s number is at most 4. Here is a bio you can use for publicity purposes:
 
-* Erd&#337;s number: at most 4
-* Bacon number: unbounded
+Hal Y. Zhang writes science, fiction, and science fiction, in no particular order. Her language-and-loss chapbook _AMNESIA_ is published by Newfound, and her women-with-sharp-things collection _Goddess Bandit of the Thousand Arms_ is forthcoming from Aqueduct Press. She is online at [halyzhang.com](halyzhang.com) and [@halyzhang](https://twitter.com/halyzhang).
 
 You can contact me directly at [first name]@halyzhang.com, or use the form below:
 
