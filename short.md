@@ -4,10 +4,23 @@ title: Shorter Works
 weight: 2
 ---
 
-Shorter Works (Available Online)
+Shorter Works
 -------
 
 See also: [Full list with bells](stories)
+
+### Selected Fiction
+
+- [synthia.py](https://firesidefiction.com/), Fireside, Summer 2020.
+
+- [Outfield](https://syntaxandsalt.com/2019/03/20/outfield-by-hal-y-zhang/), Syntax & Salt, March 2019.
+    - Best of the Net nominee
+
+- [Cast Off Tight](https://firesidefiction.com/cast-off-tight), Fireside, June 2018.
+    - Locus Recommended Reading
+
+- [Jurassic Jaws Jones](https://www.nature.com/articles/546696a), Nature Futures, June 2017.
+
 
 ### Selected Poetry
 
@@ -42,14 +55,7 @@ See also: [Full list with bells](stories)
 
 - [Swallow](https://uncannymagazine.com/article/swallow/), Uncanny Magazine, March 2018.
 
-### Selected Prose
 
-<!--- [synthia.py](https://firesidefiction.com/), Fireside, Summer 2020.-->
+### Selected Non-Fiction
 
-- [Outfield](https://syntaxandsalt.com/2019/03/20/outfield-by-hal-y-zhang/), Syntax & Salt, March 2019.
-    - Best of the Net nominee
-
-- [Cast Off Tight](https://firesidefiction.com/cast-off-tight), Fireside, June 2018.
-    - Locus Recommended Reading
-
-- [Jurassic Jaws Jones](https://www.nature.com/articles/546696a), Nature Futures, June 2017.
+- [Author Interview of Ann LeBlanc](https://sub-q.com/author-interview-ann-leblanc/), sub-Q Magazine, February 2020.
