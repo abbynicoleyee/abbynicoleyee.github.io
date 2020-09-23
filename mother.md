@@ -12,7 +12,8 @@ weight: 4
 
 - **[Order from Radix Media](https://radixmedia.org/product/hard-mother-by-hal-y-zhang/)** (or [contact me](about) for a signed, personalized copy)
 - [Read an excerpt](https://curiousfictions.com/stories/3070-hal-y-zhang-excerpt-from-hard-mother-spider-mother-soft-mother)
-- [Read my interview](https://radixmedia.org/memory-holes-conversation-hal-y-zhang/)
+- [Listen to an interview on the Read Learn Live Podcast](http://www.readlearnlivepodcast.com/family-and-identity-ep-61-with-hal-y-zhang/)
+- [Read an interview with Radix Media](https://radixmedia.org/memory-holes-conversation-hal-y-zhang/)
 
 <br>
 What people said:

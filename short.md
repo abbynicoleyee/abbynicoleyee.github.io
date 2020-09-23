@@ -16,6 +16,9 @@ See also: [Full list with bells](stories)
 - [Outfield](https://syntaxandsalt.com/2019/03/20/outfield-by-hal-y-zhang/), Syntax & Salt, March 2019.
     - Best of the Net nominee
 
+- [Ruby, Ruby, Black Sand](https://www.barelifereview.org/in-print), The Bare Life Review, March 2019.
+    - Reprinted in [_Goddess Bandit of the Thousand Arms_](goddess).
+
 - [Cast Off Tight](https://firesidefiction.com/cast-off-tight), Fireside, June 2018.
     - Locus Recommended Reading
 

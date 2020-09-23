@@ -15,7 +15,7 @@ __In the Past__
 
 September 23, 2020: [Virtual prose reading](https://www.storyhour2020.com/) with Vanessa Fogg, hosted by Story Hour.
 
-September 20, 2020: [Virtual poetry reading](https://www.facebook.com/events/461453208145639/) with Yilin Wang, Natalie Lim, and Stephanie Chang, hosted by Newfound.
+September 20, 2020: [AMNESIA chapbook launch](https://www.facebook.com/events/461453208145639/) with Yilin Wang, Natalie Lim, and Stephanie Chang, hosted by Newfound.
 
 May 31, 2020: [Virtual poetry reading](https://www.facebook.com/events/552397122134623/) with Tracy Fuad and Anna Morrison, hosted by Newfound.
 

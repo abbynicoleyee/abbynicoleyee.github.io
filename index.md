@@ -1,25 +1,23 @@
 ---
 layout: default
-title: Books
+title: News
 weight: 4
 exclude: true
 ---
 
-<div class="row">
-  <div class="column">
-    <a href="amnesia">
-      <img src="assets/amnesia.jpg" alt="AMNESIA" style="width:100%">
-    </a>
-    <a href="goddess">
-      <img src="assets/goddess.jpg" alt="Goddess Bandit of the Thousand Arms" style="width:100%">
-    </a>
-  </div>
-    <div class="column">
-    <a href="sunstrokes">
-      <img src="assets/sunstrokes.jpg" alt="Sudden Sharp Sunstrokes" style="width:100%">
-    </a>
-    <a href="mother">
-      <img src="assets/mother.jpg" alt="Hard Mother, Spider Mother, Soft Mother" style="width:100%">
-    </a>
-  </div>
-</div>
+News
+----
+
+<a href="goddess"><img src="assets/goddess.jpg" alt="Goddess Bandit of the Thousand Arms" height=100px style="float:left; margin-right:20px;"></a>
+My debut poetry (+ one short story) collection, _Goddess Bandit of the Thousand Arms_ is out! You can order directly from [Aqueduct Press](http://www.aqueductpress.com/books/978-1-61976-189-6.php) and preview the book there.
+
+<div style="clear: both; padding:1em;"></div>
+
+<a href="amnesia"><img src="assets/amnesia.jpg" alt="AMNESIA" height=100px style="float:left; margin-right:20px;"></a>
+My debut poetry chapbook _AMNESIA_ is out from [Newfound]()!
+
+<div style="clear: both; padding:1em;"></div>
+
+<img src="assets/pubs/fireside-summer-2020.jpg" alt="Fireside" height=100px style="float:left; margin-right:20px;">
+
+My Python-code-as-story synthia.py is out from <a href="https://firesidefiction.com/">Fireside's print edition</a>.
