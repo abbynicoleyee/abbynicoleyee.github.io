@@ -14,13 +14,15 @@ See also: [Full list with bells](stories)
 - [synthia.py](https://firesidefiction.com/), Fireside, Summer 2020.
 
 - [Outfield](https://syntaxandsalt.com/2019/03/20/outfield-by-hal-y-zhang/), Syntax & Salt, March 2019.
-    - Best of the Net nominee
+    - Best of the Net nominee 2019.
+    - Read by me at [Story Hour](https://www.facebook.com/102109784794285/videos/250862656230850/?t=1543) 2020.
 
 - [Ruby, Ruby, Black Sand](https://www.barelifereview.org/in-print), The Bare Life Review, March 2019.
     - Reprinted in [_Goddess Bandit of the Thousand Arms_](goddess).
+    - Read by me at [Story Hour](https://www.facebook.com/102109784794285/videos/250862656230850/?t=1740) 2020.
 
 - [Cast Off Tight](https://firesidefiction.com/cast-off-tight), Fireside, June 2018.
-    - Locus Recommended Reading
+    - [Locus Recommended Reading](https://locusmag.com/2019/02/2018-locus-recommended-reading-list/) 2018.
 
 - [Jurassic Jaws Jones](https://www.nature.com/articles/546696a), Nature Futures, June 2017.
 
@@ -46,6 +48,7 @@ See also: [Full list with bells](stories)
 - [sun caves](https://thehellebore.com/sun-caves-sea-child-sea-mother/), The Hellebore, April 2019.
 
 - [Majorana, back again](http://strangehorizons.com/poetry/majorana-back-again/), Strange Horizons, February 2019.
+  - [Audio version](http://strangehorizons.com/podcasts/podcast-majorana-back-again/)
 
 - [f/loss](https://www.lockjawmagazine.com/vol6/zhang/floss/), Lockjaw Magazine, February 2019.
 
