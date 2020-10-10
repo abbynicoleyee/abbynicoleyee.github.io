@@ -11,6 +11,8 @@ See also: [Full list with bells](stories)
 
 ### Selected Fiction
 
+- [Chicken Time](https://www.worldweaverpress.com/store/p171/Recognize_Fascism.html), Recognize Fascism, October 2020.
+
 - [synthia.py](https://firesidefiction.com/), Fireside, Summer 2020.
 
 - [Outfield](https://syntaxandsalt.com/2019/03/20/outfield-by-hal-y-zhang/), Syntax & Salt, March 2019.

@@ -8,14 +8,13 @@ weight: 4
 -------
 
 
-<div style="float:left; margin-right:20px;"><img src="assets/amnesia.jpg" style="height:200px;"></div><div style="height:200px; padding-top:20px;">A poetry chapbook about the jagged bilingual
+<div style="float:left; margin-right:20px;"><img src="assets/amnesia.jpg" style="height:200px;"></div><div style="height:200px; padding-top:50px;">A poetry chapbook about the jagged bilingual
 holes in my memory, in 中文 and English.
-<br><br>
+<br></div>
+
+<div style="clear: both;"></div>
 <em>a puzzle: what is one but two? you have one
 tongue. you have always had one tongue but the tongue remembers.</em>
-</div>
-
-<div style="clear: both; margin: 20px;"></div>
 
 - **[Order from Newfound](https://newfound.org/product-category/print/chapbooks/poetry/hal-y-zhang/)** (or [contact me](about) for a signed, personalized copy)
 - Read poetry excerpts:

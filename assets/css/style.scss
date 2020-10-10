@@ -400,3 +400,23 @@ li:hover > .icon {
   transform: scale(2) translateY(-25%);
   z-index: 200;
 }
+
+
+/* index page stuff */
+
+.img-left{
+  height: 100px;
+  float:left;
+  margin-right:20px;
+}
+
+.img-right{
+  height: 100px;
+  float: right;
+  margin-left:20px;
+}
+
+.word{
+  margin-top: 0.2vw;
+  height:150px;
+}

@@ -9,11 +9,12 @@ Events
 
 __In the Future__
 
-The future is not yet known.
+October 24, 2020, 7 PM ET: [Hallowstream](https://pitchandprose.regfox.com/hallowstream-presented-by-wizards-in-space-and-pitch-prose), hosted by Wizards in Space and Pitch & Prose.
+<!-- The future is not yet known. -->
 
 __In the Past__
 
-September 23, 2020: [Virtual prose reading](https://www.storyhour2020.com/) with Vanessa Fogg, hosted by Story Hour.
+September 23, 2020: [Virtual prose reading](https://www.storyhour2020.com/) with Vanessa Fogg, hosted by Story Hour. [Watch the replay](https://www.facebook.com/102109784794285/videos/250862656230850/).
 
 September 20, 2020: [AMNESIA chapbook launch](https://www.facebook.com/events/461453208145639/) with Yilin Wang, Natalie Lim, and Stephanie Chang, hosted by Newfound.
 
