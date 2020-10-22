@@ -1,0 +1,17 @@
+---
+layout: page
+title: Colophon
+background: Mushroom
+background-align: bg-shape-center
+---
+
+<section class="section">
+    <div class="container">
+      <div class="row">
+        {% for fact in site.data.settings.colophon %}
+        <p class="paragraph-lg">{{ fact | markdownify }}</p>
+        {% endfor %}
+
+</div>
+</div>
+</section>

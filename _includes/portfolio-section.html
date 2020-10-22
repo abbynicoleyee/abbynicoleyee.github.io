@@ -1,0 +1,27 @@
+{% if site.data.settings.books-home-items %}
+<!-- portfolio -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Books</h2>
+      </div>
+    </div>
+    <div class="row">
+      {% for item in site.data.settings.books-home-items %}
+      <div class="col-lg-4 col-6 mb-4">
+        <div class="position-relative rounded hover-wrapper">
+          <img src="{{ site.baseurl }}/{{ item.image }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <div class="hover-overlay">
+            <div class="hover-content">
+              <a class="btn btn-light btn-sm" href="{{ item.url }}">view book</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- /portfolio -->
+{% endif %}
