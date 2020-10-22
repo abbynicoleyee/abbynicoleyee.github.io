@@ -12,10 +12,9 @@ layout: default
     </div>
   </div>
   <!-- background shapes -->
-  <!-- <div style="background-image: url('{{ site.baseurl }}assets/images/illustrations/{{ page.background }}.jpg'); background-size: cover; width:100%;height:200px;"></div> -->
-{{% if page.background %}} 
+{% if page.background %}
   <img src="{{ site.baseurl }}/assets/images/illustrations/{{ page.background }}.jpg" class="bg-shape-1 {{ page.background-align }} h-100">
-{{% endif %}}
+{% endif %}
 </section>
 <!-- /page title -->
 
