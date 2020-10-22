@@ -54,13 +54,13 @@ events:
 # Books Home Section
 books-home-items:
   - image : "assets/images/books/mother.jpg"
-    url: "books/#mother"
+    url: "books#mother"
 
   - image : "assets/images/books/amnesia.jpg"
-    url: "books/#amnesia"
+    url: "books#amnesia"
 
   - image : "assets/images/books/goddess.jpg"
-    url: "books/#goddess"
+    url: "books#goddess"
 
 #-------------------------------
 # Writing Page
