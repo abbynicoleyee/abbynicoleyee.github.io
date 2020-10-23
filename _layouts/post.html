@@ -2,28 +2,32 @@
 layout: default
 ---
 <!-- page title -->
-<section class="page-title bg-primary position-relative">
+<section class="page-title bg-primary position-relative" style="overflow: hidden;">
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h1 class="text-white font-tertiary">Blogs</h1>
+        <h1 class="text-white font-tertiary text-outline">Blogs</h1>
       </div>
     </div>
   </div>
   <!-- background shapes -->
-  <img src="{{ site.baseurl }}/assets/images/illustrations/page-title.png" alt="illustrations" class="bg-shape-1 w-100">
+  <!-- <img src="{{ site.baseurl }}/assets/images/illustrations/page-title.png" alt="illustrations" class="bg-shape-1 w-100"> -->
+  {% if page.image %}
+  <img src="{{ page.image }}" alt="illustrations" class="bg-shape-1 {{ page.background-align }} h-100">
+  {% endif %}
 </section>
 <!-- /page title -->
 
 <section class="section">
   <div class="container">
-    <div class="row">
+    <div class="row mb-5">
       <div class="col-lg-12">
-        <h3 class="font-tertiary mb-5">{{ page.title | escape }}</h3>
-        <p class="font-secondary">Published on {{ page.date | date: '%b %d, %Y' }} by <span class="text-primary">{{ page.author }}</span
-            class="text-primary"> on {% for tag in page.tags %}<span>{{ tag }} </span>{% endfor %}</p>
+        <h2 class="font-tertiary">{{ page.title | escape }}</h2>
+        <p class="font-tertiary">Published on {{ page.date | date: '%b %d, %Y' }} in {% for tag in page.tags %}<span>{{ tag }}</span>{% endfor %}.</p>
+      </div>
+      </div><div class="row">
+        <div class="col-lg-12">
         <div class="content">
-          <img src="{{page.image | relative_url }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{page.title}}">
           {{ content }}
         </div>
       </div>
@@ -38,7 +42,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h2 class="section-title">Similar Stories</h2>
+        <h3 class="section-title">Similar Posts</h3>
       </div>
       {% for post in site.posts offset:0 limit:3 %}
       {% include post.html %}
