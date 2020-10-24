@@ -6,9 +6,9 @@ description: Personal website of writer Hal Y. Zhang.
 copyright: Read the [Colophon](/colophon), if you'd like.
 
 menu:
-#- {name: Blog, link: '/blog'}
 - {name: Books, link: '/books'}
 - {name: Writing, link: '/writing'}
+#- {name: Blog, link: '/blog'}
 - {name: Events, link: '/events'}
 - {name: About/Contact, link: '/about'}
 
@@ -256,6 +256,7 @@ writing-items:
   date: '2019-09-06'
   item-types:
   - type: poetry
+  - type: selected
   link: http://www.kwelijournal.org/poetry-1/2019/9/6/what-we-gain-in-translation-by-hal-y-zhang
   name: what we gain in translation
   publisher: Kweli Journal
@@ -266,7 +267,8 @@ writing-items:
   icon: background-image:url('assets/pubs/dreamforge-3.jpg');
   item-types:
   - type: fiction
-  link: https://dreamforge.mywebportal.app/dreamforge/stories/show/table-of-contents-issue-3
+  - type: selected
+  link: https://curiousfictions.com/stories/3581-hal-y-zhang-the-specular-boy
   name: The Specular Boy
   publisher: DreamForge Magazine
   words: 4500
