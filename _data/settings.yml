@@ -77,6 +77,23 @@ writing-label:
 
 
 writing-items:
+- quote: No flashing light, no puff of smoke. This isn’t the movies.
+  date: '2020-11-3'
+  item-types:
+  - type: fiction
+  - type: selected
+  link: https://uncannymagazine.com/uncanny-magazine-issue-37-cover-and-table-of-contents/
+  name: Proof of Existence
+  publisher: Uncanny Magazine
+  words: 6100
+- quote: not because they are easy, / but because of the disease.
+  date: '2020-11-01'
+  item-types:
+  - type: poetry
+  link: https://www.gazejournal.net/journal/halyzhang
+  name: Ornithology
+  publisher: gaze
+  words: 50
 - quote: Bawk bawk!
   date: '2020-10-23'
   item-types:
@@ -97,6 +114,8 @@ writing-items:
   name: synthia.py
   publisher: Fireside
   words: 1200
+  notes:
+    - Read by [Hollis Beck](https://firesidefiction.com/synthia-py) for Fireside, 2020.
 - quote: this is / the specter of blue, the sky, / all of it.
   date: '2020-08-06'
   icon: background-image:url('assets/pubs/twistedmoon-5.jpg');

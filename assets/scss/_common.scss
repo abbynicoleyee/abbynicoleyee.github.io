@@ -26,6 +26,7 @@ body {
 ol,
 ul {
   margin: 0px;
+  font-size: 18px;
 }
 
 img {
@@ -254,6 +255,12 @@ a.anchor {
   position: relative;
   top: -120px;
   visibility: hidden;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 40vh;
+  object-fit: cover;
 }
 
 /* /custom */
