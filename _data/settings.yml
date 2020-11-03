@@ -86,6 +86,15 @@ writing-items:
   name: Proof of Existence
   publisher: Uncanny Magazine
   words: 6100
+- quote: I am peerless in regret.
+  date: '2020-11-3'
+  item-types:
+  - type: poetry
+  - type: selected
+  link: http://www.glass-poetry.com/journal/2020/november/zhang-free.html
+  name: free referral
+  publisher: "Glass: A Journal of Poetry"
+  words: 110
 - quote: not because they are easy, / but because of the disease.
   date: '2020-11-01'
   item-types:
