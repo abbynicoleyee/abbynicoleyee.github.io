@@ -31,6 +31,10 @@ hero:
 
 events-title: Upcoming & Recent Events
 events:
+  - name: Canzine
+    image: 'assets/images/events/canzine.jpg'
+    value: October 24-26
+    link: https://brokenpencil.com/news/virtual-canzine-2020/
   - name: Hallowstream
     image: 'assets/images/events/hallowstream.jpg'
     value: October 24, 7 PM ET
@@ -39,13 +43,10 @@ events:
     link: https://www.kickstarter.com/projects/262808239/recognize-fascism-anthology
     image: 'assets/images/events/recognize.jpg'
     value: October 25, 5 PM ET
-  - name: Canzine
-    image: 'assets/images/events/canzine.jpg'
-    value: October 24-26
-    link: https://brokenpencil.com/news/virtual-canzine-2020/
-  - name: Bridgewater International Poetry Festival
-    value: November 16-17
+  - name: Story Hour Reading
+    value: September 23
     image: 'assets/images/events/default.jpg'
+    link: https://www.storyhour2020.com/
 
 
 #-------------------------------
