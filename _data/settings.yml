@@ -78,6 +78,15 @@ writing-label:
 
 
 writing-items:
+- quote: I am standing next to / the unsunken earth
+  date: '2020-12-11'
+  item-types:
+  - type: poetry
+  - type: selected
+  link: https://www.fantasy-magazine.com/new/new-fiction/poetry/softening-come-morning/
+  name: softening, come morning
+  publisher: Fantasy Magazine
+  words: 84
 - quote: No flashing light, no puff of smoke. This isn’t the movies.
   date: '2020-11-3'
   item-types:
@@ -87,6 +96,8 @@ writing-items:
   name: Proof of Existence
   publisher: Uncanny Magazine
   words: 6100
+  notes:
+    - Read by [Joy Piedmont](https://uncannymagazine.com/article/uncanny-magazine-podcast-37a/) for the Uncanny Magazine Podcast, 2020.
 - quote: I am peerless in regret.
   date: '2020-11-3'
   item-types:
