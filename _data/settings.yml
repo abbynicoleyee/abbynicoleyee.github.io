@@ -78,6 +78,15 @@ writing-label:
 
 
 writing-items:
+- quote: Complete the sequence—the wheel, the printing press, the transistor ... what’s next? 
+  date: '2020-12-26'
+  item-types:
+  - type: fiction
+  - type: selected
+  link: https://slate.com/technology/2020/12/dream-soft-dream-big-hal-zhang.html
+  name: Dream Soft, Dream Big
+  publisher: Future Tense
+  words: 5400
 - quote: I am standing next to / the unsunken earth
   date: '2020-12-11'
   item-types:
