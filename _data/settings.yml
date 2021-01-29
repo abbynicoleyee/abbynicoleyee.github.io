@@ -37,7 +37,7 @@ events:
     link: https://www.portersquarebooks.com/event/virtual-recognize-fascism-panel
   - name: Canzine
     image: 'assets/images/events/canzine.jpg'
-    value: October 24-26
+    value: October 24-26, 2020
     link: https://brokenpencil.com/news/virtual-canzine-2020/
   - name: Hallowstream
     image: 'assets/images/events/hallowstream.jpg'
@@ -128,7 +128,6 @@ writing-items:
   date: '2020-10-23'
   item-types:
   - type: fiction
-  - type: selected
   link: https://www.worldweaverpress.com/store/p171/Recognize_Fascism.html
   name: Chicken Time
   publisher: Recognize Fascism, World Weaver Press
