@@ -31,6 +31,10 @@ hero:
 
 events-title: Upcoming & Recent Events
 events:
+  - name: Story Hour Reading
+    value: August 25, 2021
+    image: 'assets/images/events/default.jpg'
+    link: https://www.storyhour2020.com/
   - name: Recognize Fascism Virtual Panel
     image: 'assets/images/events/recognize.jpg'
     value: Jannuary 22, 2021
@@ -43,10 +47,6 @@ events:
     image: 'assets/images/events/hallowstream.jpg'
     value: October 24, 2020
     link: https://tinyurl.com/hallowstream
-  - name: Story Hour Reading
-    value: September 23, 2020
-    image: 'assets/images/events/default.jpg'
-    link: https://www.storyhour2020.com/
 
 
 #-------------------------------
@@ -78,6 +78,40 @@ writing-label:
 
 
 writing-items:
+- quote: while they drill I am reminded of the moon / landing
+  date: '2021-06-23'
+  item-types:
+  - type: poetry
+  - type: selected
+  link: https://www.newstatesman.com/culture/poetry/2021/06/ns-poem-caries
+  name: caries
+  publisher: New Statesman
+  words: 49
+- quote: falling / is different at two vs. fifty-two
+  date: '2021-03-02'
+  item-types:
+  - type: poetry
+  link: http://www.jubilat.org/jubilat/archive/2021-number-38/
+  name: knowing too much, paralyzed
+  publisher: jubilat
+  words: 110
+- quote: boss said / work fast break things
+  date: '2021-02-22'
+  item-types:
+  - type: poetry
+  - type: selected
+  link: http://strangehorizons.com/poetry/go-agile/
+  name: go agile
+  publisher: Strange Horizons
+  words: 120
+- quote: say the perseids. say the greek fire hailing down
+  date: '2021-01-01'
+  item-types:
+  - type: poetry
+  link: http://www.aqueductpress.com/books/978-1-61976-197-1.php
+  name: sound science | Pacifica/Evergreen
+  publisher: Climbing Lightly Through Forests
+  words: 270
 - quote: Complete the sequence—the wheel, the printing press, the transistor ... what’s next? 
   date: '2020-12-26'
   item-types:
@@ -91,7 +125,6 @@ writing-items:
   date: '2020-12-11'
   item-types:
   - type: poetry
-  - type: selected
   link: https://www.fantasy-magazine.com/new/new-fiction/poetry/softening-come-morning/
   name: softening, come morning
   publisher: Fantasy Magazine
@@ -132,6 +165,7 @@ writing-items:
   name: Chicken Time
   publisher: Recognize Fascism, World Weaver Press
   words: 4600
+  notes: Also published in [New Haven Review Issue 24](http://www.newhavenreview.com/new-index)
 - quote: I want to pour my head out from my left ear into your new chalice.
   blurb: A programmer codes her lost love.
   date: '2020-10-20'
