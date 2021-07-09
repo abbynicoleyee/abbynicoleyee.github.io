@@ -87,6 +87,17 @@ writing-items:
   name: caries
   publisher: New Statesman
   words: 49
+- quote: Sand is for her and her alone.
+  date: '2021-03-23'
+  item-types:
+  - type: fiction
+  - type: selected
+  link: https://www.fantasy-magazine.com/new/new-fiction/arenous/
+  name: Arenous
+  publisher: Fantasy Magazine
+  words: 2600
+  notes:
+    - Interviewed by [Veronica Henry](https://www.fantasy-magazine.com/new/new-nonfiction/new-author-spotlights/author-spotlight-hal-y-zhang/) for the Author Spotlight.
 - quote: falling / is different at two vs. fifty-two
   date: '2021-03-02'
   item-types:
