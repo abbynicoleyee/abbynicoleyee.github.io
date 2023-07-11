@@ -23,35 +23,7 @@ google-analytics: UA-101186181-1
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m Hal, writer-coder-sorta-artist.
-
-
-#-------------------------------
-# Events Section
-
-events-title: Upcoming & Recent Events
-events:
-  - name: Story Hour Reading
-    value: August 25, 2021
-    image: 'assets/images/events/default.jpg'
-    link: https://www.storyhour2020.com/
-  - name: Nightmare & Fantasy Magazine Live
-    value: August 22, 2021
-    image: 'assets/images/events/default.jpg'
-    link: https://www.youtube.com/channel/UCZdG4drbO2mhN1P_vSb11iA
-  - name: Recognize Fascism Virtual Panel
-    image: 'assets/images/events/recognize.jpg'
-    value: January 22, 2021
-    link: https://www.portersquarebooks.com/event/virtual-recognize-fascism-panel
-  # - name: Canzine
-  #   image: 'assets/images/events/canzine.jpg'
-  #   value: October 24-26, 2020
-  #   link: https://brokenpencil.com/news/virtual-canzine-2020/
-  # - name: Hallowstream
-  #   image: 'assets/images/events/hallowstream.jpg'
-  #   value: October 24, 2020
-  #   link: https://tinyurl.com/hallowstream
-
+  hero-title: Hi! I’m Hal, writer-editor-coder-sorta-artist.
 
 #-------------------------------
 # Books (Section and Page)
