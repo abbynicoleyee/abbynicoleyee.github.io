@@ -54,6 +54,23 @@ writing-label:
 
 
 writing-items:
+- quote: at least we have hauntings.
+  date: '2022-02-16'
+  item-types:
+  - type: poetry
+  link: https://www.benningtonreview.org/current-issue-10
+  name: expiration
+  publisher: Bennington Review
+  words: 91
+- quote: The understanding that the world does not see itself through your eyes, the acceptance thereof.
+  date: '2021-09-01'
+  item-types:
+  - type: fiction
+  - type: selected
+  link: https://firesidefiction.com/the-empathy-lessons
+  name: The Empathy Lessons
+  publisher: Fireside
+  words: 1160
 - quote: while they drill I am reminded of the moon / landing
   date: '2021-06-23'
   item-types:
@@ -250,12 +267,9 @@ writing-items:
   publisher: Qwerty Magazine
   words: 130
 - quote: the invader, goddess of the electric / hand.
-  blurb: A pineapple poem.
   date: '2019-12-15'
   item-types:
   - type: poetry
-  - type: selected
-  link: https://www.alegrarsejournal.com/denaturing.html
   name: denaturing
   publisher: Alegrarse Journal
   words: 100
