@@ -12,6 +12,7 @@ Hal Y. Zhang writes science, fiction, and science fiction, in no particular orde
 
 Here are some other things I've done in between bouts of staring off into space:
 
+- <p>Assistant Editor, Diabolical Plots, 2023-now</p>
 - <p>Guest Editor, Spring 2022 issue of Fireside Magazine</p>
 - <p>Panelist, Newfound Anzaldúa Poetry Prize, 2020</p>
 - <p>Editorial Staff, Reckoning, 2020-2021</p>

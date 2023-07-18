@@ -62,6 +62,17 @@ writing-items:
   name: expiration
   publisher: Bennington Review
   words: 91
+- quote: and I choose not to spend / purgatory hating you
+  date: '2021-11-01'
+  item-types:
+  - type: poetry
+  - type: selected
+  link: https://www.uncannymagazine.com/article/the-burning-river/
+  name: the burning river
+  publisher: Uncanny Magazine
+  words: 83
+  notes:
+    - Dwarf Stars nominee, 2022.
 - quote: The understanding that the world does not see itself through your eyes, the acceptance thereof.
   date: '2021-09-01'
   item-types:
