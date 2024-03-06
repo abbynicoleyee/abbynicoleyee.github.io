@@ -12,7 +12,7 @@ Hal Y. Zhang writes science, fiction, and science fiction, in no particular orde
 
 Here are some other things I've done in between bouts of staring off into space:
 
-- Assistant Editor, [Diabolical Plots](https://www.diabolicalplots.com/), 2023-now
+- Editor, [Diabolical Plots](https://www.diabolicalplots.com/), 2023-now
 - Guest Editor, Spring 2022 issue of [Fireside Magazine](https://firesidefiction.com/)
 - Panelist, [Newfound Anzaldúa Poetry Prize](https://newfound.org/poetry-prize), 2020
 - Editorial Staff, [Reckoning](https://reckoning.press/), 2020-2021
