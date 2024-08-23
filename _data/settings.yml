@@ -3,13 +3,13 @@
 
 title: Hal Y. Zhang 章皓
 description: Personal website of writer Hal Y. Zhang.
-copyright: Read the [Colophon](/colophon), if you'd like.
+copyright: Read the [Colophon](/colophon/), if you'd like.
 
 menu:
-- {name: Books, link: '/books'}
-- {name: Writing, link: '/writing'}
-- {name: Events, link: '/events'}
-- {name: About/Contact, link: '/about'}
+- {name: Books, link: '/books/'}
+- {name: Writing, link: '/writing/'}
+- {name: Events, link: '/events/'}
+- {name: About/Contact, link: '/about/'}
 
 
 #-------------------------------
