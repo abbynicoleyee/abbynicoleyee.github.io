@@ -1,14 +1,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Hal Y. Zhang
+title: Hal Y. Zhang 章皓
 description: Personal website of writer Hal Y. Zhang.
 copyright: Read the [Colophon](/colophon), if you'd like.
 
 menu:
 - {name: Books, link: '/books'}
 - {name: Writing, link: '/writing'}
-#- {name: Blog, link: '/blog'}
 - {name: Events, link: '/events'}
 - {name: About/Contact, link: '/about'}
 
