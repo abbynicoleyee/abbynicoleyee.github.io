@@ -3,13 +3,13 @@
 
 title: Abby Nicole Yee
 description: Personal website of Abby Nicole Yee
-copyright: 2024 [Colophon](colophon).
+copyright: 2024 [Colophon](website/colophon).
 
 menu:
-- {name: About, link: 'about'}
-- {name: Writing, link: 'writing'}
-- {name: Blog, link: 'blog'}
-- {name: Contact, link: 'about'}
+- {name: About, link: 'website/about'}
+- {name: Writing, link: 'website/writing'}
+- {name: Blog, link: 'website/blog'}
+- {name: Contact, link: 'website/about'}
 
 
 #-------------------------------
