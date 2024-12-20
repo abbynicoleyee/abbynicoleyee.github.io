@@ -6,10 +6,10 @@ description: Personal website of Abby Nicole Yee
 copyright: 2024 [Colophon](/colophon/).
 
 menu:
-- {name: About, link: 'website/_pages/about/'}
-- {name: Writing, link: 'website/_pages/writing/'}
-- {name: Blog, link: 'website/_pages/blog/'}
-- {name: Contact, link: 'website/_pages/about/'}
+- {name: About, link: 'about/'}
+- {name: Writing, link: 'writing/'}
+- {name: Blog, link: 'blog/'}
+- {name: Contact, link: 'about/'}
 
 
 #-------------------------------
