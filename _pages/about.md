@@ -1,19 +1,18 @@
 ---
 layout: about
 title: About
-author: Hal Y. Zhang
-image: assets/images/about/me.jpg
-signature: assets/images/about/signature.png
+author: Abby Nicole Yee
+image: assets/images/about/me.PNG
 ---
 
-<p class="paragraph-lg">I enjoy thinking about my next meal and half-following the rules. My Erd&#337;s number is 4. Here is a bio you can use for publicity purposes:</p>
+<p class="paragraph-lg">I was born on a Thursday in October 1997. I studied the piano from the age of 9, placing 1st in competitions such as the Junior Student Convention and the National Student Convention. At 13, I competed in Accelerated Christian Education's International Student Convention held at James Madison University, Virginia in 2011 and won 2nd place. I began writing in my journals from the age of 8. Here is a bio you can use for publicity purposes:</p>
 
-Hal Y. Zhang 章皓 writes science, fiction, and science fiction, in no particular order. Her language-and-loss chapbook _AMNESIA_ was published by Newfound and won the Eric Hoffer Micro Press Award, and her women-with-sharp-things collection _Goddess Bandit of the Thousand Arms_ was published by Aqueduct Press. She is online at [halyzhang.com](https://halyzhang.com).
+Abby is a Filipino autistic and schizotypal writer of science fiction, horror, poetry, and music. Find her online at [abbynicoleyee.github.io/abbynicoleyee](https://abbynicoleyee.github.io/abbynicoleyee).
 
-Here are some other things I've done in between bouts of staring off into space:
+Some other things I've done:
 
-- Editor, [Diabolical Plots](https://www.diabolicalplots.com/), 2023-now
-- Guest Editor, Spring 2022 issue of [Fireside Magazine](https://firesidefiction.com/)
-- Panelist, [Newfound Anzaldúa Poetry Prize](https://newfound.org/poetry-prize), 2020
-- Editorial Staff, [Reckoning](https://reckoning.press/), 2020-2021
-- First Reader, sub-Q, 2019-2020
+- Undergraduate creative writing student, University of the Philippines Diliman, 2017-now
+- Undergraduate computer science student, University of the Philippines Diliman, 2015-2017
+- Undergraduate biology student, University of the Philippines Diliman, 2014-2015
+- Freelance writer, 2022-now
+- Freelance voice actor, 2021-now
