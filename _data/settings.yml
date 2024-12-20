@@ -2,14 +2,14 @@
 # General Site Settings
 
 title: Abby Nicole Yee
-description: Personal website of Abby Nicole Yee
-copyright: 2024 [Colophon](website/colophon).
+description: Personal website of writer, composer, and artist Abby Nicole Yee
+copyright: Website by [Hal Y. Zhang](https://halyzhang.com/). See [Colophon](website/colophon) 2024.
 
 menu:
-- {name: About, link: 'website/about'}
-- {name: Writing, link: 'website/writing'}
-- {name: Blog, link: 'website/blog'}
-- {name: Contact, link: 'website/about'}
+- {name: About, link: 'https://abbynicoleyee.github.io/website/about'}
+- {name: Writing, link: 'https://abbynicoleyee.github.io/website/writing'}
+- {name: Blog, link: 'https://abbynicoleyee.github.io/website/blog'}
+- {name: Contact, link: 'https://abbynicoleyee.github.io/website/contact'}
 
 
 #-------------------------------
