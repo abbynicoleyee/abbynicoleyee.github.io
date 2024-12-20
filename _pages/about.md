@@ -7,7 +7,7 @@ image: assets/images/about/me.PNG
 
 <p class="paragraph-lg">I was born on a Thursday in October 1997. I studied the piano from the age of 9, placing 1st in competitions such as the Junior Student Convention and the National Student Convention. At 13, I competed in Accelerated Christian Education's International Student Convention held at James Madison University, Virginia in 2011 and won 2nd place. I began writing in my journals from the age of 8. Here is a bio you can use for publicity purposes:</p>
 
-Abby is a Filipino autistic and schizotypal writer of science fiction, horror, poetry, and music. Find her online at [abbynicoleyee.github.io/abbynicoleyee](https://abbynicoleyee.github.io/abbynicoleyee).
+Abby is a Filipino autistic and schizotypal writer of science fiction, horror, poetry, and music. Find her online at [abbynicoleyee.github.io/website](https://abbynicoleyee.github.io/website).
 
 Some other things I've done:
 
