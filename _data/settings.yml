@@ -6,10 +6,9 @@ description: Personal website of writer, composer, and artist Abby Nicole Yee
 copyright: Website by [Hal Y. Zhang](https://halyzhang.com/). See [Colophon](https://abbynicoleyee.github.io/website/colophon) 2024.
 
 menu:
-- {name: About, link: 'https://abbynicoleyee.github.io/website/about'}
+- {name: About/Contact, link: 'https://abbynicoleyee.github.io/website/about'}
 - {name: Writing, link: 'https://abbynicoleyee.github.io/website/writing'}
 - {name: Blog, link: 'https://abbynicoleyee.github.io/website/blog'}
-- {name: Contact, link: 'https://abbynicoleyee.github.io/website/contact'}
 
 
 #-------------------------------
