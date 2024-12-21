@@ -56,6 +56,7 @@ writing-label:
     title : "Music",
     type : "music"
   }
+  
 writing-items:
 - quote: "Clara knew where this was going. She always had the same answer, but it was always off-the-record, and Manuel could twist whatever she says. The Russian Sputnik II spacecraft wasn’t designed to be recovered, and Laika died of overheating hours after launch. They could all agree the ethics during the Cold War’s Space Race weren’t the best."
   date: '2024-10-01'
@@ -68,8 +69,8 @@ writing-items:
   words: 4080
   notes:
       - Read by [Kate Baker](https://clarkesworldmagazine.com/audio_10_24/) for the Clarkesworld Podcast, 2024.
-      
 - quote: Instrumental song with heavy strings and beats.
+  date: '2024-06-10'
   item-types:
   - type: music
   - type: selected
@@ -79,7 +80,6 @@ writing-items:
   words: instrumental/ambient
   notes:
       - Available on [Spotify](https://open.spotify.com/album/2nBqg1WWu6OYWLAAZTEYJO), [Apple Music](http://itunes.apple.com/album/id/1759897239), [YouTube](https://youtu.be/z4HLY-1Gk5U?si=PZELp-nKBLqFVpty), and more.
-      
 - quote: "It—flat and dimensionless and not made of paper anymore but not flesh either but not nothing and then the lights went off before you could see it unravel into—"
   date: '2018-12-09'
   item-types:
@@ -89,8 +89,8 @@ writing-items:
   name: Blank
   publisher: The Philippines Graphic
   words: 2100
-
-  - quote: Instrumental lo-fi song with raw and gritty MIDI samples from Ableton
+- quote: Instrumental lo-fi song with raw and gritty MIDI samples from Ableton
+  date: '2024-11-30'
   item-types:
   - type: music
   - type: selected
@@ -100,7 +100,6 @@ writing-items:
   words: instrumental/ambient
   notes:
       - Available on [Spotify](https://open.spotify.com/album/5gClrNi6H9iDnhlfXWJ4ml), [Apple Music](http://itunes.apple.com/album/id/1782729896), [YouTube](https://youtu.be/7lJubstL3fI?si=TyZdfl4RRjSub4Sz), and more.
-  
 - quote: “You know, Abby, you have really big legs,” she said. “You should call them logs.”
   date: '2017-03-28'
   item-types:
