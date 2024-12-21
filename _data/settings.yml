@@ -52,11 +52,11 @@ writing-label:
     title : "Creative nonfiction",
     type : "cnf"
   }
-  - {
+- {
     title : "Music",
     type : "music"
   }
-
+writing-items:
 - quote: "Clara knew where this was going. She always had the same answer, but it was always off-the-record, and Manuel could twist whatever she says. The Russian Sputnik II spacecraft wasn’t designed to be recovered, and Laika died of overheating hours after launch. They could all agree the ethics during the Cold War’s Space Race weren’t the best."
   date: '2024-10-01'
   item-types:
@@ -69,7 +69,7 @@ writing-label:
   notes:
       - Read by [Kate Baker](https://clarkesworldmagazine.com/audio_10_24/) for the Clarkesworld Podcast, 2024.
       
-  - quote: 
+- quote: Instrumental song with heavy strings and beats.
   item-types:
   - type: music
   - type: selected
@@ -90,7 +90,7 @@ writing-label:
   publisher: The Philippines Graphic
   words: 2100
 
-  - quote: 
+  - quote: Instrumental lo-fi song with raw and gritty MIDI samples from Ableton
   item-types:
   - type: music
   - type: selected
@@ -101,7 +101,6 @@ writing-label:
   notes:
       - Available on [Spotify](https://open.spotify.com/album/5gClrNi6H9iDnhlfXWJ4ml), [Apple Music](http://itunes.apple.com/album/id/1782729896), [YouTube](https://youtu.be/7lJubstL3fI?si=TyZdfl4RRjSub4Sz), and more.
   
-writing-items:
 - quote: “You know, Abby, you have really big legs,” she said. “You should call them logs.”
   date: '2017-03-28'
   item-types:
@@ -110,7 +109,6 @@ writing-items:
   name: The elephant does not exist
   publisher: Inquirer Young Blood
   words: 1106
-  
 
 #-------------------------------
 # Contact Section
