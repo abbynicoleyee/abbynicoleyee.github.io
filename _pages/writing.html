@@ -8,42 +8,8 @@ background-align: bg-shape-right
 <section class="section">
   <div class="container">
     <div class="row mb-5"><div class="col-12">
-      <h4>Fiction, poetry, creative nonfiction, and music, arranged however you like.</h4></div>
-    </div><div class="row mb-5">
-      <div class="col-12">
-        <div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
-
-        <div class="btn-group btn-group-toggle d-flex mx-auto" data-toggle="buttons">
-          <label class="btn btn-sm btn-outline-dark active">
-            <input type="radio" class="work-filter" name="shuffle-filter2" value="selected" checked/>Selected
-          </label>
-          <label class="btn btn-sm btn-outline-dark">
-            <input type="radio" class="work-filter" name="shuffle-filter2" value="all" />All
-          </label>
-        </div>
-          
-        <div class="btn-group btn-group-toggle d-flex mx-auto" data-toggle="buttons">
-          {% for label in site.data.settings.writing-label %}
-          <label class="btn btn-sm btn-outline-dark active">
-            <input type="checkbox" class="work-filter work-type" name="shuffle-filter" id="work-{{ label.type }}" value="{{ label.type }}" checked/>{{ label.title }}
-          </label>
-          {% endfor %}
-        </div>
-        
-        <div class="btn-group btn-group-toggle d-flex mx-auto" data-toggle="buttons">
-          <label class="btn btn-sm btn-outline-dark active">
-            <input type="radio" class="work-filter text-lowercase" name="shuffle-sort" value="date" checked/>Sort By Date
-          </label>
-          <label class="btn btn-sm btn-outline-dark">
-            <input type="radio" class="work-filter" name="shuffle-sort" value="words" />Sort By Words
-          </label>
-        </div>
-        </div>
-      </div>
+      <h4>Fiction, poetry, creative nonfiction, and music</h4></div>
     </div>
-
-
-
 
 <div class="row shuffle-wrapper">
   {% for item in site.data.settings.writing-items %}
