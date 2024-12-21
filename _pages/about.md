@@ -9,6 +9,7 @@ image: assets/images/about/me.PNG
           title="HTML/CSS"></span> then college<span class='footnote' data-toggle="tooltip" title="C, Python, Java"></span>, then continued writing in college<span class='footnote' data-toggle="tooltip" title="confessional poetry, speculative fiction"></span>, and started writing music<span class='footnote' data-toggle="tooltip" title="MuseScore, Ableton"></span> at 23.</p> 
 <p class="paragraph-lg">I studied the piano from the age of 9, placing 1st in competitions such as the Junior Student Convention and the National Student Convention. At 13, I competed in Accelerated Christian Education's International Student Convention held at James Madison University, Virginia in 2011 and won 2nd place. </p>
 
+<p class="paragraph-lg">I struggle with alogia, a speech disorder, and auditory processing disorder. These do not stop me from working as a part-time voice actor (just give me a script to read).</p>
 <p class="paragraph-lg">I'm currently based in Cagayan de Oro, Philippines.</p>
 
 Bio for publicity purposes:
