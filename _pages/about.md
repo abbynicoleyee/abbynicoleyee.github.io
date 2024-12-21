@@ -20,7 +20,7 @@ Abby Nicole Yee is a Filipino autistic and schizotypal writer of science fiction
 Follow, subscribe, and/or support me on my socials: [abbynicoleyee.carrd.co](https://abbynicoleyee.carrd.co).
 
 Where I've been and where I'm at:
-- Undergraduate creative writing student, University of the Philippines Diliman, 2017-now
+- Undergraduate creative writing student, University of the Philippines Diliman, 2017-now<span class='footnote' data-toggle="tooltip" title="A lot of breaks, INCs, and course repeats"></span>
 - Undergraduate computer science student, University of the Philippines Diliman, 2015-2017
 - Undergraduate biology student, University of the Philippines Diliman, 2014-2015
 - Freelance writer, 2022-now
