@@ -104,6 +104,7 @@ writing-items:
   date: '2017-03-28'
   item-types:
   - type: cnf
+  - type: selected
   link: https://opinion.inquirer.net/102787/elephant-not-exist
   name: The elephant does not exist
   publisher: Inquirer Young Blood
