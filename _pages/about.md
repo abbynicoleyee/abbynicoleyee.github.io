@@ -11,13 +11,13 @@ image: assets/images/about/me.PNG
 
 <p class="paragraph-lg">In 2023, I acquired a traumatic brain injury from the little-known neurotoxic effects<span class='footnote' data-toggle="tooltip" title="Dare I say, lobotomy-like"></span> of antipsychotics.</p>
 <p class="paragraph-lg">I struggle with alogia, a speech disorder, and auditory processing disorder, but these do not stop me from working as a part-time voice actor (just give me a script to read).</p>
-<p class="paragraph-lg">I'm currently based in Cagayan de Oro, Philippines.</p>
+<p class="paragraph-lg">I'm currently based in Cagayan de Oro, Philippines.</p> 
+<p class="paragraph-lg">Follow, subscribe, and/or support me on my socials: [abbynicoleyee.carrd.co](https://abbynicoleyee.carrd.co). </p>
 
 Bio for publicity purposes:
 
 Abby Nicole Yee is a Filipino autistic and schizotypal writer of science fiction, horror, poetry, and music. Her work has appeared in venues such as _Clarkesworld_ and _The Philippines Graphic_. Find her online at [abbynicoleyee.github.io/website](https://abbynicoleyee.github.io/website).
 
-Follow, subscribe, and/or support me on my socials: [abbynicoleyee.carrd.co](https://abbynicoleyee.carrd.co).
 
 Where I've been and where I'm at:
 - Undergraduate creative writing student, University of the Philippines Diliman, 2017-now<span class='footnote' data-toggle="tooltip" title="A lot of breaks, INCs, and course repeats"></span>
