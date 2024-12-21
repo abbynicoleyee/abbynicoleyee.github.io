@@ -21,6 +21,14 @@ menu:
 # Hero Section
 # hero:
   # hero-title: Hey there! 🌐
+social:
+  - { icon: "facebook", link: "#" }
+  - { icon: "instagram", link: "#" }
+  - { icon: "bluesky", link: "#" }
+  - { icon: "youtube", link: "#" }
+  - { icon: "x", link: "#" }
+  - { icon: "tiktok", link: "#" }
+
 
 #-------------------------------
 # Books (Section and Page)
