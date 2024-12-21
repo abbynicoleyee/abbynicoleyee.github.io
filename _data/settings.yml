@@ -22,12 +22,12 @@ menu:
 # hero:
   # hero-title: Hey there! 🌐
 social:
-  - { icon: "facebook", link: "#" }
-  - { icon: "instagram", link: "#" }
-  - { icon: "bluesky", link: "#" }
-  - { icon: "youtube", link: "#" }
-  - { icon: "x", link: "#" }
-  - { icon: "tiktok", link: "#" }
+  - { icon: "assets/images/bluesky.png", link: "#" }
+  - { icon: "assets/images/tiktok.png", link: "#" }
+  - { icon: "assets/images/facebook.png", link: "#" }
+  - { icon: "assets/images/instagram.png", link: "#" }
+  - { icon: "assets/images/x.png", link: "#" }
+  - { icon: "assets/images/youtube.png", link: "#" }
 
 
 #-------------------------------
