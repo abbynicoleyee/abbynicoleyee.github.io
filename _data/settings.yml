@@ -22,17 +22,17 @@ menu:
   # hero-title: Hey there! 🌐
 
 #-------------------------------
-# Books (Section and Page)
+# Works I'm most proud of (Section and Page)
 
-# Books Home Section
-books-home-items:
-  - image : "assets/images/books/mother.jpg"
+# Works Home Section
+works-home-items:
+  - image : "assets/images/clarkesworld.png"
     url: "books#mother"
 
-  - image : "assets/images/books/amnesia.jpg"
+  - image : "assets/images/panicattack.png"
     url: "books#amnesia"
 
-  - image : "assets/images/books/goddess.jpg"
+  - image : "assets/images/hawflakes.png"
     url: "books#goddess"
 
 #-------------------------------
