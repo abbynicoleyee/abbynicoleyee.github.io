@@ -69,26 +69,6 @@ writing-items:
   words: 4080
   notes:
       - Read by [Kate Baker](https://clarkesworldmagazine.com/audio_10_24/) for the Clarkesworld Podcast, 2024.
-- quote: Instrumental song with heavy strings and beats composed in MuseScore.
-  date: '2024-06-10'
-  item-types:
-  - type: music
-  - type: selected
-  link: https://open.spotify.com/album/2nBqg1WWu6OYWLAAZTEYJO
-  name: Panic Attack
-  publisher: TuneCore
-  words: 0
-  notes:
-      - Available on [Spotify](https://open.spotify.com/album/2nBqg1WWu6OYWLAAZTEYJO), [Apple Music](http://itunes.apple.com/album/id/1759897239), [YouTube](https://youtu.be/z4HLY-1Gk5U?si=PZELp-nKBLqFVpty), and more.
-- quote: "It—flat and dimensionless and not made of paper anymore but not flesh either but not nothing and then the lights went off before you could see it unravel into—"
-  date: '2018-12-09'
-  item-types:
-  - type: fiction
-  - type: selected
-  link: https://philippinesgraphic.com.ph/2018/12/09/blank/
-  name: Blank
-  publisher: The Philippines Graphic
-  words: 2100
 - quote: Instrumental lo-fi song with a raw irregular rhythm and gritty MIDI samples from Ableton.
   date: '2024-11-30'
   item-types:
@@ -100,6 +80,26 @@ writing-items:
   words: 0
   notes:
       - Available on [Spotify](https://open.spotify.com/album/5gClrNi6H9iDnhlfXWJ4ml), [Apple Music](http://itunes.apple.com/album/id/1782729896), [YouTube](https://youtu.be/7lJubstL3fI?si=TyZdfl4RRjSub4Sz), and more.
+- quote: Instrumental song with heavy strings and beats composed in MuseScore.
+  date: '2024-06-10'
+  item-types:
+  - type: music
+  - type: selected
+  link: https://open.spotify.com/album/2nBqg1WWu6OYWLAAZTEYJO
+  name: Panic Attack
+  publisher: TuneCore
+  words: 0
+  notes:
+      - Available on [Spotify](https://open.spotify.com/album/2nBqg1WWu6OYWLAAZTEYJO), [Apple Music](http://itunes.apple.com/album/id/1759897239), [YouTube](https://youtu.be/z4HLY-1Gk5U?si=PZELp-nKBLqFVpty), and more. 
+- quote: "It—flat and dimensionless and not made of paper anymore but not flesh either but not nothing and then the lights went off before you could see it unravel into—"
+  date: '2018-12-09'
+  item-types:
+  - type: fiction
+  - type: selected
+  link: https://philippinesgraphic.com.ph/2018/12/09/blank/
+  name: Blank
+  publisher: The Philippines Graphic
+  words: 2100
 - quote: “You know, Abby, you have really big legs,” she said. “You should call them logs.”
   date: '2017-03-28'
   item-types:
