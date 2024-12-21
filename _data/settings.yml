@@ -28,13 +28,13 @@ menu:
 # Highlights Home Section
 works-home-items:
   - image : "assets/images/clarkesworld.JPG"
-    url: "books#mother"
+    url: "highlights#clarkesworld"
 
   - image : "assets/images/panicattack.PNG"
-    url: "books#amnesia"
+    url: "highlights#panicattack"
 
   - image : "assets/images/hawflakes.JPG"
-    url: "books#goddess"
+    url: "highlights#hawflakes"
 
 #-------------------------------
 # Writing Page
