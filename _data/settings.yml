@@ -48,626 +48,69 @@ writing-label:
     title : "Poetry",
     type : "poetry"
   }
+- {
+    title : "Creative nonfiction",
+    type : "cnf"
+  }
+  - {
+    title : "Music",
+    type : "music"
+  }
 
+- quote: "Clara knew where this was going. She always had the same answer, but it was always off-the-record, and Manuel could twist whatever she says. The Russian Sputnik II spacecraft wasn’t designed to be recovered, and Laika died of overheating hours after launch. They could all agree the ethics during the Cold War’s Space Race weren’t the best."
+  date: '2024-10-01'
+  item-types:
+  - type: fiction
+  - type: selected
+  link: https://clarkesworldmagazine.com/yee_10_24/
+  name: A Space O/pera
+  publisher: Clarkesworld
+  words: 4080
+  notes:
+      - Read by [Kate Baker](https://clarkesworldmagazine.com/audio_10_24/) for the Clarkesworld Podcast, 2024.
+      
+  - quote: 
+  item-types:
+  - type: music
+  - type: selected
+  link: https://open.spotify.com/album/2nBqg1WWu6OYWLAAZTEYJO
+  name: Panic Attack
+  publisher: TuneCore
+  words: instrumental/ambient
+  notes:
+      - Available on [Spotify](https://open.spotify.com/album/2nBqg1WWu6OYWLAAZTEYJO), [Apple Music](http://itunes.apple.com/album/id/1759897239), [YouTube](https://youtu.be/z4HLY-1Gk5U?si=PZELp-nKBLqFVpty), and more.
+      
+- quote: "It—flat and dimensionless and not made of paper anymore but not flesh either but not nothing and then the lights went off before you could see it unravel into—"
+  date: '2018-12-09'
+  item-types:
+  - type: fiction
+  - type: selected
+  link: https://philippinesgraphic.com.ph/2018/12/09/blank/
+  name: Blank
+  publisher: The Philippines Graphic
+  words: 2100
 
+  - quote: 
+  item-types:
+  - type: music
+  - type: selected
+  link: https://open.spotify.com/album/5gClrNi6H9iDnhlfXWJ4ml
+  name: Out of Step
+  publisher: TuneCore
+  words: instrumental/ambient
+  notes:
+      - Available on [Spotify](https://open.spotify.com/album/5gClrNi6H9iDnhlfXWJ4ml), [Apple Music](http://itunes.apple.com/album/id/1782729896), [YouTube](https://youtu.be/7lJubstL3fI?si=TyZdfl4RRjSub4Sz), and more.
+  
 writing-items:
-- quote: at least we have hauntings.
-  date: '2022-02-16'
+- quote: “You know, Abby, you have really big legs,” she said. “You should call them logs.”
+  date: '2017-03-28'
   item-types:
-  - type: poetry
-  link: https://www.benningtonreview.org/current-issue-10
-  name: expiration
-  publisher: Bennington Review
-  words: 91
-- quote: and I choose not to spend / purgatory hating you
-  date: '2021-11-01'
-  item-types:
-  - type: poetry
-  - type: selected
-  link: https://www.uncannymagazine.com/article/the-burning-river/
-  name: the burning river
-  publisher: Uncanny Magazine
-  words: 83
-  notes:
-    - Dwarf Stars nominee, 2022.
-- quote: The understanding that the world does not see itself through your eyes, the acceptance thereof.
-  date: '2021-09-01'
-  item-types:
-  - type: fiction
-  - type: selected
-  link: https://firesidefiction.com/the-empathy-lessons
-  name: The Empathy Lessons
-  publisher: Fireside
-  words: 1160
-- quote: while they drill I am reminded of the moon / landing
-  date: '2021-06-23'
-  item-types:
-  - type: poetry
-  - type: selected
-  link: https://www.newstatesman.com/culture/poetry/2021/06/ns-poem-caries
-  name: caries
-  publisher: New Statesman
-  words: 49
-- quote: Sand is for her and her alone.
-  date: '2021-03-23'
-  item-types:
-  - type: fiction
-  - type: selected
-  link: https://www.fantasy-magazine.com/new/new-fiction/arenous/
-  name: Arenous
-  publisher: Fantasy Magazine
-  words: 2600
-  notes:
-    - Interviewed by [Veronica Henry](https://www.fantasy-magazine.com/new/new-nonfiction/new-author-spotlights/author-spotlight-hal-y-zhang/) for the Author Spotlight.
-- quote: falling / is different at two vs. fifty-two
-  date: '2021-03-02'
-  item-types:
-  - type: poetry
-  link: http://www.jubilat.org/jubilat/archive/2021-number-38/
-  name: knowing too much, paralyzed
-  publisher: jubilat
-  words: 110
-- quote: boss said / work fast break things
-  date: '2021-02-22'
-  item-types:
-  - type: poetry
-  - type: selected
-  link: http://strangehorizons.com/poetry/go-agile/
-  name: go agile
-  publisher: Strange Horizons
-  words: 120
-- quote: say the perseids. say the greek fire hailing down
-  date: '2021-01-01'
-  item-types:
-  - type: poetry
-  link: http://www.aqueductpress.com/books/978-1-61976-197-1.php
-  name: sound science | Pacifica/Evergreen
-  publisher: Climbing Lightly Through Forests
-  words: 270
-- quote: Complete the sequence—the wheel, the printing press, the transistor ... what’s next? 
-  date: '2020-12-26'
-  item-types:
-  - type: fiction
-  - type: selected
-  link: https://slate.com/technology/2020/12/dream-soft-dream-big-hal-zhang.html
-  name: Dream Soft, Dream Big
-  publisher: Future Tense
-  words: 5400
-- quote: I am standing next to / the unsunken earth
-  date: '2020-12-11'
-  item-types:
-  - type: poetry
-  link: https://www.fantasy-magazine.com/new/new-fiction/poetry/softening-come-morning/
-  name: softening, come morning
-  publisher: Fantasy Magazine
-  words: 84
-- quote: No flashing light, no puff of smoke. This isn’t the movies.
-  date: '2020-11-3'
-  item-types:
-  - type: fiction
-  - type: selected
-  link: https://uncannymagazine.com/article/proof-of-existence/
-  name: Proof of Existence
-  publisher: Uncanny Magazine
-  words: 6100
-  notes:
-    - Read by [Joy Piedmont](https://uncannymagazine.com/article/uncanny-magazine-podcast-37a/) for the Uncanny Magazine Podcast, 2020.
-- quote: I am peerless in regret.
-  date: '2020-11-3'
-  item-types:
-  - type: poetry
-  - type: selected
-  link: http://www.glass-poetry.com/journal/2020/november/zhang-free.html
-  name: free referral
-  publisher: "Glass: A Journal of Poetry"
-  words: 110
-- quote: not because they are easy, / but because of the disease.
-  date: '2020-11-01'
-  item-types:
-  - type: poetry
-  link: https://www.gazejournal.net/journal/halyzhang
-  name: Ornithology
-  publisher: gaze
-  words: 50
-- quote: Bawk bawk!
-  date: '2020-10-23'
-  item-types:
-  - type: fiction
-  link: https://www.worldweaverpress.com/store/p171/Recognize_Fascism.html
-  name: Chicken Time
-  publisher: Recognize Fascism, World Weaver Press
-  words: 4600
-  notes: Also published in [New Haven Review Issue 24](http://www.newhavenreview.com/new-index)
-- quote: I want to pour my head out from my left ear into your new chalice.
-  blurb: A programmer codes her lost love.
-  date: '2020-10-20'
-  icon: background-image:url('assets/pubs/fireside-summer-2020.jpg');
-  item-types:
-  - type: fiction
-  - type: selected
-  link: https://firesidefiction.com/synthia-py
-  name: synthia.py
-  publisher: Fireside
-  words: 1200
-  notes:
-    - Read by [Hollis Beck](https://firesidefiction.com/synthia-py) for Fireside, 2020.
-- quote: this is / the specter of blue, the sky, / all of it.
-  date: '2020-08-06'
-  icon: background-image:url('assets/pubs/twistedmoon-5.jpg');
-  item-types:
-  - type: poetry
-  - type: selected
-  link: http://twistedmoonmag.com/5/zhang-1.html
-  name: anatomicon
-  publisher: Twisted Moon
-  words: 170
-- quote: opaque pang they would call / love, that rarefied thing
-  date: '2020-08-06'
-  icon: background-image:url('assets/pubs/twistedmoon-5.jpg');
-  item-types:
-  - type: poetry
-  link: http://twistedmoonmag.com/5/zhang-2.html
-  name: to my ghost by the sound
-  publisher: Twisted Moon
-  words: 190
-- quote: mix equal parts helpless and culpable. form into original shapes.
-  date: '2020-06-10'
-  icon: background-image:url('assets/pubs/prismrev-22.jpg');
-  item-types:
-    - type: poetry
-  link: https://artsci.laverne.edu/prism/issues-samples/
-  name: hurricane eye, neat | braking before the crash
-  publisher: Prism Review
-  words: 130
-- quote: I remember my first death / under dim lights.
-  date: '2020-03-18'
-  icon: background-image:url('assets/pubs/reckoning-4.jpg');
-  item-types:
-  - type: poetry
-  - type: selected
-  link: https://reckoning.press/victor-st/
-  name: Victor St.
-  publisher: Reckoning
-  words: 190
-- quote: sipping what we cannot / swallow.
-  date: '2020-03-18'
-  icon: background-image:url('assets/pubs/reckoning-4.jpg');
-  item-types:
-  - type: poetry
-  link: https://reckoning.press/on-the-nuclear-porch/
-  name: on the nuclear porch,
-  publisher: Reckoning
-  words: 140
-- quote: Here amidst the Pacific / I have forgotten dryness.
-  date: '2020-02-29'
-  icon: background-image:url('assets/pubs/wizardsinspace-5.jpg');
-  item-types:
-  - type: poetry
-  - type: selected
-  link: https://www.wizardsinspacemag.com/read/2020/9/30/only-treading
-  name: Only Treading
-  publisher: Wizards in Space
-  words: 190
-- quote: "that thrumming when you\u2019re near"
-  date: '2020-02-27'
-  item-types:
-    - type: poetry
-  link: http://www.pioneertownlit.com/hal-y-zhang
-  name: '[themalign]ed | energia'
-  publisher: pioneertown
-  words: 180
-- quote: others first, then us.
-  date: '2020-02-18'
-  icon: background-image:url('assets/pubs/fireside-winter-2020.jpg');
-  item-types:
-  - type: poetry
-  link: https://firesidefiction.com/how-to-leave-the-planet
-  name: How to leave the planet
-  publisher: Fireside
-  words: 110
-- quote: the kind of thing you build / by hand, two of
-  date: '2020-01-07'
-  icon: background-image:url('assets/pubs/qwerty-40-2020.jpg');
-  item-types:
-  - type: poetry
-  link: https://www.qwertyunb.com/product-page/pre-order-qwerty-40
-  name: Recollecting soil
-  publisher: Qwerty Magazine
-  words: 130
-- quote: the invader, goddess of the electric / hand.
-  date: '2019-12-15'
-  item-types:
-  - type: poetry
-  name: denaturing
-  publisher: Alegrarse Journal
-  words: 100
-- quote: "what is a man / \u2014but"
-  date: '2019-11-15'
-  icon: background-image:url('assets/pubs/tsr-winter-spring-2020.jpg');
-  item-types:
-  - type: poetry
-  - type: selected
-  link: https://www.thesouthamptonreview.com/tsronline/2020/8/5/lance-to-drain
-  name: lance to drain
-  publisher: The Southampton Review
-  words: 67
-- quote: once there was meaning / but I swallowed
-  date: '2019-11-14'
-  item-types:
-  - type: poetry
-  name: findings at sea
-  publisher: Pretty Cool Poetry Thing
-  link: https://twitter.com/PoetryThing
-  words: 120
-- quote: I avert / her diamond gaze.
-  date: '2019-11-05'
-  icon: background-image:url('assets/pubs/uncanny-novdec-2019.jpg');
-  item-types:
-  - type: poetry
-  link: https://uncannymagazine.com/article/fear-cat/
-  name: fear cat
-  publisher: Uncanny Magazine
-  words: 140
-- quote: The thing that runs through you.
-  date: '2019-10-17'
-  icon: background-image:url('assets/pubs/banshee-autumn-winter-2019.jpg');
-  item-types:
-  - type: poetry
-  - type: selected
-  link: https://www.bansheelit.com/read/saoirse-by-hal-y-zhang
-  name: Saoirse
-  publisher: Banshee
-  words: 81
-- quote: blue were her hands, / and gaps in her teeth.
-  date: '2019-09-22'
-  icon: background-image:url('assets/pubs/spillway-27.jpg');
-  item-types:
-  - type: poetry
-  link: http://spillway.org/spillway27.html
-  name: lapis
-  publisher: Spillway
-  words: 53
-- quote: 'Breaking: Extraterrestrial Objects Found To Be Marketing Hoax'
-  date: '2019-09-15'
-  item-types:
-  - type: poetry
-  link: https://sites.google.com/a/newmyths.com/nmwebsite/poems/oubliette
-  name: oubliette
-  publisher: Newmyths.com
-  words: 180
-- quote: the red oaks all strings / not like artificial straw
-  date: '2019-09-12'
-  item-types:
-  - type: poetry
-  name: "rope spawn\_\_\_\_heal over"
-  publisher: Pretty Cool Poetry Thing
-  link: https://twitter.com/PoetryThing
-  words: 90
-- quote: everything is // different. half of me too.
-  date: '2019-09-06'
-  item-types:
-  - type: poetry
-  - type: selected
-  link: http://www.kwelijournal.org/poetry-1/2019/9/6/what-we-gain-in-translation-by-hal-y-zhang
-  name: what we gain in translation
-  publisher: Kweli Journal
-  words: 130
-- quote: It didn't take long for Laura Herrera to notice that something was strange
-    about her twins.
-  date: '2019-09-03'
-  icon: background-image:url('assets/pubs/dreamforge-3.jpg');
-  item-types:
-  - type: fiction
-  - type: selected
-  link: https://curiousfictions.com/stories/3581-hal-y-zhang-the-specular-boy
-  name: The Specular Boy
-  publisher: DreamForge Magazine
-  words: 4500
-- quote: Your bird protests, but she does not know winter.
-  date: '2019-08-29'
-  item-types: 
-    type: poetry
-  link: http://www.museajournal.com/2019/08/h-zhang/
-  name: "Pomegranate\u2013Persephone | Summer, scalloped edges of (colorized)"
-  publisher: Muse/A Journal
-  words: 280
-- quote: "They\u2019re singing a chanson outside."
-  date: '2019-07-17'
-  icon: background-image:url('assets/pubs/heartofknowledge.jpg');
-  item-types:
-  - type: poetry
-  link: https://commons.wikimedia.org/wiki/File:The_Wikimedia_Foundation%27s_Heart_of_Knowledge_Contest_Magazine.pdf
-  name: Signal to Noise
-  publisher: Wikimedia Heart of Knowledge Contest
-  words: 200
-- quote: I've gone and cast your words into the sea.
-  date: '2019-06-24'
-  icon: background-image:url('assets/pubs/liminality-summer-2019.jpg');
-  item-types:
-  - type: poetry
-  link: http://www.liminalitypoetry.com/issue-20-summer-2019/pearling/
-  name: Pearling
-  publisher: Liminality
-  words: 90
-- quote: the body is light and fruit. / the mind is color and water.
-  date: '2019-05-27'
-  item-types: 
-    - type: poetry
-  link: https://www.bookxi.org/issue-1-science-fiction
-  name: new mass | Only Found in Dreams
-  publisher: 'Book XI: A Journal of Literary Philosophy'
-  words: 180
-- quote: why did she take residence in you, how did she grow?
-  date: '2019-05-18'
-  icon: background-image:url('assets/pubs/reclaim-2019.jpg');
-  item-types:
-  - type: poetry
-  link: https://reclaimresist.weebly.com/
-  name: seven heads
-  publisher: 'RECLAIM: An Anthology of Women''s Poetry'
-  words: 360
-- quote: the clock chimes six and / you transform into a different person.
-  date: '2019-05-15'
-  item-types:
-  - type: poetry
-  link: https://throughthegate.net/31/
-  name: sundown
-  publisher: Through the Gate
-  words: 220
-- quote: I have seen the light, / and you will be struck blind.
-  date: '2019-05-01'
-  item-types: 
-    - type: poetry
-  link: https://www.astralwatersreview.com/shop
-  name: Firelight, Firebright | runes, ruins
-  publisher: Astral Waters Review
-  words: 230
-- quote: once you get through / the nerves there is no pain.
-  date: '2019-05-01'
-  item-types:
-  - type: poetry
-  link: https://www.prolitmag.com/issue-one/zhang
-  name: ____sheet
-  publisher: Prolit
-  words: 80
-- quote: without / light there are no things, there / is no shadow.
-  date: '2019-04-30'
-  item-types: 
-    - type: poetry
-  link: https://thehellebore.com/sun-caves-sea-child-sea-mother/
-  name: sun caves | sea-child, sea-mother
-  publisher: The Hellebore
-  words: 230
-- quote: I can tell you're / thinking of your heart things again.
-  date: '2019-04-26'
-  icon: background-image:url('assets/pubs/ellipsis-55-2019.jpg');
-  item-types:
-  - type: poetry
-  link: https://www.westminstercollege.edu/campus-life/publications/ellipsis/archives
-  name: Sunday Cleansing
-  publisher: ellipsis...Literature & Art
-  words: 120
-- quote: myself a vessel for / the eternal things.
-  date: '2019-04-08'
-  icon: background-image:url('assets/pubs/fillingstation-71-2019.jpg');
-  item-types: 
-    - type: poetry
-  link: https://fillingstation.myshopify.com/products/filling-station-issue-71-science-tech
-  name: "metaflor 01 | metaflor 10 | Things I\u2019m Not"
-  publisher: filling Station
-  words: 190
-- quote: she goes between / the flat and real with // a thought.
-  date: '2019-03-20'
-  item-types:
-  - type: poetry
-  link: https://softsurface.org/archive
-  name: man drawn
-  publisher: soft surface
-  words: 63
-- quote: On the tarpaulin I lay your body, cold and rigid as the geometry you love.
-  date: '2019-03-20'
-  item-types:
-  - type: fiction
-  - type: selected
-  link: https://syntaxandsalt.com/2019/03/20/outfield-by-hal-y-zhang/
-  name: Outfield
-  publisher: Syntax & Salt
-  words: 400
-  notes:
-    - Best of the Net nominee, 2019.
-    - Read by me at [Story Hour](https://www.facebook.com/102109784794285/videos/250862656230850/?t=1543) (starts 25:43), 2020.
-- quote: "The neighbor\u2019s girl coughs rubies and sapphires."
-  date: '2019-03-12'
-  icon: background-image:url('assets/pubs/barelife-2.jpg');
-  item-types:
-  - type: fiction
-  - type: selected
-  notes:
-    - Reprinted in [_Goddess Bandit of the Thousand Arms_](goddess), 2020.
-    - Read by me at [Story Hour](https://www.facebook.com/102109784794285/videos/250862656230850/?t=1740) (starts 28:50), 2020.
-  link: https://www.barelifereview.org/in-print
-  name: Ruby, Ruby, Black Sand
-  publisher: The Bare Life Review
-  words: 3200
-- quote: Vivian clutched the bag in her lap and thought of winged things.
-  date: '2019-03-05'
-  icon: background-image:url('assets/pubs/ifthisgoeson-2019.jpg');
-  item-types:
-  - type: fiction
-  link: https://parvuspress.com/itgo/
-  name: But for Grace
-  publisher: If This Goes On
-  words: 5000
-- quote: '...a beat beneath his feet, a quickening in his pulse.'
-  date: '2019-02-15'
-  icon: background-image:url('assets/pubs/gorgon-2019.jpg');
-  item-types:
-  - type: fiction
-  link: https://www.goodreads.com/book/show/43809473-gorgon
-  name: Dark the Sky, Rust the Earth
-  publisher: 'Gorgon: Stories of Emergence'
-  words: 900
-- quote: "\u201CWhat do you mean, backwards?\u201D"
-  date: '2019-02-05'
-  item-types:
-  - type: poetry
-  - type: selected
-  notes:
-    - Podcasted by [Strange Horizons](http://strangehorizons.com/podcasts/podcast-majorana-back-again/), 2019.
-  link: http://strangehorizons.com/poetry/majorana-back-again/
-  name: Majorana, Back Again
-  publisher: Strange Horizons
-  words: 200
-- quote: why we only love people after they die/I don't understand.
-  date: '2019-02-04'
-  icon: background-image:url('assets/pubs/knicknackery-winter-2018.jpg');
-  item-types:
-  - type: poetry
-  link: http://theknicknackery.com/issue-six-winter-2018/
-  name: something resembling good news
-  publisher: The Knicknackery
-  words: 180
-- quote: I need.
-  date: '2019-02-01'
-  icon: background-image:url('assets/pubs/lockjaw-6-2019.jpg');
-  item-types:
-    - type: poetry
-    - type: selected
-  link: http://lockjawmagazine.com/vol6/zhang
-  name: f/loss | specific heat | knight to mate in one | beldam? bedlam?
-  publisher: Lockjaw Magazine
-  words: 400
-- quote: I am thinking of a sharp thing.
-  date: '2019-01-04'
-  item-types:
-    - type: poetry
-  link: https://www.argotmagazine.com/poetry-and-fiction/hal-zhang-three-poems
-  name: Shelly Scully | litotes | five forms of tigers
-  publisher: Argot Magazine
-  words: 300
-- quote: You whisper sweet crude nothings.
-  date: '2019-01-04'
-  item-types:
-  - type: poetry
-  link: https://califragile.org/2019/01/04/gas-light-by-hal-y-zhang/
-  name: Gas, Light
-  publisher: Califragile
-  words: 150
-- quote: roots, not wings.
-  date: '2019-01-01'
-  item-types:
-  - type: poetry
-  notes:
-    - Podcasted by [Uncanny Magazine](https://uncannymagazine.com/article/uncanny-magazine-podcast-26b/), 2019.
-  link: https://uncannymagazine.com/article/steeped-in-stars/
-  name: Steeped in Stars
-  publisher: Uncanny Magazine
-  words: 300
-- quote: my egg opens over the breakfast/pan
-  date: '2018-12-26'
-  icon: background-image:url('assets/pubs/truancy-5-dec-2018.jpg');
-  item-types:
-  - type: poetry
-  link: http://www.truancymag.dreamhosters.com/2018/12/26/sky-king-toast-by-hal-y-zhang/
-  name: sky king toast
-  publisher: Truancy Magazine
-  words: 110
-- quote: Are you oriented?
-  date: '2018-11-26'
-  item-types: 
-    - type: fiction
-  link: https://themartianmagazine.wordpress.com/2018/11/26/peripheral-13-by-hal-y-zhang/
-  name: 'Peripheral #13'
-  publisher: Martian Magazine
-  words: 100
-- quote: 'I laughed at your question in the glittery grass, our only cover the mantle
-    of twilight. '
-  date: '2018-11-15'
-  link: https://curiousfictions.com/stories/2141-hal-y-zhang-do-you-love-me-more-than-the-stars
-  item-types:
-  - type: fiction
-  name: Do you love me more than the stars?
-  publisher: Helios Quarterly Magazine
-  words: 1400
-- quote: slip between the grating of my/ribs
-  date: '2018-11-06'
-  icon: background-image:url('assets/pubs/uncanny-novdec-2018.jpg');
-  item-types:
-  - type: poetry
-  notes:
-    - Podcasted by [Uncanny Magazine](https://uncannymagazine.com/article/uncanny-magazine-podcast-25a/), 2018.
-  link: https://uncannymagazine.com/article/cardioid/
-  name: cardioid
-  publisher: Uncanny Magazine
-  words: 61
-- quote: The lump on the back of my skull is not/draining
-  date: '2018-10-23'
-  item-types:
-  - type: poetry
-  - type: selected
-  link: https://isacoustic.com/2018/10/23/person-hal-y-zhang-one-poem/
-  name: Sievelike
-  publisher: Isacoustic
-  words: 110
-- quote: I did not know it would hurt/this much to turn into an angel.
-  date: '2018-06-29'
-  icon: background-image:url('assets/pubs/liminality-summer-2018.jpg');
-  item-types:
-  - type: poetry
-  - type: selected
-  notes:
-    - Rhysling nominee, 2018.
-  link: http://www.liminalitypoetry.com/issue-16-summer-2018/seraphima/
-  name: Seraphima
-  publisher: Liminality
-  words: 190
-- quote: It is all an accident.
-  date: '2018-06-19'
-  icon: background-image:url('assets/pubs/fireside-june-2018.jpg');
-  item-types:
-  - type: fiction
-  notes:
-    - Locus Recommended Reading, 2018.
-  link: https://firesidefiction.com/cast-off-tight
-  name: Cast Off Tight
-  publisher: Fireside
-  words: 3200
-- quote: At night we dream of falling.
-  date: 2018-03-01
-  icon: background-image:url('assets/pubs/uncanny-marapr-2018.jpg');
-  item-types:
-  - type: poetry
-  link: https://uncannymagazine.com/article/swallow/
-  name: Swallow
-  publisher: Uncanny Magazine
-  words: 100
-- quote: The cello is her voice box and she lets it out.
-  date: 2017-09-01
-  icon: background-image:url('assets/pubs/xprize-2017.jpg');
-  item-types:
-  - type: fiction
-  link: http://seat14c.com/future_ideas/15F
-  name: The Noctilucent Paradox in E Minor
-  publisher: XPRIZE
-  words: 4000
-- quote: When her allergies flare...
-  date: 2017-08-01
-  item-types: 
-    - type: fiction
-  link: https://storyseedvault.com/2017/08/16/46/
-  name: Tattooed Helix
-  publisher: Story Seed Vault
-  words: 24
-- quote: So you want to be an actor, huh?
-  date: 2017-06-01
-  icon: background-image:url('assets/pubs/nature-2017.jpg');
-  item-types:
-  - type: fiction
-  link: https://www.nature.com/nature/journal/v546/n7660/full/546696a.html
-  name: Jurassic Jaws Jones
-  publisher: Nature Futures
-  words: 1000
-
+  - type: cnf
+  link: https://opinion.inquirer.net/102787/elephant-not-exist
+  name: The elephant does not exist
+  publisher: Inquirer Young Blood
+  words: 1106
+  
 
 #-------------------------------
 # Contact Section
