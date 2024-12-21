@@ -13,7 +13,7 @@ background-align: bg-shape-right
       <div class="col-12">
         <div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
 
-        <div class="btn-group btn-group-toggle justify-content-center d-flex mx-auto" data-toggle="buttons">
+        <div class="btn-group btn-group-toggle d-flex mx-auto" data-toggle="buttons">
           <label class="btn btn-sm btn-outline-dark active">
             <input type="radio" class="work-filter" name="shuffle-filter2" value="selected" checked/>Selected
           </label>
@@ -21,7 +21,8 @@ background-align: bg-shape-right
             <input type="radio" class="work-filter" name="shuffle-filter2" value="all" />All
           </label>
         </div>
-        <div class="btn-group btn-group-toggle justify-content-center d-flex mx-auto" data-toggle="buttons">
+          
+        <div class="btn-group btn-group-toggle d-flex mx-auto" data-toggle="buttons">
           {% for label in site.data.settings.writing-label %}
           <label class="btn btn-sm btn-outline-dark active">
             <input type="checkbox" class="work-filter work-type" name="shuffle-filter" id="work-{{ label.type }}" value="{{ label.type }}" checked/>{{ label.title }}
