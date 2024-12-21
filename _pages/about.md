@@ -15,7 +15,9 @@ image: assets/images/about/me.PNG
 
 Bio for publicity purposes:
 
-Abby Nicole Yee is a Filipino autistic and schizotypal writer of science fiction, horror, poetry, and music. Her work has appeared in venues such as _Clarkesworld_ and _The Philippines Graphic_. Find her website at [abbynicoleyee.github.io/website](https://abbynicoleyee.github.io/website) and social media at [abbynicoleyee.carrd.co](https://abbynicoleyee.carrd.co).
+Abby Nicole Yee is a Filipino autistic and schizotypal writer of science fiction, horror, poetry, and music. Her work has appeared in venues such as _Clarkesworld_ and _The Philippines Graphic_. Find her website at [abbynicoleyee.github.io/website](https://abbynicoleyee.github.io/website).
+
+Follow, subscribe, and/or support me on my socials: [abbynicoleyee.carrd.co](https://abbynicoleyee.carrd.co).
 
 Where I've been and where I'm at:
 - Undergraduate creative writing student, University of the Philippines Diliman, 2017-now
