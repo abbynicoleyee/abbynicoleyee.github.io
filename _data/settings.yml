@@ -19,8 +19,8 @@ menu:
 
 #-------------------------------
 # Hero Section
-# hero:
-  # hero-title: Hey there! 🌐
+hero:
+  hero-title: Hey there! 🌐
 
 #-------------------------------
 # Books (Section and Page)
