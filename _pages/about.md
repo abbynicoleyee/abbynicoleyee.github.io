@@ -14,7 +14,7 @@ image: assets/images/about/me.PNG
 <p class="paragraph-lg">I'm currently based in Cagayan de Oro, Philippines.</p> 
 <p class="paragraph-lg">Follow, subscribe, and/or support me on my socials: <a href="https://abbynicoleyee.carrd.co">abbynicoleyee.carrd.co</a>.</p>
 
-<h3>Bio for publicity purposes:</h3>
+<h3>40-word Bio</h3>
 
 <p class="paragraph-lg">Abby Nicole Yee is a Filipino autistic and schizotypal writer of science fiction, horror, poetry, and music. Her work has appeared in venues such as Clarkesworld and The Philippines Graphic. Find her online at <a href="https://abbynicoleyee.github.io/website">abbynicoleyee.github.io/website</a>.</p>
 
