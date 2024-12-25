@@ -7,7 +7,7 @@
         <h2 class="section-title">Blogs</h2>
       </div>
       {% for post in site.posts offset:0 limit:3 %}
-      {% include post %}
+      {% include post.md %}
       {% endfor %}
     </div>
   </div>
