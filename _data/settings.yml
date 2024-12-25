@@ -41,28 +41,31 @@ works-home-items:
 
 writing-label:
 - {
-    title : "Fiction",
-    type : "fiction"
+    title : "Short Story",
+    type : "Short Story"
+  }
+- {
+    title : "Novella",
+    type : "Novella"
   }
 - {
     title : "Poetry",
-    type : "poetry"
+    type : "Poetry"
   }
 - {
     title : "Creative Nonfiction",
-    type : "CNF"
+    type : "Creative Nonfiction"
   }
 - {
     title : "Music",
-    type : "music"
+    type : "Music"
   }
   
 writing-items:
 - quote: "Clara knew where this was going. She always had the same answer, but it was always off-the-record, and Manuel could twist whatever she says. The Russian Sputnik II spacecraft wasn’t designed to be recovered, and Laika died of overheating hours after launch. They could all agree the ethics during the Cold War’s Space Race weren’t the best."
   date: '2024-10-01'
   item-types:
-  - type: fiction
-  - type: selected
+  - type: Short Story
   link: https://clarkesworldmagazine.com/yee_10_24/
   name: A Space O/pera
   publisher: Clarkesworld
@@ -72,8 +75,7 @@ writing-items:
 - quote: Instrumental lo-fi song with a raw irregular rhythm and gritty MIDI samples from Ableton.
   date: '2024-11-30'
   item-types:
-  - type: music
-  - type: selected
+  - type: Music
   link: https://open.spotify.com/album/5gClrNi6H9iDnhlfXWJ4ml
   name: Out of Step
   publisher: TuneCore
@@ -83,8 +85,7 @@ writing-items:
 - quote: Instrumental song with heavy strings and beats composed in MuseScore.
   date: '2024-06-10'
   item-types:
-  - type: music
-  - type: selected
+  - type: Music
   link: https://open.spotify.com/album/2nBqg1WWu6OYWLAAZTEYJO
   name: Panic Attack
   publisher: TuneCore
@@ -94,8 +95,7 @@ writing-items:
 - quote: "It—flat and dimensionless and not made of paper anymore but not flesh either but not nothing and then the lights went off before you could see it unravel into—"
   date: '2018-12-09'
   item-types:
-  - type: fiction
-  - type: selected
+  - type: Short Story
   link: https://philippinesgraphic.com.ph/2018/12/09/blank/
   name: Blank
   publisher: The Philippines Graphic
@@ -103,8 +103,7 @@ writing-items:
 - quote: “You know, Abby, you have really big legs,” she said. “You should call them logs.”
   date: '2017-03-28'
   item-types:
-  - type: cnf
-  - type: selected
+  - type: Creative Nonfiction
   link: https://opinion.inquirer.net/102787/elephant-not-exist
   name: The elephant does not exist
   publisher: Inquirer Young Blood
