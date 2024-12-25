@@ -9,27 +9,27 @@ background-align: bg-shape-center
 <section class="section">
   <div class="container">
     <div class="row">
-      {% for post in site.posts %}
-      {% include post.html %}
+      {% for post1 in site.posts %}
+      {% include post1.html %}
       {% endfor %}
     </div>
   </div>
 </section>
 <!-- /blog -->
 
-{% for post in site.posts %}
+{% for post1 in site.posts %}
 <section class="section">
   <div class="container">
     <div class="row mb-5">
 <article>
   <h3 class="font-tertiary">
-    <a href="{{ post.url }}">
-      {{ post.title }}
+    <a href="{{ post1.url }}">
+      {{ post1.title }}
     </a>
   </h3>
-  <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+  <time datetime="{{ post1.date | date: "%Y-%m-%d" }}">{{ post1.date | date: "%Y-%m-%d" }}</time>
 </div><div class="row">
-  {{ post.content }}
+  {{ post1.content }}
 </div>
 </article>
 
