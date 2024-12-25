@@ -9,8 +9,10 @@ tags:   freebies, gift, tracker
 
 **Free Writing Submissions Tracker**
 
-Happy Holidays! I created a free writing submissions tracker in Google Sheets. 
+So I created a free customizable writing submissions tracker in Google Sheets. 
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+<p class="paragraph-lg">Download here:<a href="https://docs.google.com/spreadsheets/d/1Ig98OD3g4oTDIGXHjQ2EM2vhTMn6mJDPIjOSRHs-3yM/edit?usp=sharing)">2025 Writing Tracker</a>.</p>
 
+Make a copy and modify like you would. 
 
+Happy Holidays! 
