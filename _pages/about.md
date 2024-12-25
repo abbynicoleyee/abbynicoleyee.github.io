@@ -12,7 +12,8 @@ image: assets/images/about/me.PNG
 <p class="paragraph-lg">In 2023, I acquired a traumatic brain injury from the little-known neurotoxic effects<span class='footnote' data-toggle="tooltip" title="Dare I say, lobotomy-like"></span> of antipsychotics.</p>
 <p class="paragraph-lg">I struggle with alogia, a speech disorder, and auditory processing disorder, but these do not stop me from working as a part-time voice actor (just give me a script to read).</p>
 <p class="paragraph-lg">I'm currently based in Cagayan de Oro, Philippines.</p> 
-<p class="paragraph-lg">Follow, subscribe, and/or support me on my socials: <a href="https://abbynicoleyee.carrd.co">abbynicoleyee.carrd.co</a>.</p>
+<p class="paragraph-lg">Follow, subscribe, and/or support me on my socials (Bluesky, YouTube, Instagram, Ko-fi, & more): <a href="https://abbynicoleyee.carrd.co">abbynicoleyee.carrd.co</a>.</p>
+<p class="paragraph-lg">Stay updated through my newsletter (blogs, products, process notes, etc.): <a href="https://abbynicoleyee.kit.com/profile">Newsletter</a>.</p>
 
 <h3>40-word bio</h3>
 
