@@ -66,6 +66,7 @@ writing-items:
   date: '2024-10-01'
   item-types:
   - type: Short Story
+  - type: selected
   link: https://clarkesworldmagazine.com/yee_10_24/
   name: A Space O/pera
   publisher: Clarkesworld
@@ -76,6 +77,7 @@ writing-items:
   date: '2024-11-30'
   item-types:
   - type: Music
+  - type: selected
   link: https://open.spotify.com/album/5gClrNi6H9iDnhlfXWJ4ml
   name: Out of Step
   publisher: TuneCore
@@ -86,6 +88,7 @@ writing-items:
   date: '2024-06-10'
   item-types:
   - type: Music
+  - type: selected
   link: https://open.spotify.com/album/2nBqg1WWu6OYWLAAZTEYJO
   name: Panic Attack
   publisher: TuneCore
@@ -96,6 +99,7 @@ writing-items:
   date: '2018-12-09'
   item-types:
   - type: Short Story
+  - type: selected
   link: https://philippinesgraphic.com.ph/2018/12/09/blank/
   name: Blank
   publisher: The Philippines Graphic
@@ -104,6 +108,7 @@ writing-items:
   date: '2017-03-28'
   item-types:
   - type: Creative Nonfiction
+  - type: selected
   link: https://opinion.inquirer.net/102787/elephant-not-exist
   name: The elephant does not exist
   publisher: Inquirer Young Blood
