@@ -123,6 +123,11 @@ contact-form-url: f/mkgndaab
 # Blog Section
 
 posts: 
+  url: 
+  title: 
+  date:
+  content:
+  excerpt: 
 
 #-------------------------------
 # Colophon
