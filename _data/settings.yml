@@ -123,6 +123,7 @@ contact-form-url: f/mkgndaab
 # Blog Section
 
 posts: 
+- image :
   url: 
   title: 
   date:
