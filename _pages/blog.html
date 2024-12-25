@@ -9,8 +9,8 @@ background-align: bg-shape-center
 <section class="section">
   <div class="container">
     <div class="row">
-      {% for p in site.posts %}
-      {% include p %}
+      {% for post in site.posts %}
+      {% include post.md %}
       {% endfor %}
     </div>
   </div>
