@@ -5,8 +5,8 @@
       <div class="col-12 text-center">
         <h2 class="section-title">Blogs</h2>
       </div>
-      {% for p in site.posts offset:0 limit:3 %}
-      {% include p %}
+      {% for post in site.posts offset:0 limit:3 %}
+      {% include post.md %}
       {% endfor %}
     </div>
   </div>
