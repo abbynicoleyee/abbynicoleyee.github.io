@@ -119,18 +119,7 @@ writing-items:
 
 contact-title: Contact Info
 contact-form-url: f/mkgndaab
-#-------------------------------
-# Blog Section
 
-posts: 
-- image : "assets/images/hawflakes.JPG"
-  url: "https://abbynicoleyee.github.io/website/blog"
-  title: Test blog
-  date: '2017-03-28'
-  content: Hello
-  excerpt: Hello
-
-#-------------------------------
 # Colophon
 
 colophon:
