@@ -123,12 +123,12 @@ contact-form-url: f/mkgndaab
 # Blog Section
 
 posts: 
-- image :
-  url: 
-  title: 
-  date:
-  content:
-  excerpt: 
+- image : "assets/images/hawflakes.JPG"
+  url: "https://abbynicoleyee.github.io/website/"
+  title: Test blog
+  date: '2017-03-28'
+  content: Hello
+  excerpt: Hello
 
 #-------------------------------
 # Colophon
