@@ -5,17 +5,17 @@ background: Hypercubeteal
 background-align: bg-shape-center
 ---
 
+<!-- blog -->
 <section class="section">
   <div class="container">
     <div class="row">
       {% for post in site.posts %}
       {% include post.html %}
-      {{ post.excerpt }}
       {% endfor %}
     </div>
   </div>
 </section>
-
+<!-- /blog -->
 
 {% for post in site.posts %}
 <section class="section">
