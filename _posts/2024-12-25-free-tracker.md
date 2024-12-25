@@ -2,7 +2,7 @@
 layout: post
 title:  Free 2025 Writing Submissions Tracker
 date:   2024-12-25 18:05:55 +0300
-image:  /assets/images/blog/post-
+image:  /assets/images/blog/tracker.PNG
 author: Abby Nicole Yee
 tags:   freebies, gift, tracker
 ---
