@@ -37,6 +37,12 @@ works-home-items:
     url: "highlights#hawflakes"
 
 #-------------------------------
+# Blog Section
+posts:
+  - image : "assets/images/blog/tracker.PNG"
+    url: "https://abbynicoleyee.github.io/website/post2
+
+#-------------------------------
 # Writing Page
 
 writing-label:
