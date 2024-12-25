@@ -8,13 +8,13 @@
       </div>
     </div>
     <div class="row">
-      {% for item in site.data.settings.works-home-items %}
+      {% for i in site.data.settings.works-home-items %}
       <div class="col-lg-4 col-6 mb-4">
         <div class="position-relative rounded hover-wrapper">
-          <img src="{{ site.baseurl }}/{{ item.image }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+          <img src="{{ site.baseurl }}/{{ i.image }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
             <div class="hover-content">
-              <a class="btn btn-light btn-sm" href="{{ item.url }}">view</a>
+              <a class="btn btn-light btn-sm" href="{{ i.url }}">view</a>
             </div>
           </div>
         </div>
