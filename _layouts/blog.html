@@ -1,0 +1,18 @@
+---
+layout: default
+title: Blog
+background: Hypercubeteal
+background-align: bg-shape-center
+---
+
+<!-- blog -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      {% for post in site.posts %}
+      {% include post.html %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- /blog -->
