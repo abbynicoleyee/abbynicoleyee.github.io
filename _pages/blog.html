@@ -22,10 +22,10 @@ background-align: bg-shape-center
     <div class="row">
       <div class="col-lg-12">
         <h3 class="font-tertiary mb-5">{{ post.title | escape }}</h3>
-        <p class="font-secondary">Published on {{ post.date | date: '%b %d, %Y' }} by <span class="text-primary">{{ post.author }}</span
-            class="text-primary"> on {% for tag in post.tags %}<span>{{ tag }} </span>{% endfor %}</p>
+        <p class="font-secondary">Published on {{ posts.date | date: '%b %d, %Y' }} by <span class="text-primary">{{ posts.author }}</span
+            class="text-primary"> on {% for tag in posts.tags %}<span>{{ tag }} </span>{% endfor %}</p>
         <div class="content">
-          <img src="{{post.image | relative_url }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{post.title}}">
+          <img src="{{posts.image | relative_url }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{posts.title}}">
           {{ content }}
         </div>
       </div>
