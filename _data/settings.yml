@@ -26,7 +26,7 @@ menu:
 
 # Highlights Home Section
 works-home-items:
-  - image : "assets/images/clarkesworld.JPG"
+  - image : "assets/images/clarkesworld.PNG"
     url: "highlights#clarkesworld"
 
   - image : "assets/images/panicattack.PNG"
