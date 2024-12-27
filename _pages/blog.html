@@ -10,28 +10,9 @@ background-align: bg-shape-center
   <div class="container">
     <div class="row">
       {% for post in site.posts %}
-      {% include post %}
+      {% include post.html %}
       {% endfor %}
     </div>
   </div>
 </section>
 <!-- /blog -->
-
-<section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h3 class="font-tertiary mb-5">{{ post.title | escape }}</h3>
-        <p class="font-secondary">Published on {{ posts.date | date: '%b %d, %Y' }} by <span class="text-primary">{{ posts.author }}</span
-            class="text-primary"> on {% for tag in posts.tags %}<span>{{ tag }} </span>{% endfor %}</p>
-        <div class="content">
-          <img src="{{posts.image | relative_url }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{posts.title}}">
-          {{ content }}
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-
