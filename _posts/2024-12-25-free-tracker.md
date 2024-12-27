@@ -15,4 +15,4 @@ So I created a free customizable writing submissions tracker in Google Sheets.
 
 Make a copy and modify like you would. 
 
-Happy Holidays! 
+Happy Holidays!  
