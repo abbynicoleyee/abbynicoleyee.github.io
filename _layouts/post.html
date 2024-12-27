@@ -2,17 +2,15 @@
 layout: default
 ---
 
-
 <section class="section">
   <div class="container">
-    <div class="row mb-5">
+    <div class="row">
       <div class="col-lg-12">
-        <h2 class="font-tertiary">{{ posts.title | escape }}</h2>
-        <p class="font-tertiary">Published on {{ posts.date | date: '%b %d, %Y' }} in {% for tag in posts.tags %}<span>{{ tag }}</span>{% endfor %}.</p>
-      </div>
-      </div><div class="row">
-        <div class="col-lg-12">
+        <h3 class="font-tertiary mb-5">{{ page.title | escape }}</h3>
+        <p class="font-secondary">Published on {{ page.date | date: '%b %d, %Y' }} by <span class="text-primary">{{ page.author }}</span
+            class="text-primary"> on {% for tag in page.tags %}<span>{{ tag }} </span>{% endfor %}</p>
         <div class="content">
+          <img src="{{page.image | relative_url }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{page.title}}">
           {{ content }}
         </div>
       </div>
@@ -27,10 +25,10 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h3 class="section-title">Similar Posts</h3>
+        <h2 class="section-title">Similar Stories</h2>
       </div>
       {% for post in site.posts offset:0 limit:3 %}
-      {% include post %}
+      {% include post.html %}
       {% endfor %}
     </div>
   </div>
