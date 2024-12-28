@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Abby Nicole Yee
-page.comments: true
+comments: true
 description: Personal website of writer, composer, and artist Abby Nicole Yee
 copyright: Copyright &copy; 2024 Designed by [Hal Y. Zhang](https://abbynicoleyee.github.io/website/design)
 
