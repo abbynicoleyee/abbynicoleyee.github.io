@@ -3,6 +3,7 @@ url: "https://abbynicoleyee.github.io" # the base hostname & protocol for your s
 # Build settings
 markdown: kramdown
 permalink: pretty
+comments: true
 plugins:
   - jekyll-sitemap
 compress_html:
