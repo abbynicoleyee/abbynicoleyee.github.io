@@ -22,7 +22,7 @@ comments: true
     <div class="row">
       <div class="col-lg-12">
         <p class="font-tertiary">Published on {{ page.date | date: '%b %d, %Y' }} by <a href="https://abbynicoleyee.github.io/website/about">Abby Nicole Yee</a></p>
-        <p class="article-date">{{ page.date | date: '%B %d, %Y' }}{% if page.comments == true %} | <a href="{{ site.url }}{{ page.url }}#disqus_thread" class="disqus-comment-count">Comments</a>{% endif %}</p>
+        <p class="article-date">{{ page.date | date: '%B %d, %Y' }}{% if comments == true %} | <a href="{{ site.url }}{{ page.url }}#disqus_thread" class="disqus-comment-count">Comments</a>{% endif %}</p>
         <div class="content">
           <img src="{{page.image | relative_url }}" class="img-fluid rounded float-left mr-5 mb-4" alt="{{page.title}}">
           {{ content }}
