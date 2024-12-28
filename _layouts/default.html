@@ -17,7 +17,7 @@ comments: true
   {% endif %}
 
   {% include footer.html %}
-  {% if page.comments %}<div id="disqus_thread">
+  {% if page.comments %}<div id="disqus_thread"></div>
 <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
@@ -25,7 +25,7 @@ comments: true
   
     var disqus_config = function () {
     this.page.url = https://abbynicoleyee.github.io/website;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = abbynicoleyee-github-io-website; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.identifier = {{ page.url }}; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
     
     (function() { // DON'T EDIT BELOW THIS LINE
@@ -36,7 +36,7 @@ comments: true
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-  <script id="dsq-count-scr" src="//abbynicoleyee-github-io-website.disqus.com/count.js" async></script></div>{% endif %}
+  <script id="dsq-count-scr" src="//abbynicoleyee-github-io-website.disqus.com/count.js" async></script>{% endif %}
 
 </body>
 
