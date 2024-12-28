@@ -5,6 +5,7 @@ title: Abby Nicole Yee
 description: Personal website of writer, composer, and artist Abby Nicole Yee
 copyright: Copyright &copy; 2024 Designed by [Hal Y. Zhang](https://abbynicoleyee.github.io/website/design)
 comments: true
+disqus: true
 
 menu:
 - {name: About/Contact, link: 'https://abbynicoleyee.github.io/website/about'}
