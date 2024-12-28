@@ -22,7 +22,7 @@ google-analytics: G-57K80YFKD6
 
 # Comment Section (Disqus)
 
-disqus-identifier: {{ page.url }}#disqus_thread
+disqus-identifier: {{site.url}}{{ page.url }}#disqus_thread
 #-------------------------------
 # Hero Section
 # hero:
