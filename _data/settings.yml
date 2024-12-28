@@ -22,7 +22,7 @@ google-analytics: G-57K80YFKD6
 
 # Comment Section (Disqus)
 
-disqus-identifier: abbynicoleyee
+disqus-identifier: {{ page.url }}
 #-------------------------------
 # Hero Section
 # hero:
