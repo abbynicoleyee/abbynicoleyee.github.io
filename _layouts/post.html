@@ -31,7 +31,8 @@ comments: true
   </div>
 </section>
 
-{% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} <div id="disqus_thread"></div>
+{% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
+{% if page.comments %} <div id="disqus_thread"></div>
 <script>
     /**
     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
