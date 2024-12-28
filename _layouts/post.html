@@ -1,6 +1,7 @@
 ---
 layout: default
 comments: true
+disqus: true
 ---
 
 <!-- page title -->
@@ -31,7 +32,7 @@ comments: true
   </div>
 </section>
 
-
+{% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
 
 <!-- blog -->
 <section class="section">
