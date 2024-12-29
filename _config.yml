@@ -17,11 +17,6 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename/
-   - scope: 
-       path: "" 
-       type: "posts" 
-       values: 
-         comments: true
  
 include:
   - _pages
