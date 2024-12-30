@@ -6,3 +6,4 @@ gem "webrick", "~> 1.7"
 gem "liquid", "~> 4.0"
 gem "github-pages", "~> 215", group: :jekyll_plugins
 gem "terminal-table", "~> 1.4"
+gem 'jekyll-disqus-plugin'
