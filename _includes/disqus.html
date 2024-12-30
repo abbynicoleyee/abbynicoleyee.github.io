@@ -3,11 +3,11 @@
     <div class="row">
       <div class="col-lg-12">
         <article>
-        <div class="comment">        
+        <div class="comments">        
 <script>
     
     var disqus_config = function () {
-        this.page.url = '{{ page.url | absolute_url }}';
+        this.page.url = '{{ post.url | absolute_url }}';
         this.page.identifier = '{{ post.url | relative_url }}';
 
     };
@@ -21,7 +21,7 @@
         (d.head || d.body).appendChild(s);
     })();
 </script>  
-        {{ comment }}
+        {{ comments }}
         </div>
         </article>
   
