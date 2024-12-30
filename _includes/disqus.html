@@ -8,8 +8,11 @@
         </div>
   <script src={{ "/js/jquery.min.js" | prepend: site.baseurl }}></script>
   <script type="text/javascript">
-  var disqus_shortname  = '{{ site.disqus.shortname }}';
-    
+    var disqus_config = function () {
+        var disqus_shortname  = '{{ site.disqus.shortname }}';
+  this.page.url = '{{ site.page.url }}';
+  
+};
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = "https://" + site.disqus_shortname + ".disqus.com/embed.js";
