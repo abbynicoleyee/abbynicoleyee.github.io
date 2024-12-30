@@ -4,7 +4,7 @@
       <div class="col-lg-12">
          {% if page.comments != false %}
         <div class="comments">
-        <div id="disqus_thread"></div>
+        <div id="disqus_thread">
   <script type="text/javascript">
   var disqus_shortname  = '{{ site.disqus.shortname }}';
   var disqus_identifier = '{{ page.url }}';
@@ -17,8 +17,9 @@
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-        {% endif %}
         </div>
+         </div>
+        {% endif %}
       </div>
     </div>
   </div>
