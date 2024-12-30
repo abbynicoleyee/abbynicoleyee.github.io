@@ -33,21 +33,36 @@ disqus: true
 </section>
 
 
-<section>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-          <div class="comment">
-        <div class="disqus_thread">        
-   <script src = "https://abbynicoleyee-github-io-website.disqus.com/embed.js"></script>
-        {{ comment }}
-        </div>
-          </div>
+<div id="disqus_thread"></div>
+<script>
   
-      </div>
-    </div>
-  </div>
-</section>
+    var disqus_config = function () {
+        // Replace PAGE_URL with your page's canonical URL variable
+        this.page.url = {{ page.url | absolute_url }};  
+        
+        // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        this.page.identifier = {{ post.url | relative_url }}; 
+    };
+    
+    
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement('script');
+        
+        // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        s.src = 'https://abbynicoleyee-github-io-website.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+<noscript>
+    Please enable JavaScript to view the 
+    <a href="https://disqus.com/?ref_noscript" rel="nofollow">
+        comments powered by Disqus.
+    </a>
+</noscript>
+
 
   <script src="https://utteranc.es/client.js"
         repo="abbynicoleyee/website"
