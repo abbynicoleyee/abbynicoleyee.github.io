@@ -3,9 +3,9 @@ url: "https://abbynicoleyee.github.io" # the base hostname & protocol for your s
 # Build settings
 markdown: kramdown
 permalink: pretty
-disqus_shortname: abbynicoleyee-github-io-website
+disqus_shortname: 'abbynicoleyee-github-io-website'
 disqus:
-  shortname: abbynicoleyee-github-io-website
+  shortname: 'abbynicoleyee-github-io-website'
 comments: true
 plugins:
   - jekyll-sitemap
