@@ -9,10 +9,6 @@ disqus:
 comments: true
 jekyll-disqus:
   shortname:'abbynicoleyee-github-io-website' 
-  post_selector: 'include.post'
-  ui:
-    layouts:
-    - 'post'
 plugins:
   - jekyll-sitemap
   - jekyll-disqus-plugin
