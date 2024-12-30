@@ -32,6 +32,9 @@ disqus: true
   </div>
 </section>
 
+{% if site.data.settings.disqus-identifier %} {% include disqus-comments.html %} {% endif %}
+
+
 <script src="https://utteranc.es/client.js"
         repo="abbynicoleyee/website"
         issue-term="pathname"
