@@ -32,7 +32,39 @@ disqus: true
   </div>
 </section>
 
+
 {% include disqus.html %}
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <article>
+        <div class="comments">        
+<script>
+    
+    var disqus_config = function () {
+        this.page.url = '{{ site.page.url | absolute_url }}';
+        this.page.identifier = '{{ site.page.url | relative_url }}';
+
+    };
+    
+    
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement('script');
+                s.src = 'https://abbynicoleyee-github-io-website.disqus.com/embed.js';
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>  
+        {{ comments }}
+        </div>
+        </article>
+  
+      </div>
+    </div>
+  </div>
+</section>
 
   <script src="https://utteranc.es/client.js"
         repo="abbynicoleyee/website"
