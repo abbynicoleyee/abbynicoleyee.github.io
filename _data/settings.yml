@@ -24,6 +24,8 @@ google-analytics: G-57K80YFKD6
 # Comment Section (Disqus)
 
 disqus-identifier: abbynicoleyee-github-io-website
+disqus:
+  shortname: abbynicoleyee-github-io-website
 
 #-------------------------------
 # Hero Section
