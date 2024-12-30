@@ -8,7 +8,7 @@ disqus:
   shortname: abbynicoleyee-github-io-website
 comments: true
 jekyll-disqus:
-  shortname:
+  shortname:'abbynicoleyee-github-io-website'
   id_prefix: 
   post_selector: 'include.post'
   ui:
