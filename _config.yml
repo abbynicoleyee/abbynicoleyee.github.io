@@ -7,8 +7,19 @@ disqus_shortname: 'abbynicoleyee-github-io-website'
 disqus:
   shortname: abbynicoleyee-github-io-website
 comments: true
+jekyll-disqus:
+  shortname:
+  id_prefix: 
+  post_selector: 'include.post'
+  ui:
+    layouts:
+    - 'post'
+  counter:
+    layouts:
+    - 'all'
 plugins:
   - jekyll-sitemap
+  - jekyll-disqus-plugin
 compress_html:
   clippings: all
   comments: all
