@@ -33,7 +33,7 @@ disqus: true
 </section>
 
 
-<div id="disqus_thread"></div>
+<div id="disqus_thread">
 <script>
     (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
         var d = document, s = d.createElement('script');
@@ -42,7 +42,6 @@ disqus: true
         (d.head || d.body).appendChild(s);
     })();
 </script>
-{{ disqus_thread }}
 
 <noscript>
     Please enable JavaScript to view the 
@@ -50,6 +49,7 @@ disqus: true
         comments powered by Disqus.
     </a>
 </noscript>
+</div>
 
 
   <script src="https://utteranc.es/client.js"
