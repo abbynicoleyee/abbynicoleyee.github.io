@@ -1,4 +1,4 @@
-url: "https://abbynicoleyee.github.io/website/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://abbynicoleyee.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
