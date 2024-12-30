@@ -13,9 +13,6 @@ jekyll-disqus:
   ui:
     layouts:
     - 'post'
-  counter:
-    layouts:
-    - 'all'
 plugins:
   - jekyll-sitemap
   - jekyll-disqus-plugin
