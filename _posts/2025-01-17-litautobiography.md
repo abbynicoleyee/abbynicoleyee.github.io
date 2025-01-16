@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Smart People Problems (A Short Literary Autobiography)
-date:   2025-1-25 
+date:   2025-01-17
 comments: true
 disqus: true
 image:  /assets/images/blog/lobotomy.PNG
