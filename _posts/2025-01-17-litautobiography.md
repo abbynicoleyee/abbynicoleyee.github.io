@@ -6,7 +6,7 @@ comments: true
 disqus: true
 image:  /assets/images/blog/lobotomy.PNG
 author: Abby Nicole Yee
-tags:   literary autobiography, psychiatry, psychology, antipsychotics
+tags:   literary, autobiography, psychiatry, psychology, antipsychotics
 ---
 
 "I have lost my mind by spells and I do not dare think what I may do in those spells. May God forgive me and I hope everyone else will forgive me even if they cannot understand. My position is too awful to endure and nobody realizes it. What an end to a life in which I tried always to do my best." —L.M. Montgomery
