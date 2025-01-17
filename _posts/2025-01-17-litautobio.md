@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  Free 2025 Writing Submissions Tracker
-date:   2024-12-26
+title:  Smart People Problems (A Short Literary Autobiography)
 comments: true
 disqus: true
-image:  /assets/images/blog/tracker.png
+image:  /assets/images/blog/lobotomy.PNG
 author: Abby Nicole Yee
-tags:   freebies, gift, tracker
+tags:   psychiatry, antipsychotics, brain
 ---
 
 "I have lost my mind by spells and I do not dare think what I may do in those spells. May God forgive me and I hope everyone else will forgive me even if they cannot understand. My position is too awful to endure and nobody realizes it. What an end to a life in which I tried always to do my best." —L.M. Montgomery
